@@ -1,0 +1,17 @@
+Unable to find image 'quay.io/biocontainers/gawk:5.1.0' locally
+5.1.0: Pulling from biocontainers/gawk
+a3ed95caeb02: Already exists
+77c6c00e8b61: Already exists
+3aaade50789a: Already exists
+00cf8b9f3d2a: Already exists
+7ff999a2256f: Already exists
+d2ba336f2e44: Already exists
+dfda3e01f2b6: Already exists
+a3ed95caeb02: Already exists
+10c3bb32200b: Already exists
+641722cf6d7d: Pulling fs layer
+641722cf6d7d: Download complete
+641722cf6d7d: Pull complete
+Digest: sha256:9d300f3d0a35fb059e3952ce01b3b108d595d0a9e943f156dce7c078bb8617aa
+Status: Image is up to date for quay.io/biocontainers/gawk:5.1.0
+/home/igor/CRG/BicD2/work/89/fcc3f0b1b2726dacde657b91b28515/.command.sh: line 4: python3: command not found

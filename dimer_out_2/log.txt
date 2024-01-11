@@ -1,0 +1,27 @@
+2023-03-18 14:43:18,170 Running colabfold 1.3.0 (e7be4097f11e62eae13d798436df41768a3953e9)
+2023-03-18 14:43:19,128 Unable to initialize backend 'tpu_driver': NOT_FOUND: Unable to find driver in registry given worker: 
+2023-03-18 14:43:25,450 Unable to initialize backend 'rocm': NOT_FOUND: Could not find registered platform with name: "rocm". Available platform names are: Host Interpreter CUDA
+2023-03-18 14:43:25,451 Unable to initialize backend 'tpu': module 'jaxlib.xla_extension' has no attribute 'get_tpu_client'
+2023-03-18 14:43:25,452 Unable to initialize backend 'plugin': xla_extension has no attributes named get_plugin_device_client. Compile TensorFlow with //tensorflow/compiler/xla/python:enable_plugin_device set to true (defaults to false) to enable this.
+2023-03-18 14:43:25,478 --max-msa can not be used in combination with AlphaFold2-multimer (--max-msa ignored)
+2023-03-18 14:43:26,116 generated new fontManager
+2023-03-18 14:43:29,754 Found 8 citations for tools or databases
+2023-03-18 14:43:37,005 Query 1/1: BicD2_NTD_dimer_T1 (length 800)
+2023-03-18 14:43:43,820 Sequence 0 found templates: ['6pse_A', '6pse_B', '6pse_A', '6pse_B']
+2023-03-18 14:43:44,240 Running model_3
+2023-03-18 14:49:40,562 model_3 took 356.3s (3 recycles) with pLDDT 66.9, ptmscore 0.394 and iptm 0.391
+2023-03-18 16:34:34,117 Relaxation took 6274.3s
+2023-03-18 16:34:34,138 Running model_4
+2023-03-18 16:39:42,628 model_4 took 308.5s (3 recycles) with pLDDT 69.6, ptmscore 0.402 and iptm 0.398
+2023-03-18 17:26:58,965 Relaxation took 2818.6s
+2023-03-18 17:26:58,978 Running model_5
+2023-03-18 17:32:07,378 model_5 took 308.4s (3 recycles) with pLDDT 72.2, ptmscore 0.394 and iptm 0.39
+2023-03-18 22:05:49,606 Relaxation took 16404.4s
+2023-03-18 22:05:49,618 Running model_1
+2023-03-18 22:11:22,893 model_1 took 333.3s (3 recycles) with pLDDT 71, ptmscore 0.367 and iptm 0.362
+2023-03-19 02:49:54,296 Relaxation took 16693.6s
+2023-03-19 02:49:54,310 Running model_2
+2023-03-19 02:55:02,604 model_2 took 308.3s (3 recycles) with pLDDT 67.3, ptmscore 0.393 and iptm 0.389
+2023-03-19 08:55:21,340 Relaxation took 21600.9s
+2023-03-19 08:55:21,353 reranking models by multimer
+2023-03-19 08:55:27,542 Done

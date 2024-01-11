@@ -1,0 +1,30 @@
+2023-02-16 14:23:41,535 Running colabfold 1.3.0 (e7be4097f11e62eae13d798436df41768a3953e9)
+2023-02-16 14:23:44,460 Unable to initialize backend 'tpu_driver': NOT_FOUND: Unable to find driver in registry given worker: 
+2023-02-16 14:23:51,964 Unable to initialize backend 'rocm': NOT_FOUND: Could not find registered platform with name: "rocm". Available platform names are: Interpreter Host CUDA
+2023-02-16 14:23:51,965 Unable to initialize backend 'tpu': module 'jaxlib.xla_extension' has no attribute 'get_tpu_client'
+2023-02-16 14:23:51,965 Unable to initialize backend 'plugin': xla_extension has no attributes named get_plugin_device_client. Compile TensorFlow with //tensorflow/compiler/xla/python:enable_plugin_device set to true (defaults to false) to enable this.
+2023-02-16 14:23:58,226 generated new fontManager
+2023-02-16 14:24:22,786 Found 8 citations for tools or databases
+2023-02-16 14:24:55,577 Query 1/1: sp_Q8TD16_BICD2_HUMAN_Protein_bicaudal_D_homolog_2_OS_Homo_sapiens_OX_9606_GN_BICD2_PE_1_SV_1 (length 824)
+2023-02-16 14:24:56,613 Sleeping for 9s. Reason: PENDING
+2023-02-16 14:25:06,622 Sleeping for 5s. Reason: RUNNING
+2023-02-16 14:25:13,563 Sleeping for 10s. Reason: RUNNING
+2023-02-16 14:25:24,502 Sleeping for 8s. Reason: RUNNING
+2023-02-16 14:27:58,051 Sequence 0 found templates: ['6f1u_X', '4ytd_B', '6pse_A', '6pse_B']
+2023-02-16 14:28:19,163 Running model_3
+2023-02-16 14:38:29,224 model_3 took 600.8s (3 recycles) with pLDDT 76.8 and ptmscore 0.397
+2023-02-16 19:32:25,067 Relaxation took 17609.6s
+2023-02-16 19:32:29,266 Running model_4
+2023-02-16 19:41:04,902 model_4 took 508.8s (3 recycles) with pLDDT 75.7 and ptmscore 0.387
+2023-02-16 20:05:30,971 Relaxation took 1440.4s
+2023-02-16 20:05:33,813 Running model_5
+2023-02-16 20:14:19,316 model_5 took 518.5s (3 recycles) with pLDDT 76.1 and ptmscore 0.304
+2023-02-16 21:11:13,466 Relaxation took 3391.4s
+2023-02-16 21:11:18,741 Running model_1
+2023-02-16 21:21:55,280 model_1 took 629.6s (3 recycles) with pLDDT 76.4 and ptmscore 0.293
+2023-02-17 02:46:24,839 Relaxation took 19448.8s
+2023-02-17 02:46:27,516 Running model_2
+2023-02-17 02:55:30,367 model_2 took 535.9s (3 recycles) with pLDDT 78.1 and ptmscore 0.284
+2023-02-17 03:18:22,680 Relaxation took 1348.0s
+2023-02-17 03:18:26,477 reranking models by plddt
+2023-02-17 03:20:03,439 Done

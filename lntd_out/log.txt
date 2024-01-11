@@ -1,0 +1,27 @@
+2023-04-21 12:00:09,290 Running colabfold 1.3.0 (e7be4097f11e62eae13d798436df41768a3953e9)
+2023-04-21 12:00:10,378 Unable to initialize backend 'tpu_driver': NOT_FOUND: Unable to find driver in registry given worker: 
+2023-04-21 12:00:17,320 Unable to initialize backend 'rocm': NOT_FOUND: Could not find registered platform with name: "rocm". Available platform names are: CUDA Interpreter Host
+2023-04-21 12:00:17,321 Unable to initialize backend 'tpu': module 'jaxlib.xla_extension' has no attribute 'get_tpu_client'
+2023-04-21 12:00:17,321 Unable to initialize backend 'plugin': xla_extension has no attributes named get_plugin_device_client. Compile TensorFlow with //tensorflow/compiler/xla/python:enable_plugin_device set to true (defaults to false) to enable this.
+2023-04-21 12:00:18,002 generated new fontManager
+2023-04-21 12:00:21,923 Found 8 citations for tools or databases
+2023-04-21 12:00:27,506 Query 1/1: sp_Q8TD16.1_BICD2_HUMAN_1-270_RecName__Full_Protein_bicaudal_D_homolog_2__Short_Bic-D_2 (length 270)
+2023-04-21 12:00:28,549 Sleeping for 8s. Reason: PENDING
+2023-04-21 12:00:43,758 Sequence 0 found templates: ['6pse_A', '6pse_B', '6pse_A', '6pse_B']
+2023-04-21 12:00:43,907 Running model_3
+2023-04-21 12:02:24,545 model_3 took 96.3s (3 recycles) with pLDDT 90.2 and ptmscore 0.375
+2023-04-21 12:04:56,765 Relaxation took 145.1s
+2023-04-21 12:04:56,773 Running model_4
+2023-04-21 12:05:55,106 model_4 took 56.0s (3 recycles) with pLDDT 90.4 and ptmscore 0.424
+2023-04-21 12:08:25,882 Relaxation took 144.5s
+2023-04-21 12:08:25,891 Running model_5
+2023-04-21 12:09:24,124 model_5 took 55.9s (3 recycles) with pLDDT 90.9 and ptmscore 0.426
+2023-04-21 12:11:47,403 Relaxation took 136.9s
+2023-04-21 12:11:47,411 Running model_1
+2023-04-21 12:13:57,246 model_1 took 127.3s (3 recycles) with pLDDT 89.9 and ptmscore 0.374
+2023-04-21 12:16:20,340 Relaxation took 136.8s
+2023-04-21 12:16:20,349 Running model_2
+2023-04-21 12:17:20,981 model_2 took 57.7s (3 recycles) with pLDDT 90.3 and ptmscore 0.379
+2023-04-21 12:19:48,616 Relaxation took 141.1s
+2023-04-21 12:19:48,627 reranking models by plddt
+2023-04-21 12:19:50,706 Done

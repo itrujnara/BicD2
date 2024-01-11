@@ -1,0 +1,15 @@
+Nov-03 11:03:53.847 [main] DEBUG nextflow.cli.Launcher - $> nextflow run nf-core/proteinfold -profile test,docker --outdir test_out
+Nov-03 11:03:53.891 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 21.10.6
+Nov-03 11:03:53.916 [main] INFO  nextflow.cli.CmdRun - Pulling nf-core/proteinfold ...
+Nov-03 11:03:53.917 [main] DEBUG nextflow.scm.RepositoryProvider - Request [credentials -:-] -> https://api.github.com/repos/nf-core/proteinfold/contents/nextflow.config
+Nov-03 11:03:56.406 [main] DEBUG nextflow.scm.RepositoryProvider - Request [credentials -:-] -> https://api.github.com/repos/nf-core/proteinfold/contents/main.nf
+Nov-03 11:03:56.626 [main] DEBUG nextflow.scm.RepositoryProvider - Request [credentials -:-] -> https://api.github.com/repos/nf-core/proteinfold
+Nov-03 11:03:56.846 [main] DEBUG nextflow.scm.AssetManager - Pulling nf-core/proteinfold -- Using remote clone url: https://github.com/nf-core/proteinfold.git
+Nov-03 11:03:59.207 [main] INFO  nextflow.cli.CmdRun -  downloaded from https://github.com/nf-core/proteinfold.git
+Nov-03 11:03:59.212 [main] DEBUG nextflow.cli.Launcher - Operation aborted
+nextflow.exception.AbortOperationException: Project `nf-core/proteinfold` currently is sticked on revision: dev -- you need to specify explicitly a revision with the option `-r` to use it
+	at nextflow.scm.AssetManager.checkout(AssetManager.groovy:914)
+	at nextflow.cli.CmdRun.getScriptFile(CmdRun.groovy:381)
+	at nextflow.cli.CmdRun.run(CmdRun.groovy:264)
+	at nextflow.cli.Launcher.run(Launcher.groovy:480)
+	at nextflow.cli.Launcher.main(Launcher.groovy:639)

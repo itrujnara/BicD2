@@ -1,0 +1,25 @@
+id: "nf-core-proteinfold-methods-description"
+description: "Suggested text and references to use when describing pipeline usage within the methods section of a publication."
+section_name: "nf-core/proteinfold Methods Description"
+section_href: "https://github.com/nf-core/proteinfold"
+plot_type: "html"
+## TODO nf-core: Update the HTML below to your prefered methods description, e.g. add publication citation for this pipeline
+## You inject any metadata in the Nextflow '[start:2022-11-03T11:05:27.641419+01:00, projectDir:/home/igor/.nextflow/assets/nf-core/proteinfold, manifest:nextflow.config.Manifest@57e6f449, complete:null, profile:test,docker, homeDir:/home/igor, workDir:/home/igor/CRG/BicD2/work, container:[:], commitId:def0fcaa362a4164b1fa34338ce1219d8901a40c, errorMessage:null, repository:https://github.com/nf-core/proteinfold, containerEngine:docker, scriptFile:/home/igor/.nextflow/assets/nf-core/proteinfold/main.nf, userName:igor, launchDir:/home/igor/CRG/BicD2, runName:shrivelled_majorana, configFiles:[/home/igor/.nextflow/assets/nf-core/proteinfold/nextflow.config], sessionId:0ef8c745-87bd-442f-8fdf-796652bcdd80, errorReport:null, workflowStats:WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ], scriptId:4ef0649189abf392616d7a784ba0b970, revision:dev, exitStatus:null, commandLine:nextflow run nf-core/proteinfold -r dev -profile test,docker --outdir test_out, stubRun:false, nextflow:nextflow.NextflowMeta(version:21.10.6, build:5660, timestamp:21-12-2021 16:55 UTC, preview:nextflow.NextflowMeta$Preview@34065642, enable:nextflow.NextflowMeta$Features@51e1e058, dsl2:true, strictModeEnabled:false, dsl2Final:true), stats:WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ], resume:false, success:false, projectName:nf-core/proteinfold, scriptName:main.nf, duration:null]' object
+data: |
+  <h4>Methods</h4>
+  <p>Data was processed using nf-core/proteinfold v1.0dev  of the nf-core collection of workflows (<a href="https://doi.org/10.1038/s41587-020-0439-x">Ewels <em>et al.</em>, 2020</a>).</p>
+  <p>The pipeline was executed with Nextflow v21.10.6 (<a href="https://doi.org/10.1038/nbt.3820">Di Tommaso <em>et al.</em>, 2017</a>) with the following command:</p>
+  <pre><code>nextflow run nf-core/proteinfold -r dev -profile test,docker --outdir test_out</code></pre>
+  <h4>References</h4>
+  <ul>
+    <li>Di Tommaso, P., Chatzou, M., Floden, E. W., Barja, P. P., Palumbo, E., & Notredame, C. (2017). Nextflow enables reproducible computational workflows. Nature Biotechnology, 35(4), 316-319. <a href="https://doi.org/10.1038/nbt.3820">https://doi.org/10.1038/nbt.3820</a></li>
+    <li>Ewels, P. A., Peltzer, A., Fillinger, S., Patel, H., Alneberg, J., Wilm, A., Garcia, M. U., Di Tommaso, P., & Nahnsen, S. (2020). The nf-core framework for community-curated bioinformatics pipelines. Nature Biotechnology, 38(3), 276-278. <a href="https://doi.org/10.1038/s41587-020-0439-x">https://doi.org/10.1038/s41587-020-0439-x</a></li>
+  </ul>
+  <div class="alert alert-info">
+    <h5>Notes:</h5>
+    <ul>
+      <li>If available, make sure to update the text to include the Zenodo DOI of version of the pipeline used. </li>
+      <li>The command above does not include parameters contained in any configs or profiles that may have been used. Ensure the config file is also uploaded with your publication!</li>
+      <li>You should also cite all software used within this run. Check the "Software Versions" of this report to get version information.</li>
+    </ul>
+  </div>

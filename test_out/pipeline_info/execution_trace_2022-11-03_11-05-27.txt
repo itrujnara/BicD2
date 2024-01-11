@@ -1,0 +1,4 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+1	27/793c8e	54415	NFCORE_PROTEINFOLD:ALPHAFOLD2:INPUT_CHECK:SAMPLESHEET_CHECK (samplesheet.csv)	COMPLETED	0	2022-11-03 11:05:30.697	1.7s	0ms	61.5%	7.5 MB	30.6 MB	656.3 KB	613 B
+3	ce/8470a3	54722	NFCORE_PROTEINFOLD:ALPHAFOLD2:RUN_AF2 ([sequence:T1026_T1, fasta:https://raw.githubusercontent.com/JoseEspinosa/test-datasets/proteinfold/testdata/sequences/T1026.fasta])	FAILED	127	2022-11-03 11:05:33.400	14.1s	14.1s	-	-	-	-	-
+2	89/fcc3f0	54684	NFCORE_PROTEINFOLD:ALPHAFOLD2:RUN_AF2 ([sequence:T1024_T1, fasta:https://raw.githubusercontent.com/JoseEspinosa/test-datasets/proteinfold/testdata/sequences/T1024.fasta])	FAILED	127	2022-11-03 11:05:32.856	14.7s	14.6s	-	-	-	-	-

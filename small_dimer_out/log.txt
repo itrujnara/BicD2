@@ -1,0 +1,27 @@
+2023-04-27 11:36:32,963 Running colabfold 1.3.0 (e7be4097f11e62eae13d798436df41768a3953e9)
+2023-04-27 11:36:34,190 Unable to initialize backend 'tpu_driver': NOT_FOUND: Unable to find driver in registry given worker: 
+2023-04-27 11:36:41,249 Unable to initialize backend 'rocm': NOT_FOUND: Could not find registered platform with name: "rocm". Available platform names are: Interpreter Host CUDA
+2023-04-27 11:36:41,250 Unable to initialize backend 'tpu': module 'jaxlib.xla_extension' has no attribute 'get_tpu_client'
+2023-04-27 11:36:41,250 Unable to initialize backend 'plugin': xla_extension has no attributes named get_plugin_device_client. Compile TensorFlow with //tensorflow/compiler/xla/python:enable_plugin_device set to true (defaults to false) to enable this.
+2023-04-27 11:36:41,278 --max-msa can not be used in combination with AlphaFold2-multimer (--max-msa ignored)
+2023-04-27 11:36:41,966 generated new fontManager
+2023-04-27 11:36:46,329 Found 8 citations for tools or databases
+2023-04-27 11:36:53,844 Query 1/1: BicD2_sNTD_T1 (length 142)
+2023-04-27 11:36:56,508 Sequence 0 found no templates
+2023-04-27 11:36:56,650 Running model_3
+2023-04-27 11:37:45,177 model_3 took 48.5s (3 recycles) with pLDDT 89.6, ptmscore 0.751 and iptm 0.741
+2023-04-27 11:38:32,910 Relaxation took 43.6s
+2023-04-27 11:38:32,916 Running model_4
+2023-04-27 11:38:42,341 model_4 took 9.4s (3 recycles) with pLDDT 89, ptmscore 0.746 and iptm 0.73
+2023-04-27 11:39:16,824 Relaxation took 31.4s
+2023-04-27 11:39:16,830 Running model_5
+2023-04-27 11:39:26,269 model_5 took 9.4s (3 recycles) with pLDDT 90.9, ptmscore 0.752 and iptm 0.736
+2023-04-27 11:40:02,666 Relaxation took 33.1s
+2023-04-27 11:40:02,675 Running model_1
+2023-04-27 11:40:39,842 model_1 took 37.2s (3 recycles) with pLDDT 90.9, ptmscore 0.748 and iptm 0.735
+2023-04-27 11:41:16,745 Relaxation took 33.7s
+2023-04-27 11:41:16,751 Running model_2
+2023-04-27 11:41:26,215 model_2 took 9.5s (3 recycles) with pLDDT 90.1, ptmscore 0.749 and iptm 0.738
+2023-04-27 11:42:03,270 Relaxation took 33.8s
+2023-04-27 11:42:03,276 reranking models by multimer
+2023-04-27 11:42:04,864 Done
