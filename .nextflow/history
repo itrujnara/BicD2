@@ -1,1 +1,0 @@
-2022-11-03 11:05:27	21.1s	shrivelled_majorana	ERR	def0fcaa362a4164b1fa34338ce1219d8901a40c	0ef8c745-87bd-442f-8fdf-796652bcdd80	nextflow run nf-core/proteinfold -r dev -profile test,docker --outdir test_out
