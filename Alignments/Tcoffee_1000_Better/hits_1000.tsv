@@ -1,0 +1,1001 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	SP	Q8TD16	Protein bicaudal D homolog 2 OS=Homo sapiens OX=9606 GN=BICD2 PE=1 SV=1	Homo sapiens	824	4095	100.0	100.0	0.0
+2	SP	Q8TD16-2	Isoform 2 of Protein bicaudal D homolog 2 OS=Homo sapiens OX=9606 GN=BICD2	Homo sapiens	855	4092	99.9	100.0	0.0
+3	TR	H2PSP8	BICD cargo adaptor 2 OS=Pongo abelii OX=9601 GN=BICD2 PE=3 SV=1	Pongo abelii	824	4079	99.6	99.8	0.0
+4	TR	A0A8D2E9V2	BICD cargo adaptor 2 OS=Theropithecus gelada OX=9565 GN=BICD2 PE=3 SV=1	Theropithecus gelada	824	4064	99.2	99.3	0.0
+5	TR	A0A096P241	BICD cargo adaptor 2 OS=Papio anubis OX=9555 GN=BICD2 PE=3 SV=1	Papio anubis	824	4064	99.2	99.3	0.0
+6	TR	A0A2K5MUW1	BICD cargo adaptor 2 OS=Cercocebus atys OX=9531 GN=BICD2 PE=3 SV=1	Cercocebus atys	824	4064	99.2	99.3	0.0
+7	TR	A0A2K6Q004	BICD cargo adaptor 2 OS=Rhinopithecus roxellana OX=61622 GN=BICD2 PE=3 SV=1	Rhinopithecus roxellana	824	4062	99.2	99.3	0.0
+8	TR	A0A8I5NTK6	BICD cargo adaptor 2 OS=Papio anubis OX=9555 GN=BICD2 PE=3 SV=1	Papio anubis	855	4061	99.0	99.3	0.0
+9	TR	A0A2K5MV07	BICD cargo adaptor 2 OS=Cercocebus atys OX=9531 GN=BICD2 PE=3 SV=1	Cercocebus atys	855	4061	99.0	99.3	0.0
+10	TR	A0A2K6K764	BICD cargo adaptor 2 OS=Rhinopithecus bieti OX=61621 GN=BICD2 PE=3 SV=1	Rhinopithecus bieti	824	4059	99.0	99.3	0.0
+11	TR	A0A2K6PZY9	BICD cargo adaptor 2 OS=Rhinopithecus roxellana OX=61622 GN=BICD2 PE=3 SV=1	Rhinopithecus roxellana	855	4059	99.0	99.3	0.0
+12	TR	A0A0D9R4A5	BICD cargo adaptor 2 OS=Chlorocebus sabaeus OX=60711 GN=BICD2 PE=3 SV=1	Chlorocebus sabaeus	824	4058	99.0	99.2	0.0
+13	TR	A0A2K6K773	BICD cargo adaptor 2 OS=Rhinopithecus bieti OX=61621 GN=BICD2 PE=3 SV=1	Rhinopithecus bieti	855	4056	98.9	99.3	0.0
+14	TR	A0A2K6E714	BICD cargo adaptor 2 OS=Macaca nemestrina OX=9545 GN=BICD2 PE=3 SV=1	Macaca nemestrina	824	4054	98.8	99.0	0.0
+15	TR	A0A8C9LZU8	BICD cargo adaptor 2 OS=Piliocolobus tephrosceles OX=591936 GN=BICD2 PE=3 SV=1	Piliocolobus tephrosceles	824	4054	99.0	99.2	0.0
+16	TR	F6QN54	BICD cargo adaptor 2 OS=Macaca mulatta OX=9544 GN=BICD2 PE=2 SV=1	Macaca mulatta	824	4054	98.8	99.0	0.0
+17	TR	A0A2K6E709	BICD cargo adaptor 2 OS=Macaca nemestrina OX=9545 GN=BICD2 PE=3 SV=1	Macaca nemestrina	855	4051	98.7	99.0	0.0
+18	TR	A0A2K5E6H2	BICD cargo adaptor 2 OS=Aotus nancymaae OX=37293 GN=BICD2 PE=3 SV=1	Aotus nancymaae	823	4046	99.0	99.0	0.0
+19	TR	A0A2R9B6W5	BICD cargo adaptor 2 OS=Pan paniscus OX=9597 GN=BICD2 PE=3 SV=1	Pan paniscus	851	4045	99.2	99.3	0.0
+20	TR	A0A2K6PZY6	BICD cargo adaptor 2 OS=Rhinopithecus roxellana OX=61622 GN=BICD2 PE=3 SV=1	Rhinopithecus roxellana	849	4045	98.8	99.0	0.0
+21	TR	A0A2K5E6E7	BICD cargo adaptor 2 OS=Aotus nancymaae OX=37293 GN=BICD2 PE=3 SV=1	Aotus nancymaae	854	4043	98.9	99.0	0.0
+22	TR	A0A2K6K7A7	BICD cargo adaptor 2 OS=Rhinopithecus bieti OX=61621 GN=BICD2 PE=3 SV=1	Rhinopithecus bieti	849	4038	98.5	98.9	0.0
+23	TR	A0A2K5E631	BICD cargo adaptor 2 OS=Aotus nancymaae OX=37293 GN=BICD2 PE=3 SV=1	Aotus nancymaae	850	4038	99.0	99.0	0.0
+24	TR	A0A6J3GEW3	Protein bicaudal D homolog 2 isoform X2 OS=Sapajus apella OX=9515 GN=BICD2 PE=3 SV=1	Sapajus apella	823	4036	98.8	98.8	0.0
+25	TR	A0A2K5RC78	BICD cargo adaptor 2 OS=Cebus imitator OX=2715852 PE=3 SV=1	Cebus imitator	823	4035	98.7	98.8	0.0
+26	TR	A0A6J3GEG5	Protein bicaudal D homolog 2 isoform X1 OS=Sapajus apella OX=9515 GN=BICD2 PE=3 SV=1	Sapajus apella	854	4033	98.7	98.8	0.0
+27	TR	A0A2K5RC54	BICD cargo adaptor 2 OS=Cebus imitator OX=2715852 PE=3 SV=1	Cebus imitator	854	4032	98.5	98.8	0.0
+28	TR	A0A8J8XD79	BICD cargo adaptor 2 OS=Callithrix jacchus OX=9483 GN=BICD2 PE=3 SV=1	Callithrix jacchus	823	4015	98.4	98.5	0.0
+29	TR	A0A5F7ZWW2	BICD cargo adaptor 2 OS=Macaca mulatta OX=9544 GN=BICD2 PE=3 SV=1	Macaca mulatta	882	4013	95.5	95.9	0.0
+30	TR	A0A8I3XBE7	inositol-pentakisphosphate 2-kinase OS=Callithrix jacchus OX=9483 GN=BICD2 PE=3 SV=1	Callithrix jacchus	1286	4011	98.4	98.5	0.0
+31	TR	F7I792	BICD cargo adaptor 2 OS=Callithrix jacchus OX=9483 GN=BICD2 PE=3 SV=3	Callithrix jacchus	835	4011	98.4	98.5	0.0
+32	TR	A0A8C8ZD55	BICD cargo adaptor 2 OS=Prolemur simus OX=1328070 GN=BICD2 PE=3 SV=1	Prolemur simus	824	4005	97.6	98.3	0.0
+33	TR	A0A8C8ZC52	BICD cargo adaptor 2 OS=Prolemur simus OX=1328070 GN=BICD2 PE=3 SV=1	Prolemur simus	853	4002	97.5	98.3	0.0
+34	TR	A0A2K6ETP4	BICD cargo adaptor 2 OS=Propithecus coquereli OX=379532 GN=BICD2 PE=3 SV=1	Propithecus coquereli	824	3991	97.2	97.9	0.0
+35	TR	A0A2K6ETM8	BICD cargo adaptor 2 OS=Propithecus coquereli OX=379532 GN=BICD2 PE=3 SV=1	Propithecus coquereli	834	3991	97.2	97.9	0.0
+36	TR	A0A2K6ETP5	BICD cargo adaptor 2 OS=Propithecus coquereli OX=379532 GN=BICD2 PE=3 SV=1	Propithecus coquereli	853	3988	97.1	97.9	0.0
+37	TR	A0A2R9B954	BICD cargo adaptor 2 OS=Pan paniscus OX=9597 GN=BICD2 PE=3 SV=1	Pan paniscus	840	3977	97.8	98.1	0.0
+38	TR	A0A8C5UYX2	BICD cargo adaptor 2 OS=Microcebus murinus OX=30608 GN=BICD2 PE=3 SV=1	Microcebus murinus	824	3976	96.8	97.7	0.0
+39	TR	H0WL58	BICD cargo adaptor 2 OS=Otolemur garnettii OX=30611 GN=BICD2 PE=3 SV=1	Otolemur garnettii	861	3973	96.7	97.5	0.0
+40	TR	A0A8C5VGF6	BICD cargo adaptor 2 OS=Microcebus murinus OX=30608 GN=BICD2 PE=3 SV=1	Microcebus murinus	853	3973	96.7	97.7	0.0
+41	TR	A0A2K6ETR7	BICD cargo adaptor 2 OS=Propithecus coquereli OX=379532 GN=BICD2 PE=3 SV=1	Propithecus coquereli	832	3943	96.5	97.3	0.0
+42	TR	A0A8C5KV80	BICD cargo adaptor 2 OS=Jaculus jaculus OX=51337 GN=Bicd2 PE=3 SV=1	Jaculus jaculus	857	3938	96.2	97.6	0.0
+43	TR	A0A8D2CSG3	BICD cargo adaptor 2 OS=Sciurus vulgaris OX=55149 GN=BICD2 PE=3 SV=1	Sciurus vulgaris	825	3934	96.4	97.6	0.0
+44	TR	A0A1S3G1D6	Protein bicaudal D homolog 2 isoform X2 OS=Dipodomys ordii OX=10020 GN=Bicd2 PE=3 SV=1	Dipodomys ordii	827	3926	96.0	97.1	0.0
+45	TR	A0A1S3FZ92	Protein bicaudal D homolog 2 isoform X1 OS=Dipodomys ordii OX=10020 GN=Bicd2 PE=3 SV=1	Dipodomys ordii	858	3923	95.9	97.1	0.0
+46	TR	A0A287DE24	BICD cargo adaptor 2 OS=Ictidomys tridecemlineatus OX=43179 GN=BICD2 PE=3 SV=1	Ictidomys tridecemlineatus	824	3923	96.4	97.3	0.0
+47	TR	A0A287CW43	BICD cargo adaptor 2 OS=Ictidomys tridecemlineatus OX=43179 GN=BICD2 PE=3 SV=1	Ictidomys tridecemlineatus	855	3920	96.2	97.3	0.0
+48	TR	I3NF79	BICD cargo adaptor 2 OS=Ictidomys tridecemlineatus OX=43179 GN=BICD2 PE=3 SV=2	Ictidomys tridecemlineatus	825	3919	96.4	97.3	0.0
+49	TR	A0A5E4BZG0	Protein bicaudal D homolog 2 OS=Marmota monax OX=9995 GN=MONAX_5E033124 PE=3 SV=1	Marmota monax	824	3910	95.9	97.1	0.0
+50	TR	A0A2K6TN39	BICD cargo adaptor 2 OS=Saimiri boliviensis boliviensis OX=39432 GN=BICD2 PE=3 SV=1	Saimiri boliviensis boliviensis	842	3908	97.5	97.8	0.0
+51	TR	A0A5E4C0F8	BICD cargo adaptor 2 OS=Marmota monax OX=9995 GN=MONAX_5E033124 PE=3 SV=1	Marmota monax	855	3907	95.8	97.1	0.0
+52	TR	A0A8D2HAY5	BICD cargo adaptor 2 OS=Urocitellus parryii OX=9999 GN=BICD2 PE=3 SV=1	Urocitellus parryii	819	3890	95.8	96.7	0.0
+53	TR	A0A8C5Z2W4	BICD cargo adaptor 2 OS=Marmota marmota marmota OX=9994 GN=BICD2 PE=3 SV=1	Marmota marmota marmota	819	3880	95.4	96.5	0.0
+54	TR	A0A8C5Z0B0	BICD cargo adaptor 2 OS=Marmota marmota marmota OX=9994 GN=BICD2 PE=3 SV=1	Marmota marmota marmota	850	3877	95.3	96.5	0.0
+55	TR	A0A5F9CW65	BICD cargo adaptor 2 OS=Oryctolagus cuniculus OX=9986 GN=BICD2 PE=3 SV=1	Oryctolagus cuniculus	908	3872	94.9	96.8	0.0
+56	TR	A0A6P3FV50	Protein bicaudal D homolog 2 isoform X2 OS=Octodon degus OX=10160 GN=Bicd2 PE=3 SV=1	Octodon degus	825	3871	94.9	96.6	0.0
+57	SP	Q921C5	Protein bicaudal D homolog 2 OS=Mus musculus OX=10090 GN=Bicd2 PE=1 SV=1	Mus musculus	820	3869	94.8	96.4	0.0
+58	TR	A0A8C2UHB7	BICD cargo adaptor 2 OS=Chinchilla lanigera OX=34839 GN=BICD2 PE=3 SV=1	Chinchilla lanigera	825	3869	94.9	96.2	0.0
+59	TR	G1SZW5	BICD cargo adaptor 2 OS=Oryctolagus cuniculus OX=9986 GN=BICD2 PE=3 SV=1	Oryctolagus cuniculus	855	3869	94.8	96.8	0.0
+60	TR	A0A6P3FI26	Protein bicaudal D homolog 2 isoform X1 OS=Octodon degus OX=10160 GN=Bicd2 PE=3 SV=1	Octodon degus	856	3868	94.8	96.6	0.0
+61	SP	Q921C5-2	Isoform 2 of Protein bicaudal D homolog 2 OS=Mus musculus OX=10090 GN=Bicd2	Mus musculus	851	3866	94.7	96.4	0.0
+62	TR	A0A8C6RZ62	BICD cargo adaptor 2 OS=Nannospalax galili OX=1026970 GN=Bicd2 PE=3 SV=1	Nannospalax galili	820	3864	94.9	96.4	0.0
+63	TR	A0A1U7QHR6	Protein bicaudal D homolog 2 isoform X2 OS=Mesocricetus auratus OX=10036 GN=Bicd2 PE=3 SV=1	Mesocricetus auratus	820	3863	95.0	96.1	0.0
+64	TR	H0VAM5	BICD cargo adaptor 2 OS=Cavia porcellus OX=10141 GN=BICD2 PE=3 SV=2	Cavia porcellus	825	3863	94.8	96.2	0.0
+65	TR	A0A8C6RWW9	BICD cargo adaptor 2 OS=Nannospalax galili OX=1026970 GN=Bicd2 PE=3 SV=1	Nannospalax galili	853	3861	94.8	96.4	0.0
+66	TR	A0A1U7QF80	Protein bicaudal D homolog 2 isoform X1 OS=Mesocricetus auratus OX=10036 GN=Bicd2 PE=3 SV=1	Mesocricetus auratus	851	3860	94.9	96.1	0.0
+67	TR	A0A286XTY8	BICD cargo adaptor 2 OS=Cavia porcellus OX=10141 GN=BICD2 PE=3 SV=1	Cavia porcellus	856	3860	94.7	96.2	0.0
+68	TR	A0A8C6N3W3	Protein bicaudal D homolog 2 OS=Mus spicilegus OX=10103 PE=3 SV=1	Mus spicilegus	820	3849	94.3	96.0	0.0
+69	TR	A0A8C6IBM1	Protein bicaudal D homolog 2 OS=Mus spicilegus OX=10103 PE=3 SV=1	Mus spicilegus	820	3847	94.2	96.0	0.0
+70	TR	A0A8C6IDC6	inositol-pentakisphosphate 2-kinase OS=Mus spicilegus OX=10103 PE=3 SV=1	Mus spicilegus	1281	3845	94.3	96.0	0.0
+71	TR	A0A8J6KZS7	Protein bicaudal D-like protein 2 OS=Microtus ochrogaster OX=79684 GN=LTLLF_124620 PE=3 SV=1	Microtus ochrogaster	856	3839	94.1	95.6	0.0
+72	TR	A0A6I9LXN9	BICD cargo adaptor 2 OS=Peromyscus maniculatus bairdii OX=230844 GN=Bicd2 PE=3 SV=1	Peromyscus maniculatus bairdii	819	3838	94.6	96.0	0.0
+73	TR	A0A6I9M8M2	BICD cargo adaptor 2 OS=Peromyscus maniculatus bairdii OX=230844 GN=Bicd2 PE=3 SV=1	Peromyscus maniculatus bairdii	850	3835	94.4	96.0	0.0
+74	TR	G3UHE4	BICD cargo adaptor 2 OS=Loxodonta africana OX=9785 GN=BICD2 PE=3 SV=1	Loxodonta africana	852	3827	93.7	95.4	0.0
+75	TR	Q496Z1	BICD cargo adaptor 2 OS=Rattus norvegicus OX=10116 GN=Bicd2 PE=1 SV=1	Rattus norvegicus	851	3826	93.9	96.0	0.0
+76	TR	A0A8J8Y893	BICD cargo adaptor 2 OS=Rattus norvegicus OX=10116 GN=Bicd2 PE=1 SV=1	Rattus norvegicus	837	3825	94.1	96.0	0.0
+77	TR	A0A8C2UHC3	BICD cargo adaptor 2 OS=Chinchilla lanigera OX=34839 GN=BICD2 PE=3 SV=1	Chinchilla lanigera	851	3823	94.2	95.6	0.0
+78	TR	A0A2Y9RIY0	Protein bicaudal D homolog 2 isoform X2 OS=Trichechus manatus latirostris OX=127582 GN=LOC101357736 PE=3 SV=1	Trichechus manatus latirostris	821	3818	93.4	95.4	0.0
+79	TR	A0A2Y9DZD3	Protein bicaudal D homolog 2 isoform X1 OS=Trichechus manatus latirostris OX=127582 GN=LOC101357736 PE=3 SV=1	Trichechus manatus latirostris	852	3815	93.2	95.4	0.0
+80	TR	A0A8B7U2W0	LOW QUALITY PROTEIN: protein bicaudal D homolog 2 OS=Castor canadensis OX=51338 GN=Bicd2 PE=3 SV=1	Castor canadensis	836	3802	93.8	95.2	0.0
+81	TR	A0A9B0UB50	Protein bicaudal D homolog 2 OS=Chrysochloris asiatica OX=185453 GN=BICD2 PE=3 SV=1	Chrysochloris asiatica	852	3778	92.4	94.7	0.0
+82	TR	A0A8B7AUA5	Protein bicaudal D homolog 2 OS=Orycteropus afer afer OX=1230840 GN=BICD2 PE=3 SV=1	Orycteropus afer afer	852	3750	92.3	93.8	0.0
+83	TR	G3RH83	BICD cargo adaptor 2 OS=Gorilla gorilla gorilla OX=9595 GN=BICD2 PE=3 SV=2	Gorilla gorilla gorilla	830	3705	95.3	97.0	0.0
+84	TR	A0A2I2YFW5	BICD cargo adaptor 2 OS=Gorilla gorilla gorilla OX=9595 GN=BICD2 PE=3 SV=1	Gorilla gorilla gorilla	746	3701	99.9	100.0	0.0
+85	TR	H2QXG9	BICD cargo adaptor 2 OS=Pan troglodytes OX=9598 GN=BICD2 PE=3 SV=2	Pan troglodytes	818	3700	96.4	97.7	0.0
+86	TR	A0A2I3S8V7	BICD cargo adaptor 2 OS=Pan troglodytes OX=9598 GN=BICD2 PE=3 SV=1	Pan troglodytes	824	3695	99.9	99.9	0.0
+87	TR	A0A340Y4R0	Protein bicaudal D homolog 2 isoform X2 OS=Lipotes vexillifer OX=118797 GN=BICD2 PE=3 SV=1	Lipotes vexillifer	805	3694	91.7	93.8	0.0
+88	TR	A0A2Y9FHT0	Protein bicaudal D homolog 2 isoform X2 OS=Physeter macrocephalus OX=9755 GN=BICD2 PE=3 SV=1	Physeter macrocephalus	805	3694	91.9	94.1	0.0
+89	TR	A0A2I3TMN5	BICD cargo adaptor 2 OS=Pan troglodytes OX=9598 GN=BICD2 PE=3 SV=1	Pan troglodytes	855	3692	99.7	99.9	0.0
+90	TR	A0A340Y779	Protein bicaudal D homolog 2 isoform X1 OS=Lipotes vexillifer OX=118797 GN=BICD2 PE=3 SV=1	Lipotes vexillifer	836	3691	91.6	93.8	0.0
+91	TR	A0A2Y9FJL0	Protein bicaudal D homolog 2 isoform X1 OS=Physeter macrocephalus OX=9755 GN=BICD2 PE=3 SV=1	Physeter macrocephalus	836	3691	91.7	94.1	0.0
+92	TR	A0A8C9BDV3	BICD cargo adaptor 2 OS=Phocoena sinus OX=42100 GN=BICD2 PE=3 SV=1	Phocoena sinus	805	3686	91.7	93.7	0.0
+93	TR	A0A341AFQ9	Protein bicaudal D homolog 2 isoform X2 OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=BICD2 PE=3 SV=1	Neophocaena asiaeorientalis asiaeorientalis	805	3682	91.6	93.6	0.0
+94	TR	A0A2U4BSE2	Protein bicaudal D homolog 2 isoform X2 OS=Tursiops truncatus OX=9739 GN=BICD2 PE=3 SV=1	Tursiops truncatus	805	3682	91.5	93.8	0.0
+95	TR	A0A2Y9MDG5	Protein bicaudal D homolog 2 isoform X2 OS=Delphinapterus leucas OX=9749 GN=BICD2 PE=3 SV=1	Delphinapterus leucas	805	3681	91.6	93.7	0.0
+96	TR	A0A8B8XNM3	Protein bicaudal D homolog 2 isoform X2 OS=Balaenoptera musculus OX=9771 GN=BICD2 PE=3 SV=1	Balaenoptera musculus	805	3681	91.6	93.7	0.0
+97	TR	A0A341AGJ8	Protein bicaudal D homolog 2 isoform X1 OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=BICD2 PE=3 SV=1	Neophocaena asiaeorientalis asiaeorientalis	836	3679	91.5	93.6	0.0
+98	TR	A0A2U3V9E1	Protein bicaudal D homolog 2 isoform X1 OS=Tursiops truncatus OX=9739 GN=BICD2 PE=3 SV=1	Tursiops truncatus	836	3679	91.4	93.8	0.0
+99	TR	A0A2Y9MMK3	Protein bicaudal D homolog 2 isoform X1 OS=Delphinapterus leucas OX=9749 GN=BICD2 PE=3 SV=1	Delphinapterus leucas	836	3678	91.5	93.7	0.0
+100	TR	A0A8B8XPM2	Protein bicaudal D homolog 2 isoform X1 OS=Balaenoptera musculus OX=9771 GN=BICD2 PE=3 SV=1	Balaenoptera musculus	836	3678	91.5	93.7	0.0
+101	TR	A0A2K6TN59	BICD cargo adaptor 2 OS=Saimiri boliviensis boliviensis OX=39432 GN=BICD2 PE=3 SV=1	Saimiri boliviensis boliviensis	749	3677	98.9	98.9	0.0
+102	TR	A0A2K5HPN0	BICD cargo adaptor 2 OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1	Colobus angolensis palliatus	746	3676	99.1	99.5	0.0
+103	TR	A0A2K5HPQ3	BICD cargo adaptor 2 OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1	Colobus angolensis palliatus	819	3676	98.8	99.3	0.0
+104	TR	A0A8I3WW51	BICD cargo adaptor 2 OS=Callithrix jacchus OX=9483 GN=BICD2 PE=3 SV=1	Callithrix jacchus	877	3676	98.4	98.5	0.0
+105	TR	A0A2K6TN32	BICD cargo adaptor 2 OS=Saimiri boliviensis boliviensis OX=39432 GN=BICD2 PE=3 SV=1	Saimiri boliviensis boliviensis	780	3674	98.8	98.9	0.0
+106	TR	A0A2K5XQC5	BICD cargo adaptor 2 OS=Mandrillus leucophaeus OX=9568 GN=BICD2 PE=3 SV=1	Mandrillus leucophaeus	746	3674	99.1	99.3	0.0
+107	TR	A0A8M1F2K9	Protein bicaudal D homolog 2 isoform X3 OS=Ursus maritimus OX=29073 GN=BICD2 PE=3 SV=1	Ursus maritimus	805	3670	91.3	93.7	0.0
+108	TR	A0A452RFE6	BICD cargo adaptor 2 OS=Ursus americanus OX=9643 GN=BICD2 PE=3 SV=1	Ursus americanus	836	3667	91.1	93.7	0.0
+109	TR	A0A8M1EYW7	Protein bicaudal D homolog 2 isoform X1 OS=Ursus maritimus OX=29073 GN=BICD2 PE=3 SV=1	Ursus maritimus	836	3667	91.1	93.7	0.0
+110	TR	A0A8M1F607	Protein bicaudal D homolog 2 isoform X2 OS=Ursus maritimus OX=29073 GN=BICD2 PE=3 SV=1	Ursus maritimus	808	3666	91.3	93.7	0.0
+111	TR	A0A2Y9K4V0	Protein bicaudal D homolog 2 isoform X2 OS=Enhydra lutris kenyoni OX=391180 GN=LOC111153542 PE=3 SV=1	Enhydra lutris kenyoni	805	3666	91.1	93.4	0.0
+112	TR	A0A8U0N3U7	Protein bicaudal D homolog 2 isoform X2 OS=Mustela putorius furo OX=9669 GN=BICD2 PE=3 SV=1	Mustela putorius furo	805	3665	91.1	93.6	0.0
+113	TR	A0A2Y9KFZ6	Protein bicaudal D homolog 2 isoform X1 OS=Enhydra lutris kenyoni OX=391180 GN=LOC111153542 PE=3 SV=1	Enhydra lutris kenyoni	836	3663	91.0	93.4	0.0
+114	TR	A0A8C7BG64	BICD cargo adaptor 2 OS=Neovison vison OX=452646 GN=BICD2 PE=3 SV=1	Neovison vison	805	3662	91.2	93.6	0.0
+115	TR	M3XZI8	BICD cargo adaptor 2 OS=Mustela putorius furo OX=9669 GN=BICD2 PE=3 SV=1	Mustela putorius furo	836	3662	91.0	93.6	0.0
+116	TR	A0A8C7BQG2	BICD cargo adaptor 2 OS=Neovison vison OX=452646 GN=BICD2 PE=3 SV=1	Neovison vison	836	3659	91.1	93.6	0.0
+117	TR	A0A8C3X9S7	BICD cargo adaptor 2 OS=Catagonus wagneri OX=51154 GN=BICD2 PE=3 SV=1	Catagonus wagneri	805	3659	91.3	93.7	0.0
+118	TR	A0A8I3PLU4	BICD cargo adaptor 2 OS=Canis lupus familiaris OX=9615 GN=BICD2 PE=3 SV=1	Canis lupus familiaris	805	3658	90.9	93.3	0.0
+119	TR	A0A3Q7R4A2	Protein bicaudal D homolog 2 isoform X2 OS=Vulpes vulpes OX=9627 GN=BICD2 PE=3 SV=1	Vulpes vulpes	805	3657	90.9	93.2	0.0
+120	TR	A0A8I3PLZ6	BICD cargo adaptor 2 OS=Canis lupus familiaris OX=9615 GN=BICD2 PE=3 SV=1	Canis lupus familiaris	836	3655	90.8	93.3	0.0
+121	TR	A0A8C0K617	BICD cargo adaptor 2 OS=Canis lupus dingo OX=286419 GN=BICD2 PE=3 SV=1	Canis lupus dingo	836	3655	90.8	93.3	0.0
+122	TR	G1S3E3	BICD cargo adaptor 2 OS=Nomascus leucogenys OX=61853 GN=BICD2 PE=3 SV=2	Nomascus leucogenys	834	3654	98.7	98.9	0.0
+123	TR	A0A9L0RUD6	BICD cargo adaptor 2 OS=Equus caballus OX=9796 GN=BICD2 PE=3 SV=1	Equus caballus	892	3654	91.0	93.2	0.0
+124	TR	A0A3Q7RDD7	Protein bicaudal D homolog 2 isoform X1 OS=Vulpes vulpes OX=9627 GN=BICD2 PE=3 SV=1	Vulpes vulpes	836	3654	90.8	93.2	0.0
+125	TR	A0A8C4M3Y5	BICD cargo adaptor 2 OS=Equus asinus OX=9793 GN=BICD2 PE=3 SV=2	Equus asinus	805	3653	91.0	93.2	0.0
+126	TR	A0A484GY96	BICD cargo adaptor 2 OS=Sousa chinensis OX=103600 GN=DBR06_SOUSAS26010022 PE=3 SV=1	Sousa chinensis	843	3653	90.5	92.9	0.0
+127	TR	A0A9L0TH97	BICD cargo adaptor 2 OS=Equus caballus OX=9796 GN=BICD2 PE=3 SV=1	Equus caballus	832	3652	90.9	93.2	0.0
+128	TR	A0A2K5E699	BICD cargo adaptor 2 OS=Aotus nancymaae OX=37293 GN=BICD2 PE=3 SV=1	Aotus nancymaae	779	3651	98.9	99.1	0.0
+129	TR	A0A2U3VFW9	Protein bicaudal D homolog 2 isoform X2 OS=Odobenus rosmarus divergens OX=9708 GN=BICD2 PE=3 SV=1	Odobenus rosmarus divergens	805	3650	90.7	93.2	0.0
+130	TR	A0A9L0IXN5	BICD cargo adaptor 2 OS=Equus asinus OX=9793 GN=BICD2 PE=3 SV=1	Equus asinus	836	3650	90.9	93.2	0.0
+131	TR	A0A3Q7QPJ3	Protein bicaudal D homolog 2 isoform X2 OS=Callorhinus ursinus OX=34884 GN=LOC112838951 PE=3 SV=1	Callorhinus ursinus	805	3650	90.8	93.2	0.0
+132	TR	A0A2U3VGB6	Protein bicaudal D homolog 2 isoform X1 OS=Odobenus rosmarus divergens OX=9708 GN=BICD2 PE=3 SV=1	Odobenus rosmarus divergens	836	3647	90.5	93.2	0.0
+133	TR	A0A3Q7QPA9	Protein bicaudal D homolog 2 isoform X1 OS=Callorhinus ursinus OX=34884 GN=LOC112838908 PE=3 SV=1	Callorhinus ursinus	836	3647	90.7	93.2	0.0
+134	TR	A0A2K6TN45	BICD cargo adaptor 2 OS=Saimiri boliviensis boliviensis OX=39432 GN=BICD2 PE=3 SV=1	Saimiri boliviensis boliviensis	779	3645	98.8	98.9	0.0
+135	TR	A0A6J0WQN4	Protein bicaudal D homolog 2 isoform X2 OS=Odocoileus virginianus texanus OX=9880 GN=BICD2 PE=3 SV=1	Odocoileus virginianus texanus	805	3641	90.5	92.8	0.0
+136	TR	A0A2K5RC91	BICD cargo adaptor 2 OS=Cebus imitator OX=2715852 PE=3 SV=1	Cebus imitator	779	3640	98.5	98.8	0.0
+137	TR	A0A811ZSV7	(raccoon dog) hypothetical protein OS=Nyctereutes procyonoides OX=34880 GN=NYPRO_LOCUS24776 PE=3 SV=1	Nyctereutes procyonoides	945	3639	90.4	93.1	0.0
+138	TR	A0A287AJT8	BICD cargo adaptor 2 OS=Sus scrofa OX=9823 GN=BICD2 PE=3 SV=1	Sus scrofa	836	3639	90.7	93.2	0.0
+139	TR	A0A452FM02	BICD cargo adaptor 2 OS=Capra hircus OX=9925 GN=BICD2 PE=3 SV=1	Capra hircus	808	3638	90.5	92.7	0.0
+140	TR	A0A6J0WMA1	Protein bicaudal D homolog 2 isoform X1 OS=Odocoileus virginianus texanus OX=9880 GN=BICD2 PE=3 SV=1	Odocoileus virginianus texanus	836	3638	90.4	92.8	0.0
+141	TR	G1M4N7	BICD cargo adaptor 2 OS=Ailuropoda melanoleuca OX=9646 GN=BICD2 PE=3 SV=2	Ailuropoda melanoleuca	805	3636	90.4	92.8	0.0
+142	TR	A0A7N5K3G8	BICD cargo adaptor 2 OS=Ailuropoda melanoleuca OX=9646 GN=BICD2 PE=3 SV=1	Ailuropoda melanoleuca	868	3636	90.4	92.8	0.0
+143	TR	A0A6P6IGP9	Protein bicaudal D homolog 2 isoform X2 OS=Puma concolor OX=9696 GN=BICD2 PE=3 SV=1	Puma concolor	805	3635	90.5	93.1	0.0
+144	TR	A0A8B9XKX0	BICD cargo adaptor 2 OS=Bos mutus grunniens OX=30521 GN=BICD2 PE=3 SV=1	Bos mutus grunniens	805	3634	90.4	92.6	0.0
+145	TR	G3N3P0	BICD cargo adaptor 2 OS=Bos taurus OX=9913 GN=BICD2 PE=3 SV=2	Bos taurus	805	3634	90.4	92.6	0.0
+146	TR	A0A4W2G2Q6	BICD cargo adaptor 2 OS=Bos indicus x Bos taurus OX=30522 GN=BICD2 PE=3 SV=1	Bos indicus x Bos taurus	805	3634	90.4	92.6	0.0
+147	TR	A0A6P6IGI7	Protein bicaudal D homolog 2 isoform X1 OS=Puma concolor OX=9696 GN=BICD2 PE=3 SV=1	Puma concolor	836	3632	90.4	93.1	0.0
+148	TR	A0A8B9XG46	BICD cargo adaptor 2 OS=Bos mutus grunniens OX=30521 GN=BICD2 PE=3 SV=1	Bos mutus grunniens	836	3631	90.3	92.6	0.0
+149	TR	A0A4W2D949	BICD cargo adaptor 2 OS=Bos indicus x Bos taurus OX=30522 GN=BICD2 PE=3 SV=1	Bos indicus x Bos taurus	836	3631	90.3	92.6	0.0
+150	TR	A0A6J1XWU0	Protein bicaudal D homolog 2 isoform X5 OS=Acinonyx jubatus OX=32536 GN=LOC106982579 PE=3 SV=1	Acinonyx jubatus	805	3629	90.4	93.0	0.0
+151	TR	A0A485PMK2	Protein bicaudal d homolog 2 OS=Lynx pardinus OX=191816 GN=LYPA_23C007624 PE=3 SV=1	Lynx pardinus	805	3628	90.4	93.0	0.0
+152	TR	A0A8C6FKH2	BICD cargo adaptor 2 OS=Moschus moschiferus OX=68415 GN=BICD2 PE=3 SV=1	Moschus moschiferus	805	3626	90.2	92.8	0.0
+153	TR	A0A8C8XYN9	BICD cargo adaptor 2 OS=Panthera leo OX=9689 GN=BICD2 PE=3 SV=1	Panthera leo	805	3626	90.3	92.8	0.0
+154	TR	L5JVR2	Protein bicaudal D like protein 2 OS=Pteropus alecto OX=9402 GN=PAL_GLEAN10003497 PE=3 SV=1	Pteropus alecto	848	3625	89.8	92.8	0.0
+155	TR	A0A6J1XX77	inositol-pentakisphosphate 2-kinase OS=Acinonyx jubatus OX=32536 GN=LOC106982579 PE=3 SV=1	Acinonyx jubatus	1268	3625	90.4	93.0	0.0
+156	TR	A0A6J1XXT5	inositol-pentakisphosphate 2-kinase OS=Acinonyx jubatus OX=32536 GN=LOC106982579 PE=3 SV=1	Acinonyx jubatus	961	3625	90.4	93.0	0.0
+157	TR	A0A6J1XWW5	inositol-pentakisphosphate 2-kinase OS=Acinonyx jubatus OX=32536 GN=LOC106982579 PE=3 SV=1	Acinonyx jubatus	949	3625	90.4	93.0	0.0
+158	TR	A0A6J1XX80	inositol-pentakisphosphate 2-kinase OS=Acinonyx jubatus OX=32536 GN=LOC106982579 PE=3 SV=1	Acinonyx jubatus	1101	3625	90.4	93.0	0.0
+159	TR	A0A2Y9HK95	Protein bicaudal D homolog 2 isoform X2 OS=Neomonachus schauinslandi OX=29088 GN=BICD2 PE=3 SV=2	Neomonachus schauinslandi	800	3624	90.4	92.7	0.0
+160	TR	A0A6P3R8Z7	Protein bicaudal D homolog 2 isoform X5 OS=Pteropus vampyrus OX=132908 GN=LOC105304687 PE=3 SV=1	Pteropus vampyrus	805	3623	89.9	92.8	0.0
+161	TR	A0A8C8Y0B0	inositol-pentakisphosphate 2-kinase OS=Panthera leo OX=9689 GN=BICD2 PE=3 SV=1	Panthera leo	1268	3622	90.3	92.8	0.0
+162	TR	A0A2Y9HKH9	Protein bicaudal D homolog 2 isoform X1 OS=Neomonachus schauinslandi OX=29088 GN=BICD2 PE=3 SV=2	Neomonachus schauinslandi	831	3621	90.3	92.7	0.0
+163	TR	A0A6P6BTP4	inositol-pentakisphosphate 2-kinase OS=Pteropus vampyrus OX=132908 GN=LOC105304687 PE=3 SV=1	Pteropus vampyrus	1268	3619	89.9	92.8	0.0
+164	TR	M3WRZ8	BICD cargo adaptor 2 OS=Felis catus OX=9685 GN=BICD2 PE=3 SV=3	Felis catus	804	3618	90.4	93.0	0.0
+165	TR	A0A5F5XLE2	inositol-pentakisphosphate 2-kinase OS=Felis catus OX=9685 GN=BICD2 PE=3 SV=1	Felis catus	1267	3614	90.4	93.0	0.0
+166	TR	L8I9V0	Protein bicaudal D-like protein 2 OS=Bos mutus OX=72004 GN=M91_09020 PE=3 SV=1	Bos mutus	843	3613	89.5	91.8	0.0
+167	TR	A0A6I9IDL9	Protein bicaudal D homolog 2 isoform X1 OS=Vicugna pacos OX=30538 GN=BICD2 PE=3 SV=1	Vicugna pacos	827	3612	90.0	92.5	0.0
+168	TR	A0A671EW61	BICD cargo adaptor 2 OS=Rhinolophus ferrumequinum OX=59479 GN=BICD2 PE=3 SV=1	Rhinolophus ferrumequinum	805	3612	89.6	92.8	0.0
+169	TR	A0A6J0APU0	Protein bicaudal D homolog 2 isoform X2 OS=Vicugna pacos OX=30538 GN=BICD2 PE=3 SV=1	Vicugna pacos	796	3611	90.2	92.5	0.0
+170	TR	A0A671EQR9	inositol-pentakisphosphate 2-kinase OS=Rhinolophus ferrumequinum OX=59479 GN=BICD2 PE=3 SV=1	Rhinolophus ferrumequinum	1268	3608	89.6	92.8	0.0
+171	TR	A0A671ERL3	inositol-pentakisphosphate 2-kinase OS=Rhinolophus ferrumequinum OX=59479 GN=BICD2 PE=3 SV=1	Rhinolophus ferrumequinum	1217	3608	89.6	92.8	0.0
+172	TR	A0A7J8IGG8	BICD cargo adaptor 2 OS=Rousettus aegyptiacus OX=9407 GN=HJG63_001475 PE=3 SV=1	Rousettus aegyptiacus	804	3607	89.8	92.8	0.0
+173	TR	A0A7J8IFC3	BICD cargo adaptor 2 OS=Rousettus aegyptiacus OX=9407 GN=HJG63_001475 PE=3 SV=1	Rousettus aegyptiacus	835	3604	89.7	92.8	0.0
+174	TR	A0A7J8BK37	BICD cargo adaptor 2 OS=Molossus molossus OX=27622 GN=HJG59_001484 PE=3 SV=1	Molossus molossus	801	3597	89.4	92.6	0.0
+175	TR	A0A7J8BJH8	BICD cargo adaptor 2 OS=Molossus molossus OX=27622 GN=HJG59_001484 PE=3 SV=1	Molossus molossus	832	3594	89.3	92.6	0.0
+176	TR	A0A8B7QC56	Protein bicaudal D homolog 2 isoform X3 OS=Hipposideros armiger OX=186990 GN=LOC109375243 PE=3 SV=1	Hipposideros armiger	805	3591	89.2	92.4	0.0
+177	TR	A0A1S3WJ24	Protein bicaudal D homolog 2 isoform X1 OS=Erinaceus europaeus OX=9365 GN=BICD2 PE=3 SV=1	Erinaceus europaeus	796	3589	89.7	92.0	0.0
+178	TR	A0A8B7QBC3	inositol-pentakisphosphate 2-kinase OS=Hipposideros armiger OX=186990 GN=LOC109375243 PE=3 SV=1	Hipposideros armiger	1268	3587	89.2	92.3	0.0
+179	TR	A0A1S3A4J2	Protein bicaudal D homolog 2 isoform X2 OS=Erinaceus europaeus OX=9365 GN=BICD2 PE=3 SV=1	Erinaceus europaeus	827	3586	89.6	92.0	0.0
+180	TR	A0A7J7QV05	BICD cargo adaptor 2 OS=Myotis myotis OX=51298 GN=mMyoMyo1_001472 PE=3 SV=1	Myotis myotis	801	3581	89.2	92.5	0.0
+181	TR	A0A7J7QVB6	BICD cargo adaptor 2 OS=Myotis myotis OX=51298 GN=mMyoMyo1_001472 PE=3 SV=1	Myotis myotis	832	3578	89.1	92.5	0.0
+182	TR	A0A5E4BXM4	Uncharacterized protein OS=Marmota monax OX=9995 GN=MONAX_5E033124 PE=3 SV=1	Marmota monax	753	3575	96.0	97.2	0.0
+183	TR	A0A673UPS6	BICD cargo adaptor 2 OS=Suricata suricatta OX=37032 PE=3 SV=1	Suricata suricatta	797	3569	89.0	92.1	0.0
+184	TR	A0A673UG52	BICD cargo adaptor 2 OS=Suricata suricatta OX=37032 PE=3 SV=1	Suricata suricatta	821	3565	88.9	92.1	0.0
+185	TR	A0A673UNP4	inositol-pentakisphosphate 2-kinase OS=Suricata suricatta OX=37032 PE=3 SV=1	Suricata suricatta	1306	3565	88.9	92.1	0.0
+186	TR	A0A673UPH9	inositol-pentakisphosphate 2-kinase OS=Suricata suricatta OX=37032 PE=3 SV=1	Suricata suricatta	887	3565	88.9	92.1	0.0
+187	TR	A0A673UFH3	inositol-pentakisphosphate 2-kinase OS=Suricata suricatta OX=37032 PE=3 SV=1	Suricata suricatta	1260	3565	88.9	92.1	0.0
+188	TR	A0A7J7RT00	BICD cargo adaptor 2 OS=Pipistrellus kuhlii OX=59472 GN=mPipKuh1_001454 PE=3 SV=1	Pipistrellus kuhlii	801	3558	88.5	92.1	0.0
+189	TR	A0A7J7RSZ1	BICD cargo adaptor 2 OS=Pipistrellus kuhlii OX=59472 GN=mPipKuh1_001454 PE=3 SV=1	Pipistrellus kuhlii	832	3555	88.3	92.1	0.0
+190	TR	A0A6J2NA55	Protein bicaudal D homolog 2 isoform X5 OS=Phyllostomus discolor OX=89673 GN=LOC114513564 PE=3 SV=1	Phyllostomus discolor	801	3549	88.5	92.2	0.0
+191	TR	A0A7E6D5K6	inositol-pentakisphosphate 2-kinase OS=Phyllostomus discolor OX=89673 GN=LOC114513564 PE=3 SV=1	Phyllostomus discolor	1164	3545	88.5	92.2	0.0
+192	TR	A0A7E6D4Z3	inositol-pentakisphosphate 2-kinase OS=Phyllostomus discolor OX=89673 GN=LOC114513564 PE=3 SV=1	Phyllostomus discolor	1086	3545	88.5	92.2	0.0
+193	TR	A0A7E6D7Q1	inositol-pentakisphosphate 2-kinase OS=Phyllostomus discolor OX=89673 GN=LOC114513564 PE=3 SV=1	Phyllostomus discolor	1264	3545	88.5	92.2	0.0
+194	TR	A0A3Q0DPP9	Protein bicaudal D homolog 2 OS=Carlito syrichta OX=1868482 GN=BICD2 PE=3 SV=1	Carlito syrichta	880	3534	95.4	96.6	0.0
+195	TR	F7DPZ1	BICD cargo adaptor 2 OS=Equus caballus OX=9796 GN=BICD2 PE=3 SV=3	Equus caballus	786	3534	88.8	90.9	0.0
+196	TR	D3Z390	BICD cargo adaptor 2 OS=Mus musculus OX=10090 GN=Bicd2 PE=1 SV=2	Mus musculus	746	3502	94.3	96.0	0.0
+197	TR	A0A7N4PV29	BICD cargo adaptor 2 OS=Sarcophilus harrisii OX=9305 GN=BICD2 PE=3 SV=1	Sarcophilus harrisii	848	3485	85.0	91.8	0.0
+198	TR	A0A4X2L4E7	BICD cargo adaptor 2 OS=Vombatus ursinus OX=29139 GN=BICD2 PE=3 SV=1	Vombatus ursinus	818	3477	84.9	91.3	0.0
+199	TR	G3HP33	Protein bicaudal D-like 2 OS=Cricetulus griseus OX=10029 GN=I79_012537 PE=3 SV=1	Cricetulus griseus	783	3470	93.1	95.3	0.0
+200	TR	A0A6P5IN14	LOW QUALITY PROTEIN: protein bicaudal D homolog 2-like OS=Phascolarctos cinereus OX=38626 GN=LOC110192921 PE=3 SV=1	Phascolarctos cinereus	817	3466	84.7	91.3	0.0
+201	TR	A0A091CUH6	Protein bicaudal D like protein 2 OS=Fukomys damarensis OX=885580 GN=H920_16436 PE=3 SV=1	Fukomys damarensis	868	3465	92.3	94.0	0.0
+202	TR	G5BQK3	Bicaudal D-like protein 2 OS=Heterocephalus glaber OX=10181 GN=GW7_11601 PE=3 SV=1	Heterocephalus glaber	798	3462	91.2	93.5	0.0
+203	TR	F6PIY7	BICD cargo adaptor 2 OS=Monodelphis domestica OX=13616 GN=BICD2 PE=3 SV=2	Monodelphis domestica	818	3462	84.3	91.5	0.0
+204	TR	G3WYI6	BICD cargo adaptor 2 OS=Sarcophilus harrisii OX=9305 GN=BICD2 PE=3 SV=2	Sarcophilus harrisii	846	3449	82.3	88.8	0.0
+205	TR	F6X7P3	BICD cargo adaptor 2 OS=Ornithorhynchus anatinus OX=9258 GN=BICD2 PE=3 SV=2	Ornithorhynchus anatinus	816	3441	83.1	92.0	0.0
+206	TR	A0A1A6FV85	BICD cargo adaptor 2 OS=Neotoma lepida OX=56216 GN=A6R68_10999 PE=3 SV=1	Neotoma lepida	813	3423	91.9	93.6	0.0
+207	TR	A0A8C8RKW2	BICD cargo adaptor 2 OS=Pelusios castaneus OX=367368 PE=3 SV=1	Pelusios castaneus	815	3395	82.3	91.2	0.0
+208	TR	A0A151MZ17	Bicaudal D-like protein 1 OS=Alligator mississippiensis OX=8496 GN=BICD1 PE=3 SV=1	Alligator mississippiensis	815	3393	82.3	90.9	0.0
+209	TR	A0A663EVD8	BICD cargo adaptor 2 OS=Aquila chrysaetos chrysaetos OX=223781 GN=BICD2 PE=3 SV=1	Aquila chrysaetos chrysaetos	815	3393	82.7	90.8	0.0
+210	TR	A0A8C3ST17	BICD cargo adaptor 2 OS=Chelydra serpentina OX=8475 PE=3 SV=1	Chelydra serpentina	815	3392	82.3	90.9	0.0
+211	TR	A0A8C3N4C7	Uncharacterized protein OS=Geospiza parvula OX=87175 GN=BICD2 PE=3 SV=1	Geospiza parvula	815	3391	82.4	90.9	0.0
+212	TR	A0A8K1G1I3	BICD2 protein OS=Zosterops borbonicus OX=364589 GN=HGM15179_017107 PE=3 SV=1	Zosterops borbonicus	814	3391	82.5	91.0	0.0
+213	TR	A0A7L1K652	BICD2 protein (Fragment) OS=Rynchops niger OX=227184 GN=Bicd2 PE=3 SV=1	Rynchops niger	845	3391	82.5	90.8	0.0
+214	TR	A0A8C4YAE6	BICD cargo adaptor 2 OS=Gopherus evgoodei OX=1825980 GN=BICD2 PE=3 SV=1	Gopherus evgoodei	815	3391	82.1	91.0	0.0
+215	TR	A0A674JIK0	BICD cargo adaptor 2 OS=Terrapene carolina triunguis OX=2587831 GN=BICD2 PE=3 SV=1	Terrapene carolina triunguis	815	3390	82.1	91.0	0.0
+216	TR	A0A8C3RIT1	BICD cargo adaptor 2 OS=Cyanoderma ruficeps OX=181631 PE=3 SV=1	Cyanoderma ruficeps	815	3390	82.5	90.8	0.0
+217	TR	A0A8C3IEZ0	BICD cargo adaptor 2 OS=Chrysemys picta bellii OX=8478 GN=BICD2 PE=3 SV=1	Chrysemys picta bellii	815	3390	82.1	91.0	0.0
+218	TR	A0A9D3WUX9	BICD2 protein OS=Mauremys mutica OX=74926 GN=KIL84_002773 PE=3 SV=1	Mauremys mutica	844	3390	82.1	91.0	0.0
+219	TR	A0A6J3DLI3	Protein bicaudal D homolog 2 isoform X3 OS=Aythya fuligula OX=219594 GN=BICD2 PE=3 SV=1	Aythya fuligula	821	3390	82.7	91.1	0.0
+220	TR	A0A4D9EYK1	Guanylyl cyclase-activating protein 3 OS=Platysternon megacephalum OX=55544 GN=DR999_PMT04614 PE=3 SV=1	Platysternon megacephalum	844	3389	82.1	91.0	0.0
+221	TR	A0A8C3U321	BICD cargo adaptor 2 OS=Catharus ustulatus OX=91951 PE=3 SV=1	Catharus ustulatus	845	3389	82.3	90.9	0.0
+222	TR	A0A1V4JVR6	Bicaudal D-like protein 2 OS=Patagioenas fasciata monilis OX=372326 GN=BICD2 PE=3 SV=1	Patagioenas fasciata monilis	815	3389	82.5	90.7	0.0
+223	TR	A0A7K8Z9X9	BICD2 protein (Fragment) OS=Sakesphorus luctuosus OX=419690 GN=Bicd2 PE=3 SV=1	Sakesphorus luctuosus	852	3388	82.2	90.3	0.0
+224	TR	A0A6J3DL13	Protein bicaudal D homolog 2 isoform X2 OS=Aythya fuligula OX=219594 GN=BICD2 PE=3 SV=1	Aythya fuligula	835	3388	82.5	91.1	0.0
+225	TR	A0A8C3IC08	BICD cargo adaptor 2 OS=Chrysemys picta bellii OX=8478 GN=BICD2 PE=3 SV=1	Chrysemys picta bellii	903	3387	81.9	91.0	0.0
+226	TR	A0A6J3DJF5	Protein bicaudal D homolog 2 isoform X1 OS=Aythya fuligula OX=219594 GN=BICD2 PE=3 SV=1	Aythya fuligula	851	3387	82.5	91.1	0.0
+227	TR	A0A7K6SQU3	BICD2 protein (Fragment) OS=Caloenas nicobarica OX=187106 GN=Bicd2 PE=3 SV=1	Caloenas nicobarica	845	3386	82.5	90.5	0.0
+228	TR	A0A7M4G3N9	BICD cargo adaptor 2 OS=Crocodylus porosus OX=8502 GN=BICD2 PE=3 SV=1	Crocodylus porosus	815	3386	82.1	90.7	0.0
+229	TR	A0A7K8ZD24	BICD2 protein (Fragment) OS=Grallaria varia OX=117165 GN=Bicd2 PE=3 SV=1	Grallaria varia	852	3385	82.2	90.3	0.0
+230	TR	A0A2I0U2J5	BICD2 protein OS=Limosa lapponica baueri OX=1758121 GN=llap_9446 PE=3 SV=1	Limosa lapponica baueri	845	3385	82.4	90.7	0.0
+231	TR	A0A6J0IIG9	Protein bicaudal D homolog 2 isoform X2 OS=Lepidothrix coronata OX=321398 GN=BICD2 PE=3 SV=1	Lepidothrix coronata	815	3385	82.3	91.0	0.0
+232	TR	K7F5V1	BICD cargo adaptor 2 OS=Pelodiscus sinensis OX=13735 GN=BICD2 PE=3 SV=1	Pelodiscus sinensis	877	3385	81.8	90.9	0.0
+233	TR	A0A8D0G2S9	BICD cargo adaptor 2 OS=Strix occidentalis caurina OX=311401 PE=3 SV=1	Strix occidentalis caurina	845	3384	82.4	90.5	0.0
+234	TR	A0A6J0IIJ8	Protein bicaudal D homolog 2 isoform X1 OS=Lepidothrix coronata OX=321398 GN=BICD2 PE=3 SV=1	Lepidothrix coronata	825	3383	82.2	91.0	0.0
+235	TR	A0A8B9VMK2	BICD cargo adaptor 2 OS=Anas zonorhyncha OX=75864 PE=3 SV=1	Anas zonorhyncha	821	3383	82.7	91.0	0.0
+236	TR	A0A8C3D119	BICD cargo adaptor 2 OS=Cairina moschata domestica OX=1240228 PE=3 SV=1	Cairina moschata domestica	821	3383	82.7	91.0	0.0
+237	TR	A0A7M4FQT5	BICD cargo adaptor 2 OS=Crocodylus porosus OX=8502 GN=BICD2 PE=3 SV=1	Crocodylus porosus	845	3383	81.9	90.7	0.0
+238	TR	A0A6J0UFQ7	Protein bicaudal D homolog 2 isoform X2 OS=Pogona vitticeps OX=103695 GN=BICD2 PE=3 SV=1	Pogona vitticeps	814	3383	82.2	90.7	0.0
+239	TR	A0A8C0IWM8	BICD cargo adaptor 2 OS=Chelonoidis abingdonii OX=106734 GN=BICD2 PE=3 SV=1	Chelonoidis abingdonii	844	3382	81.9	90.9	0.0
+240	TR	A0A672U0S3	BICD cargo adaptor 2 OS=Strigops habroptila OX=2489341 GN=BICD2 PE=3 SV=1	Strigops habroptila	845	3382	82.2	90.7	0.0
+241	TR	A0A8C3J436	BICD cargo adaptor 2 OS=Calidris pygmaea OX=425635 PE=3 SV=1	Calidris pygmaea	815	3381	82.2	90.5	0.0
+242	TR	A0A8B9VNX5	BICD cargo adaptor 2 OS=Anas zonorhyncha OX=75864 PE=3 SV=1	Anas zonorhyncha	835	3381	82.5	91.0	0.0
+243	TR	A0A8C3D6V2	BICD cargo adaptor 2 OS=Cairina moschata domestica OX=1240228 PE=3 SV=1	Cairina moschata domestica	835	3381	82.5	91.0	0.0
+244	TR	A0A8B9Q621	BICD cargo adaptor 2 OS=Apteryx owenii OX=8824 PE=3 SV=1	Apteryx owenii	815	3381	82.2	90.8	0.0
+245	TR	A0A8B9BMN7	BICD cargo adaptor 2 OS=Anser brachyrhynchus OX=132585 GN=BICD2 PE=3 SV=1	Anser brachyrhynchus	822	3380	82.8	91.0	0.0
+246	TR	U3J6N0	BICD cargo adaptor 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=BICD2 PE=3 SV=2	Anas platyrhynchos platyrhynchos	851	3380	82.5	91.0	0.0
+247	TR	A0A8C3D227	BICD cargo adaptor 2 OS=Cairina moschata domestica OX=1240228 PE=3 SV=1	Cairina moschata domestica	851	3380	82.5	91.0	0.0
+248	TR	A0A803VM33	BICD cargo adaptor 2 OS=Ficedula albicollis OX=59894 GN=BICD2 PE=3 SV=1	Ficedula albicollis	815	3380	82.3	90.7	0.0
+249	TR	A0A6J0UH69	Protein bicaudal D homolog 2 isoform X1 OS=Pogona vitticeps OX=103695 GN=BICD2 PE=3 SV=1	Pogona vitticeps	844	3380	82.0	90.7	0.0
+250	TR	A0A8C5IE76	BICD cargo adaptor 2 OS=Junco hyemalis OX=40217 PE=3 SV=1	Junco hyemalis	815	3379	82.3	90.8	0.0
+251	TR	A0A8B9E2M7	BICD cargo adaptor 2 OS=Anser cygnoides OX=8845 PE=3 SV=1	Anser cygnoides	836	3378	82.7	91.0	0.0
+252	TR	A0A8B9BLX6	BICD cargo adaptor 2 OS=Anser brachyrhynchus OX=132585 GN=BICD2 PE=3 SV=1	Anser brachyrhynchus	836	3378	82.7	91.0	0.0
+253	TR	A0A669P177	BICD cargo adaptor 2 OS=Phasianus colchicus OX=9054 PE=3 SV=1	Phasianus colchicus	815	3377	82.4	90.7	0.0
+254	TR	A0A8C9N7H8	BICD cargo adaptor 2 OS=Serinus canaria OX=9135 GN=BICD2 PE=3 SV=1	Serinus canaria	815	3377	82.2	90.8	0.0
+255	TR	A0A8C4UZM6	BICD cargo adaptor 2 OS=Falco tinnunculus OX=100819 PE=3 SV=1	Falco tinnunculus	815	3377	82.2	90.5	0.0
+256	TR	A0A8C5TDD0	BICD cargo adaptor 2 OS=Malurus cyaneus samueli OX=2593467 PE=3 SV=1	Malurus cyaneus samueli	845	3376	82.3	90.5	0.0
+257	TR	A0A674H6H7	BICD cargo adaptor 2 OS=Taeniopygia guttata OX=59729 GN=BICD2 PE=3 SV=1	Taeniopygia guttata	815	3376	82.0	90.8	0.0
+258	TR	A0A674GR64	BICD cargo adaptor 2 OS=Taeniopygia guttata OX=59729 GN=BICD2 PE=3 SV=1	Taeniopygia guttata	816	3376	82.0	90.8	0.0
+259	TR	H0YZD6	BICD cargo adaptor 2 OS=Taeniopygia guttata OX=59729 GN=BICD2 PE=3 SV=2	Taeniopygia guttata	828	3376	82.0	90.8	0.0
+260	TR	A0A7K8XDJ3	BICD2 protein (Fragment) OS=Eubucco bourcierii OX=91767 GN=Bicd2 PE=3 SV=1	Eubucco bourcierii	845	3376	82.1	90.5	0.0
+261	TR	U3JX64	Uncharacterized protein OS=Ficedula albicollis OX=59894 GN=BICD2 PE=3 SV=2	Ficedula albicollis	829	3376	82.3	90.7	0.0
+262	TR	A0A4U1EM66	BICD cargo adaptor 2 OS=Monodon monoceros OX=40151 GN=EI555_011592 PE=3 SV=1	Monodon monoceros	943	3376	80.6	83.4	0.0
+263	TR	A0A8C6ZAT1	BICD cargo adaptor 2 OS=Nothoprocta perdicaria OX=30464 GN=BICD2 PE=3 SV=1	Nothoprocta perdicaria	845	3375	81.9	90.8	0.0
+264	TR	A0A7K6A0L3	BICD2 protein (Fragment) OS=Onychorhynchus coronatus OX=360224 GN=Bicd2 PE=3 SV=1	Onychorhynchus coronatus	854	3375	81.7	90.0	0.0
+265	TR	A0A7L4J7P1	BICD2 protein (Fragment) OS=Pomatorhinus ruficollis OX=932028 GN=Bicd2 PE=3 SV=1	Pomatorhinus ruficollis	852	3375	81.9	90.3	0.0
+266	TR	A0A7L4H7X7	BICD2 protein (Fragment) OS=Podargus strigoides OX=8905 GN=Bicd2 PE=3 SV=1	Podargus strigoides	845	3374	81.9	90.8	0.0
+267	TR	A0A669P294	BICD cargo adaptor 2 OS=Phasianus colchicus OX=9054 PE=3 SV=1	Phasianus colchicus	845	3374	82.3	90.7	0.0
+268	TR	A0A8C9NA65	BICD cargo adaptor 2 OS=Serinus canaria OX=9135 GN=BICD2 PE=3 SV=1	Serinus canaria	845	3374	82.1	90.8	0.0
+269	TR	A0A7K7KV27	BICD2 protein (Fragment) OS=Asarcornis scutulata OX=75869 GN=Bicd2 PE=3 SV=1	Asarcornis scutulata	847	3374	82.3	90.9	0.0
+270	TR	A0A8C4XT49	BICD cargo adaptor 2 OS=Falco tinnunculus OX=100819 PE=3 SV=1	Falco tinnunculus	845	3374	82.1	90.5	0.0
+271	TR	A0A8C9F6U5	BICD2 protein OS=Pavo cristatus OX=9049 PE=3 SV=1	Pavo cristatus	845	3373	82.3	90.5	0.0
+272	TR	A0A670HM11	BICD cargo adaptor 2 OS=Podarcis muralis OX=64176 GN=BICD2 PE=3 SV=1	Podarcis muralis	815	3373	82.1	90.4	0.0
+273	TR	A0A669P4L6	BICD cargo adaptor 2 OS=Phasianus colchicus OX=9054 PE=3 SV=1	Phasianus colchicus	837	3373	82.4	90.7	0.0
+274	TR	A0A218UH06	Protein bicaudal D 2 OS=Lonchura striata domestica OX=299123 GN=BICD2 PE=3 SV=1	Lonchura striata domestica	815	3373	82.1	90.7	0.0
+275	TR	A0A7K6MEE3	BICD2 protein (Fragment) OS=Panurus biarmicus OX=181101 GN=Bicd2 PE=3 SV=1	Panurus biarmicus	859	3373	81.2	89.5	0.0
+276	TR	A0A7K9QFT7	BICD2 protein (Fragment) OS=Irena cyanogastra OX=175120 GN=Bicd2 PE=3 SV=1	Irena cyanogastra	849	3373	81.9	90.6	0.0
+277	TR	A0A7K4WUJ7	BICD2 protein (Fragment) OS=Tachuris rubrigastra OX=495162 GN=Bicd2 PE=3 SV=1	Tachuris rubrigastra	853	3372	81.6	90.2	0.0
+278	TR	A0A7L0ZJL3	BICD2 protein (Fragment) OS=Oxyruncus cristatus OX=114331 GN=Bicd2 PE=3 SV=1	Oxyruncus cristatus	852	3372	81.7	90.3	0.0
+279	TR	A0A852CXI2	BICD2 protein (Fragment) OS=Passerina amoena OX=142471 GN=Bicd2 PE=3 SV=1	Passerina amoena	853	3371	81.6	90.0	0.0
+280	TR	A0A851KUE2	BICD2 protein (Fragment) OS=Vidua chalybeata OX=81927 GN=Bicd2 PE=3 SV=1	Vidua chalybeata	853	3371	81.5	90.2	0.0
+281	TR	A0A850YKB1	BICD2 protein (Fragment) OS=Aegithalos caudatus OX=73327 GN=Bicd2 PE=3 SV=1	Aegithalos caudatus	853	3370	81.6	90.2	0.0
+282	TR	A0A670HPE4	BICD cargo adaptor 2 OS=Podarcis muralis OX=64176 GN=BICD2 PE=3 SV=1	Podarcis muralis	845	3370	81.9	90.4	0.0
+283	TR	A0A7L2LKQ8	BICD2 protein (Fragment) OS=Hippolais icterina OX=68497 GN=Bicd2 PE=3 SV=1	Hippolais icterina	854	3370	81.5	89.8	0.0
+284	TR	E1C2N3	BICD cargo adaptor 2 OS=Gallus gallus OX=9031 GN=BICD2 PE=1 SV=4	Gallus gallus	829	3369	82.1	90.7	0.0
+285	TR	A0A7L2ADZ8	BICD2 protein (Fragment) OS=Heliornis fulica OX=54369 GN=Bicd2 PE=3 SV=1	Heliornis fulica	852	3368	81.7	90.0	0.0
+286	TR	A0A7K5BAV4	BICD2 protein (Fragment) OS=Furnarius figulus OX=463165 GN=Bicd2 PE=3 SV=1	Furnarius figulus	861	3368	81.2	89.1	0.0
+287	TR	A0A7K7SUE5	BICD2 protein (Fragment) OS=Sapayoa aenigma OX=239371 GN=Bicd2 PE=3 SV=1	Sapayoa aenigma	852	3367	81.7	89.9	0.0
+288	TR	A0A7L1PWC6	BICD2 protein (Fragment) OS=Oriolus oriolus OX=181099 GN=Bicd2 PE=3 SV=1	Oriolus oriolus	846	3367	82.1	90.6	0.0
+289	TR	A0A7K9SHM2	BICD2 protein (Fragment) OS=Galbula dea OX=1109041 GN=Bicd2 PE=3 SV=1	Galbula dea	847	3367	81.9	90.3	0.0
+290	TR	A0A852KMN6	BICD2 protein (Fragment) OS=Urocolius indicus OX=458196 GN=Bicd2 PE=3 SV=1	Urocolius indicus	846	3367	81.8	90.3	0.0
+291	TR	A0A852A9R3	BICD2 protein (Fragment) OS=Calcarius ornatus OX=198940 GN=Bicd2 PE=3 SV=1	Calcarius ornatus	853	3367	81.5	90.0	0.0
+292	TR	A0A7K5KYZ8	BICD2 protein (Fragment) OS=Vireo altiloquus OX=34956 GN=Bicd2 PE=3 SV=1	Vireo altiloquus	846	3366	82.2	90.6	0.0
+293	TR	A0A7L0J9S1	BICD2 protein (Fragment) OS=Piprites chloris OX=114369 GN=Bicd2 PE=3 SV=1	Piprites chloris	852	3366	81.5	90.0	0.0
+294	TR	A0A850WZR5	BICD2 protein (Fragment) OS=Piaya cayana OX=33601 GN=Bicd2 PE=3 SV=1	Piaya cayana	845	3366	81.8	90.4	0.0
+295	TR	A0A8C2TLV2	BICD cargo adaptor 2 OS=Coturnix japonica OX=93934 GN=BICD2 PE=3 SV=1	Coturnix japonica	815	3365	82.1	90.5	0.0
+296	TR	A0A7K9P6S7	BICD2 protein (Fragment) OS=Pachycephala philippinensis OX=449367 GN=Bicd2 PE=3 SV=1	Pachycephala philippinensis	846	3365	82.2	90.4	0.0
+297	TR	A0A7K5BTR8	BICD2 protein (Fragment) OS=Motacilla alba OX=45807 GN=Bicd2 PE=3 SV=1	Motacilla alba	858	3364	81.0	89.6	0.0
+298	TR	A0A7L2ZTI8	BICD2 protein (Fragment) OS=Prunella fulvescens OX=670355 GN=Bicd2 PE=3 SV=1	Prunella fulvescens	853	3363	81.3	90.0	0.0
+299	TR	A0A7L4FPG2	BICD2 protein (Fragment) OS=Alopecoenas beccarii OX=262131 GN=Bicd2 PE=3 SV=1	Alopecoenas beccarii	851	3363	81.7	90.1	0.0
+300	TR	A0A7L0N5G3	BICD2 protein (Fragment) OS=Formicarius rufipectus OX=1118560 GN=Bicd2 PE=3 SV=1	Formicarius rufipectus	852	3363	81.5	90.0	0.0
+301	TR	A0A7L4A718	BICD2 protein (Fragment) OS=Circaetus pectoralis OX=321084 GN=Bicd2 PE=3 SV=1	Circaetus pectoralis	862	3362	80.9	89.0	0.0
+302	TR	A0A7K9YGV0	BICD2 protein (Fragment) OS=Odontophorus gujanensis OX=886794 GN=Bicd2 PE=3 SV=1	Odontophorus gujanensis	845	3362	81.9	90.4	0.0
+303	TR	A0A7K9NWH1	BICD2 protein (Fragment) OS=Edolisoma coerulescens OX=2585810 GN=Bicd2 PE=3 SV=1	Edolisoma coerulescens	846	3362	82.0	90.6	0.0
+304	TR	A0A7L2KC79	BICD2 protein (Fragment) OS=Zosterops hypoxanthus OX=2485327 GN=Bicd2 PE=3 SV=1	Zosterops hypoxanthus	846	3361	82.0	90.4	0.0
+305	TR	A0A7L4KIE7	BICD2 protein (Fragment) OS=Callaeas wilsoni OX=1347786 GN=Bicd2 PE=3 SV=1	Callaeas wilsoni	846	3361	82.0	90.3	0.0
+306	TR	A0A7L3AG08	BICD2 protein (Fragment) OS=Syrrhaptes paradoxus OX=302527 GN=Bicd2 PE=3 SV=1	Syrrhaptes paradoxus	861	3361	80.9	89.2	0.0
+307	TR	A0A7K9J781	BICD2 protein (Fragment) OS=Myiagra hebetior OX=381031 GN=Bicd2 PE=3 SV=1	Myiagra hebetior	846	3361	82.1	90.3	0.0
+308	TR	A0A7L2I9G9	BICD2 protein (Fragment) OS=Semnornis frantzii OX=91796 GN=Bicd2 PE=3 SV=1	Semnornis frantzii	856	3361	81.1	89.5	0.0
+309	TR	A0A7K5K5X9	BICD2 protein (Fragment) OS=Mionectes macconnelli OX=254557 GN=Bicd2 PE=3 SV=1	Mionectes macconnelli	852	3361	81.5	89.9	0.0
+310	TR	A0A7K6VF99	BICD2 protein (Fragment) OS=Notiomystis cincta OX=366454 GN=Bicd2 PE=3 SV=1	Notiomystis cincta	856	3361	81.0	89.7	0.0
+311	TR	A0A7L4C8E4	BICD2 protein (Fragment) OS=Nyctiprogne leucopyga OX=382315 GN=Bicd2 PE=3 SV=1	Nyctiprogne leucopyga	858	3361	81.0	89.3	0.0
+312	TR	A0A7L1AMV9	BICD2 protein (Fragment) OS=Gymnorhina tibicen OX=9132 GN=Bicd2 PE=3 SV=1	Gymnorhina tibicen	846	3361	82.1	90.4	0.0
+313	TR	A0A7L4E502	BICD2 protein (Fragment) OS=Hirundo rustica OX=43150 GN=Bicd2 PE=3 SV=1	Hirundo rustica	853	3361	81.4	89.9	0.0
+314	TR	A0A7K6FDA7	BICD2 protein (Fragment) OS=Daphoenositta chrysoptera OX=254528 GN=Bicd2 PE=3 SV=1	Daphoenositta chrysoptera	846	3360	82.1	90.3	0.0
+315	TR	A0A7K5VV03	BICD2 protein (Fragment) OS=Platysteira castanea OX=1160851 GN=Bicd2 PE=3 SV=1	Platysteira castanea	846	3360	82.1	90.3	0.0
+316	TR	A0A7L1ZSZ6	BICD2 protein (Fragment) OS=Leiothrix lutea OX=36275 GN=Bicd2 PE=3 SV=1	Leiothrix lutea	846	3359	81.8	90.4	0.0
+317	TR	A0A7K7DWI4	BICD2 protein (Fragment) OS=Sylvia atricapilla OX=48155 GN=Bicd2 PE=3 SV=1	Sylvia atricapilla	846	3359	81.8	90.4	0.0
+318	TR	A0A8B9GEJ5	BICD cargo adaptor 2 OS=Amazona collaria OX=241587 PE=3 SV=1	Amazona collaria	845	3359	81.8	90.1	0.0
+319	TR	A0A7K5II75	BICD2 protein (Fragment) OS=Toxostoma redivivum OX=99882 GN=Bicd2 PE=3 SV=1	Toxostoma redivivum	858	3358	81.0	89.3	0.0
+320	TR	A0A7K8ISW1	BICD2 protein (Fragment) OS=Chaetorhynchus papuensis OX=254446 GN=Bicd2 PE=3 SV=1	Chaetorhynchus papuensis	851	3358	81.6	89.9	0.0
+321	TR	A0A7K5YHG2	BICD2 protein (Fragment) OS=Pterocles burchelli OX=2585816 GN=Bicd2 PE=3 SV=1	Pterocles burchelli	858	3358	81.0	89.5	0.0
+322	TR	A0A8D2KYT5	BICD cargo adaptor 2 OS=Varanus komodoensis OX=61221 PE=3 SV=1	Varanus komodoensis	815	3357	81.6	90.5	0.0
+323	TR	A0A7K7FVC7	BICD2 protein (Fragment) OS=Chionis minor OX=227182 GN=Bicd2 PE=3 SV=1	Chionis minor	858	3357	81.1	89.1	0.0
+324	TR	A0A7K8HYA6	BICD2 protein (Fragment) OS=Aleadryas rufinucha OX=461220 GN=Bicd2 PE=3 SV=1	Aleadryas rufinucha	846	3357	82.0	90.3	0.0
+325	TR	A0A7K8MF95	BICD2 protein (Fragment) OS=Ptilorrhoa leucosticta OX=449384 GN=Bicd2 PE=3 SV=1	Ptilorrhoa leucosticta	846	3357	82.0	90.4	0.0
+326	TR	A0A7L0LJ07	BICD2 protein (Fragment) OS=Sylvietta virens OX=208069 GN=Bicd2 PE=3 SV=1	Sylvietta virens	854	3356	81.3	89.8	0.0
+327	TR	A0A7K5MGI2	BICD2 protein (Fragment) OS=Cardinalis cardinalis OX=98964 GN=Bicd2 PE=3 SV=1	Cardinalis cardinalis	846	3356	81.8	90.3	0.0
+328	TR	A0A7L0A0T9	BICD2 protein (Fragment) OS=Dicrurus megarhynchus OX=450177 GN=Bicd2 PE=3 SV=1	Dicrurus megarhynchus	846	3355	81.8	90.3	0.0
+329	TR	A0A7L3EWS0	BICD2 protein (Fragment) OS=Chaetops frenatus OX=221966 GN=Bicd2 PE=3 SV=1	Chaetops frenatus	846	3355	81.6	90.4	0.0
+330	TR	A0A7K4Q2D7	BICD2 protein (Fragment) OS=Melospiza melodia OX=44397 GN=Bicd2 PE=3 SV=1	Melospiza melodia	854	3355	81.2	89.7	0.0
+331	TR	A0A852HPD1	BICD2 protein (Fragment) OS=Nicator chloris OX=237433 GN=Bicd2 PE=3 SV=1	Nicator chloris	845	3355	81.6	90.4	0.0
+332	TR	A0A7L0QR49	BICD2 protein (Fragment) OS=Setophaga kirtlandii OX=298831 GN=Bicd2 PE=3 SV=1	Setophaga kirtlandii	858	3355	80.9	89.4	0.0
+333	TR	A0A7K9W106	BICD2 protein (Fragment) OS=Rhipidura dahli OX=667186 GN=Bicd2 PE=3 SV=1	Rhipidura dahli	846	3354	82.1	90.3	0.0
+334	TR	A0A7L3QWQ0	BICD2 protein (Fragment) OS=Cettia cetti OX=68486 GN=Bicd2 PE=3 SV=1	Cettia cetti	846	3354	81.7	90.2	0.0
+335	TR	A0A7K7DGF4	BICD2 protein (Fragment) OS=Pheucticus melanocephalus OX=371919 GN=Bicd2 PE=3 SV=1	Pheucticus melanocephalus	846	3354	81.7	90.4	0.0
+336	TR	A0A7K4U123	BICD2 protein (Fragment) OS=Sinosuthora webbiana OX=337173 GN=Bicd2 PE=3 SV=1	Sinosuthora webbiana	846	3354	81.7	90.3	0.0
+337	TR	A0A6J3DJG0	Protein bicaudal D homolog 2 isoform X4 OS=Aythya fuligula OX=219594 GN=BICD2 PE=3 SV=1	Aythya fuligula	820	3354	83.3	91.7	0.0
+338	TR	A0A6J3DFH3	Protein bicaudal D homolog 2 isoform X5 OS=Aythya fuligula OX=219594 GN=BICD2 PE=3 SV=1	Aythya fuligula	806	3354	83.3	91.7	0.0
+339	TR	A0A7L0FS43	BICD2 protein (Fragment) OS=Corythaixoides concolor OX=103956 GN=Bicd2 PE=3 SV=1	Corythaixoides concolor	862	3354	80.6	88.7	0.0
+340	TR	A0A8D0G9L7	BICD cargo adaptor 2 OS=Sphenodon punctatus OX=8508 GN=BICD2 PE=3 SV=1	Sphenodon punctatus	845	3353	81.5	90.5	0.0
+341	TR	A0A7K6KN32	BICD2 protein (Fragment) OS=Oreocharis arfaki OX=979223 GN=Bicd2 PE=3 SV=1	Oreocharis arfaki	846	3353	82.0	90.2	0.0
+342	TR	A0A7L1XPT5	BICD2 protein (Fragment) OS=Thinocorus orbignyianus OX=161742 GN=Bicd2 PE=3 SV=1	Thinocorus orbignyianus	842	3353	81.8	90.1	0.0
+343	TR	A0A7L1URT4	BICD2 protein (Fragment) OS=Sitta europaea OX=50251 GN=Bicd2 PE=3 SV=1	Sitta europaea	847	3352	81.6	90.1	0.0
+344	TR	A0A7L2E0D8	BICD2 protein (Fragment) OS=Anthoscopus minutus OX=156561 GN=Bicd2 PE=3 SV=1	Anthoscopus minutus	853	3352	81.3	89.8	0.0
+345	TR	A0A7L0YFX4	BICD2 protein (Fragment) OS=Ploceus nigricollis OX=441696 GN=Bicd2 PE=3 SV=1	Ploceus nigricollis	858	3352	80.8	89.3	0.0
+346	TR	A0A852NFP4	BICD2 protein (Fragment) OS=Pteruthius melanotis OX=357074 GN=Bicd2 PE=3 SV=1	Pteruthius melanotis	846	3352	81.8	90.2	0.0
+347	TR	A0A7K8FFG7	BICD2 protein (Fragment) OS=Struthidea cinerea OX=181839 GN=Bicd2 PE=3 SV=1	Struthidea cinerea	846	3352	81.8	90.2	0.0
+348	TR	A0A852BEH4	BICD2 protein (Fragment) OS=Chloropsis cyanopogon OX=1218682 GN=Bicd2 PE=3 SV=1	Chloropsis cyanopogon	846	3351	81.7	90.2	0.0
+349	TR	A0A7K8SXD2	BICD2 protein (Fragment) OS=Nyctibius bracteatus OX=48426 GN=Bicd2 PE=3 SV=1	Nyctibius bracteatus	842	3351	81.9	90.2	0.0
+350	TR	A0A7K7R5A7	BICD2 protein (Fragment) OS=Poecile atricapillus OX=48891 GN=Bicd2 PE=3 SV=1	Poecile atricapillus	846	3351	81.7	90.2	0.0
+351	TR	A0A8D0E1Y2	BICD cargo adaptor 2 OS=Salvator merianae OX=96440 GN=BICD2 PE=3 SV=1	Salvator merianae	931	3351	81.6	90.6	0.0
+352	TR	A0A7K9JIN2	BICD2 protein (Fragment) OS=Dicaeum eximium OX=667154 GN=Bicd2 PE=3 SV=1	Dicaeum eximium	846	3351	81.6	90.3	0.0
+353	TR	A0A7K6LGY1	BICD2 protein (Fragment) OS=Falcunculus frontatus OX=254539 GN=Bicd2 PE=3 SV=1	Falcunculus frontatus	846	3350	81.8	90.3	0.0
+354	TR	A0A7L1WHK4	BICD2 protein (Fragment) OS=Certhia brachydactyla OX=73330 GN=Bicd2 PE=3 SV=1	Certhia brachydactyla	846	3350	81.7	90.2	0.0
+355	TR	A0A6J0IKC3	Protein bicaudal D homolog 2 isoform X3 OS=Lepidothrix coronata OX=321398 GN=BICD2 PE=3 SV=1	Lepidothrix coronata	800	3350	82.9	91.6	0.0
+356	TR	A0A7L3V008	BICD2 protein (Fragment) OS=Molothrus ater OX=84834 GN=Bicd2 PE=3 SV=1	Molothrus ater	846	3350	81.7	90.3	0.0
+357	TR	A0A7K4VNM5	BICD2 protein (Fragment) OS=Emberiza fucata OX=337179 GN=Bicd2 PE=3 SV=1	Emberiza fucata	846	3350	81.6	90.3	0.0
+358	TR	A0A7K9CBG0	BICD2 protein (Fragment) OS=Psilopogon haemacephalus OX=2585815 GN=Bicd2 PE=3 SV=1	Psilopogon haemacephalus	856	3349	80.9	89.2	0.0
+359	TR	A0A7K4KFM5	BICD2 protein (Fragment) OS=Crypturellus soui OX=458187 GN=Bicd2 PE=3 SV=1	Crypturellus soui	846	3349	81.6	90.2	0.0
+360	TR	A0A7K5GTS5	BICD2 protein (Fragment) OS=Chunga burmeisteri OX=1352770 GN=Bicd2 PE=3 SV=1	Chunga burmeisteri	858	3348	80.9	89.1	0.0
+361	TR	A0A7K7LRJ1	BICD2 protein (Fragment) OS=Brachypodius atriceps OX=182895 GN=Bicd2 PE=3 SV=1	Brachypodius atriceps	850	3347	81.3	90.0	0.0
+362	TR	A0A852J8I7	BICD2 protein (Fragment) OS=Tricholaema leucomelas OX=240729 GN=Bicd2 PE=3 SV=1	Tricholaema leucomelas	856	3347	80.9	89.1	0.0
+363	TR	A0A8J4NNC7	BICD2 protein (Fragment) OS=Eudyptula minor OX=37083 GN=FQV19_0010223 PE=3 SV=1	Eudyptula minor	842	3347	81.8	90.2	0.0
+364	TR	A0A7K7CM46	BICD2 protein (Fragment) OS=Aphelocoma coerulescens OX=39617 GN=Bicd2 PE=3 SV=1	Aphelocoma coerulescens	846	3347	81.7	90.1	0.0
+365	TR	A0A7K5T7J9	BICD2 protein (Fragment) OS=Urocynchramus pylzowi OX=571890 GN=Bicd2 PE=3 SV=1	Urocynchramus pylzowi	853	3347	81.2	89.4	0.0
+366	TR	A0A850VE26	BICD2 protein (Fragment) OS=Chloropsis hardwickii OX=667144 GN=Bicd2 PE=3 SV=1	Chloropsis hardwickii	846	3347	81.6	90.1	0.0
+367	TR	A0A6J0UFN5	Protein bicaudal D homolog 2 isoform X3 OS=Pogona vitticeps OX=103695 GN=BICD2 PE=3 SV=1	Pogona vitticeps	799	3347	82.8	91.2	0.0
+368	TR	A0A7K4LVL8	BICD2 protein (Fragment) OS=Crypturellus undulatus OX=48396 GN=Bicd2 PE=3 SV=1	Crypturellus undulatus	846	3347	81.6	90.2	0.0
+369	TR	A0A7L3TDC1	BICD2 protein (Fragment) OS=Rissa tridactyla OX=75485 GN=Bicd2 PE=3 SV=1	Rissa tridactyla	839	3347	81.9	90.1	0.0
+370	TR	A0A7L0VHQ4	BICD2 protein (Fragment) OS=Leptocoma aspasia OX=2585812 GN=Bicd2 PE=3 SV=1	Leptocoma aspasia	846	3346	81.6	90.2	0.0
+371	TR	A0A7K8SBI6	BICD2 protein (Fragment) OS=Rhodinocichla rosea OX=58203 GN=Bicd2 PE=3 SV=1	Rhodinocichla rosea	832	3346	81.5	90.4	0.0
+372	TR	A0A7K5R1R9	BICD2 protein (Fragment) OS=Prunella himalayana OX=670356 GN=Bicd2 PE=3 SV=1	Prunella himalayana	853	3345	80.9	89.7	0.0
+373	TR	A0A7L0EJJ8	BICD2 protein (Fragment) OS=Trogon melanurus OX=56311 GN=Bicd2 PE=3 SV=1	Trogon melanurus	846	3345	81.6	90.1	0.0
+374	TR	A0A493SYI2	BICD cargo adaptor 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=BICD2 PE=3 SV=1	Anas platyrhynchos platyrhynchos	848	3345	80.0	88.1	0.0
+375	TR	A0A7L2NJC0	BICD2 protein (Fragment) OS=Pycnonotus jocosus OX=182897 GN=Bicd2 PE=3 SV=1	Pycnonotus jocosus	846	3345	81.5	90.1	0.0
+376	TR	A0A7K8CWC7	BICD2 protein (Fragment) OS=Eulacestoma nigropectus OX=461239 GN=Bicd2 PE=3 SV=1	Eulacestoma nigropectus	846	3345	81.7	90.2	0.0
+377	TR	A0A7K6XZZ4	BICD2 protein (Fragment) OS=Promerops cafer OX=254652 GN=Bicd2 PE=3 SV=1	Promerops cafer	846	3344	81.2	90.3	0.0
+378	TR	A0A7L0S9Q9	BICD2 protein (Fragment) OS=Glaucidium brasilianum OX=78217 GN=Bicd2 PE=3 SV=1	Glaucidium brasilianum	842	3344	81.8	89.9	0.0
+379	TR	A0A7K8JVE4	BICD2 protein (Fragment) OS=Lophotis ruficrista OX=172689 GN=Bicd2 PE=3 SV=1	Lophotis ruficrista	842	3344	81.8	90.2	0.0
+380	TR	A0A493TRU9	BICD cargo adaptor 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=BICD2 PE=3 SV=1	Anas platyrhynchos platyrhynchos	862	3343	79.9	88.1	0.0
+381	TR	A0A0Q3R3V0	Protein bicaudal D 2 isoform X1 OS=Amazona aestiva OX=12930 GN=AAES_96538 PE=3 SV=1	Amazona aestiva	845	3343	81.6	89.8	0.0
+382	TR	A0A7K9B8L2	BICD2 protein (Fragment) OS=Dromaius novaehollandiae OX=8790 GN=Bicd2 PE=3 SV=1	Dromaius novaehollandiae	846	3342	81.2	90.3	0.0
+383	TR	A0A493TDC9	BICD cargo adaptor 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=BICD2 PE=3 SV=1	Anas platyrhynchos platyrhynchos	878	3342	79.9	88.1	0.0
+384	TR	A0A7L2CG22	BICD2 protein (Fragment) OS=Alaudala cheleensis OX=670337 GN=Bicd2 PE=3 SV=1	Alaudala cheleensis	846	3342	81.5	90.2	0.0
+385	TR	A0A7K7RXK7	BICD2 protein (Fragment) OS=Nesospiza acunhae OX=381881 GN=Bicd2 PE=3 SV=1	Nesospiza acunhae	846	3341	81.5	90.2	0.0
+386	TR	A0A7L1DY18	BICD2 protein (Fragment) OS=Oenanthe oenanthe OX=279966 GN=Bicd2 PE=3 SV=1	Oenanthe oenanthe	846	3341	81.5	90.0	0.0
+387	TR	A0A8C6JKB6	Uncharacterized protein OS=Melopsittacus undulatus OX=13146 GN=LOC101876954 PE=3 SV=1	Melopsittacus undulatus	814	3340	81.5	90.2	0.0
+388	TR	A0A851Y686	BICD2 protein (Fragment) OS=Eolophus roseicapilla OX=176039 GN=Bicd2 PE=3 SV=1	Eolophus roseicapilla	842	3340	81.6	90.1	0.0
+389	TR	A0A7K5EQQ5	BICD2 protein (Fragment) OS=Polioptila caerulea OX=66707 GN=Bicd2 PE=3 SV=1	Polioptila caerulea	846	3339	81.2	90.1	0.0
+390	TR	A0A8V1AAE9	BICD cargo adaptor 2 OS=Gallus gallus OX=9031 GN=BICD2 PE=1 SV=1	Gallus gallus	800	3338	82.9	91.2	0.0
+391	TR	A0A7K5A5U2	BICD2 protein (Fragment) OS=Centropus unirufus OX=1118519 GN=Bicd2 PE=3 SV=1	Centropus unirufus	861	3337	80.0	88.7	0.0
+392	TR	A0A851VXT8	BICD2 protein (Fragment) OS=Copsychus sechellarum OX=797021 GN=Bicd2 PE=3 SV=1	Copsychus sechellarum	846	3336	81.2	90.1	0.0
+393	TR	A0A7K8GCM9	BICD2 protein (Fragment) OS=Orthonyx spaldingii OX=38397 GN=Bicd2 PE=3 SV=1	Orthonyx spaldingii	846	3335	81.4	89.8	0.0
+394	TR	A0A835TPE8	BICD2 protein OS=Lamprotornis superbus OX=245042 GN=IHE44_010708 PE=3 SV=1	Lamprotornis superbus	807	3335	81.5	89.8	0.0
+395	TR	A0A7K7VXC5	BICD2 protein (Fragment) OS=Nothocercus julius OX=2585813 GN=Bicd2 PE=3 SV=1	Nothocercus julius	846	3333	81.2	90.1	0.0
+396	TR	A0A7K7J279	BICD2 protein (Fragment) OS=Loxia curvirostra OX=64802 GN=Bicd2 PE=3 SV=1	Loxia curvirostra	846	3333	81.4	90.1	0.0
+397	TR	A0A7K7UWE2	BICD2 protein (Fragment) OS=Eudromia elegans OX=8805 GN=Bicd2 PE=3 SV=1	Eudromia elegans	848	3333	81.0	89.7	0.0
+398	TR	A0A7L1RR32	BICD2 protein (Fragment) OS=Locustella ochotensis OX=187437 GN=Bicd2 PE=3 SV=1	Locustella ochotensis	853	3333	80.8	89.3	0.0
+399	TR	A0A7L1HCU2	BICD2 protein (Fragment) OS=Nycticryphes semicollaris OX=227226 GN=Bicd2 PE=3 SV=1	Nycticryphes semicollaris	858	3332	80.7	89.1	0.0
+400	TR	A0A3M0JMG5	BICD2 protein OS=Hirundo rustica rustica OX=333673 GN=DUI87_23316 PE=3 SV=1	Hirundo rustica rustica	837	3332	81.5	89.8	0.0
+401	TR	A0A7L1QX42	BICD2 protein (Fragment) OS=Cisticola juncidis OX=52622 GN=Bicd2 PE=3 SV=1	Cisticola juncidis	844	3331	81.4	90.2	0.0
+402	TR	A0A6J1UZR7	Protein bicaudal D homolog 2 isoform X3 OS=Notechis scutatus OX=8663 GN=BICD2 PE=3 SV=1	Notechis scutatus	816	3329	80.8	90.4	0.0
+403	TR	A0A851RM46	BICD2 protein (Fragment) OS=Tychaedon coryphoeus OX=614051 GN=Bicd2 PE=3 SV=1	Tychaedon coryphoeus	846	3329	81.0	90.1	0.0
+404	TR	A0A6J1UQ51	Protein bicaudal D homolog 2 isoform X1 OS=Notechis scutatus OX=8663 GN=BICD2 PE=3 SV=1	Notechis scutatus	846	3326	80.6	90.4	0.0
+405	TR	A0A7L1FPF4	BICD2 protein (Fragment) OS=Sylvia borin OX=73324 GN=Bicd2 PE=3 SV=1	Sylvia borin	835	3326	82.1	90.7	0.0
+406	TR	A0A6J1UQ72	Protein bicaudal D homolog 2 isoform X2 OS=Notechis scutatus OX=8663 GN=BICD2 PE=3 SV=1	Notechis scutatus	838	3325	80.7	90.4	0.0
+407	TR	A0A8C9L9L6	BICD2 protein OS=Pavo cristatus OX=9049 PE=3 SV=1	Pavo cristatus	884	3323	78.6	86.5	0.0
+408	TR	A0A7L0DG61	BICD2 protein (Fragment) OS=Rostratula benghalensis OX=118793 GN=Bicd2 PE=3 SV=1	Rostratula benghalensis	842	3322	81.1	89.8	0.0
+409	TR	A0A670YC23	BICD cargo adaptor 2 OS=Pseudonaja textilis OX=8673 GN=BICD2 PE=3 SV=1	Pseudonaja textilis	816	3321	80.8	90.4	0.0
+410	TR	A0A7L4BGV0	BICD2 protein (Fragment) OS=Phaetusa simplex OX=297813 GN=Bicd2 PE=3 SV=1	Phaetusa simplex	836	3320	81.7	89.7	0.0
+411	TR	A0A6P9DLP9	Protein bicaudal D homolog 2 isoform X3 OS=Pantherophis guttatus OX=94885 GN=BICD2 PE=3 SV=1	Pantherophis guttatus	816	3320	80.5	90.3	0.0
+412	TR	A0A851ULB5	BICD2 protein (Fragment) OS=Elachura formosa OX=1463973 GN=Bicd2 PE=3 SV=1	Elachura formosa	848	3320	80.9	89.9	0.0
+413	TR	A0A851YG84	BICD2 protein (Fragment) OS=Halcyon senegalensis OX=342381 GN=Bicd2 PE=3 SV=1	Halcyon senegalensis	862	3319	80.4	88.3	0.0
+414	TR	A0A7L3KXK6	BICD2 protein (Fragment) OS=Drymodes brunneopygia OX=626378 GN=Bicd2 PE=3 SV=1	Drymodes brunneopygia	846	3317	80.9	89.7	0.0
+415	TR	A0A6P9DA55	Protein bicaudal D homolog 2 isoform X2 OS=Pantherophis guttatus OX=94885 GN=BICD2 PE=3 SV=1	Pantherophis guttatus	846	3317	80.4	90.3	0.0
+416	TR	A0A7L1DHU9	BICD2 protein (Fragment) OS=Serilophus lunatus OX=239386 GN=Bicd2 PE=3 SV=1	Serilophus lunatus	846	3317	81.0	89.3	0.0
+417	TR	A0A6P9DA43	Protein bicaudal D homolog 2 isoform X1 OS=Pantherophis guttatus OX=94885 GN=BICD2 PE=3 SV=1	Pantherophis guttatus	867	3316	80.5	90.3	0.0
+418	TR	A0A7K8LDT9	BICD2 protein (Fragment) OS=Ardeotis kori OX=89386 GN=Bicd2 PE=3 SV=1	Ardeotis kori	832	3308	81.8	90.3	0.0
+419	TR	A0A2F0BAV6	Protein bicaudal D 2 (Fragment) OS=Eschrichtius robustus OX=9764 GN=ESR_07144 PE=3 SV=1	Eschrichtius robustus	733	3306	91.3	93.5	0.0
+420	TR	A0A384A5E9	Protein bicaudal D homolog 2 OS=Balaenoptera acutorostrata scammoni OX=310752 GN=BICD2 PE=3 SV=1	Balaenoptera acutorostrata scammoni	758	3303	90.3	92.8	0.0
+421	TR	A0A7K4SUJ4	BICD2 protein (Fragment) OS=Burhinus bistriatus OX=240201 GN=Bicd2 PE=3 SV=1	Burhinus bistriatus	854	3300	80.9	89.4	0.0
+422	TR	A0A7K8BAF9	BICD2 protein (Fragment) OS=Cnemophilus loriae OX=254448 GN=Bicd2 PE=3 SV=1	Cnemophilus loriae	842	3299	81.1	89.6	0.0
+423	TR	A0A6P7Y9V9	LOW QUALITY PROTEIN: protein bicaudal D homolog 2 OS=Microcaecilia unicolor OX=1415580 GN=BICD2 PE=3 SV=1	Microcaecilia unicolor	811	3295	80.8	89.3	0.0
+424	TR	A0A7K5UJ56	BICD2 protein (Fragment) OS=Cephalopterus ornatus OX=114276 GN=Bicd2 PE=3 SV=1	Cephalopterus ornatus	831	3286	82.0	90.4	0.0
+425	TR	A0A6P8PKS9	Protein bicaudal D homolog 2 isoform X2 OS=Geotrypetes seraphini OX=260995 GN=BICD2 PE=3 SV=1	Geotrypetes seraphini	810	3284	80.5	89.1	0.0
+426	TR	A0A6P8PE64	Protein bicaudal D homolog 2 isoform X1 OS=Geotrypetes seraphini OX=260995 GN=BICD2 PE=3 SV=1	Geotrypetes seraphini	840	3281	80.3	89.1	0.0
+427	TR	A0A674GUP4	BICD cargo adaptor 2 OS=Taeniopygia guttata OX=59729 GN=BICD2 PE=3 SV=1	Taeniopygia guttata	836	3274	81.9	90.3	0.0
+428	TR	A0A6P3H567	Protein bicaudal D homolog 2 OS=Bison bison bison OX=43346 GN=BICD2 PE=3 SV=1	Bison bison bison	731	3271	89.6	92.0	0.0
+429	TR	A0A8C6YDG9	BICD cargo adaptor 2 OS=Naja naja OX=35670 GN=BICD2 PE=3 SV=1	Naja naja	846	3268	79.3	89.5	0.0
+430	TR	A0A851NT65	BICD2 protein (Fragment) OS=Penelope pileata OX=1118817 GN=Bicd2 PE=3 SV=1	Penelope pileata	822	3267	82.5	90.3	0.0
+431	TR	A0A667IJT3	BICD cargo adaptor 2 OS=Lynx canadensis OX=61383 PE=3 SV=1	Lynx canadensis	805	3267	84.2	87.1	0.0
+432	TR	A0A8C0K8K0	BICD cargo adaptor 2 OS=Canis lupus dingo OX=286419 GN=BICD2 PE=3 SV=1	Canis lupus dingo	761	3266	89.6	92.5	0.0
+433	TR	M3XLQ0	BICD cargo adaptor 2 OS=Latimeria chalumnae OX=7897 GN=BICD2 PE=3 SV=1	Latimeria chalumnae	844	3261	79.4	89.8	0.0
+434	TR	A0A7L2N2P9	BICD2 protein (Fragment) OS=Rhadina sibilatrix OX=2585818 GN=Bicd2 PE=3 SV=1	Rhadina sibilatrix	847	3255	79.9	88.6	0.0
+435	TR	A0A5N3XII4	BICD cargo adaptor 2 (Fragment) OS=Muntiacus reevesi OX=9886 GN=FD755_015212 PE=3 SV=1	Muntiacus reevesi	819	3248	83.9	87.6	0.0
+436	TR	A0A6P6BT96	inositol-pentakisphosphate 2-kinase OS=Pteropus vampyrus OX=132908 GN=LOC105304687 PE=3 SV=1	Pteropus vampyrus	1350	3239	88.6	92.2	0.0
+437	TR	A0A6P6BT97	inositol-pentakisphosphate 2-kinase OS=Pteropus vampyrus OX=132908 GN=LOC105304687 PE=3 SV=1	Pteropus vampyrus	1320	3239	88.6	92.2	0.0
+438	TR	A0A8J0QVF1	Protein bicaudal D homolog 2 isoform X3 OS=Xenopus tropicalis OX=8364 GN=bicd2 PE=3 SV=1	Xenopus tropicalis	809	3238	78.9	90.2	0.0
+439	TR	A0A8J6AMF4	Protein bicaudal D-2 (Fragment) OS=Galemys pyrenaicus OX=202257 GN=J0S82_009803 PE=3 SV=1	Galemys pyrenaicus	748	3238	89.2	92.1	0.0
+440	TR	A0A8J0R3Z3	Protein bicaudal D homolog 2 isoform X1 OS=Xenopus tropicalis OX=8364 GN=bicd2 PE=3 SV=1	Xenopus tropicalis	839	3235	78.8	90.2	0.0
+441	TR	A0A6I8QDJ1	Bicaudal D homolog 2 OS=Xenopus tropicalis OX=8364 GN=bicd2 PE=3 SV=1	Xenopus tropicalis	822	3235	78.8	90.2	0.0
+442	TR	A0A7K7ZU90	BICD2 protein (Fragment) OS=Melanocharis versteri OX=254552 GN=Bicd2 PE=3 SV=1	Melanocharis versteri	830	3233	81.9	90.6	0.0
+443	TR	A0A2U3Z3M6	Protein bicaudal D homolog 2 OS=Leptonychotes weddellii OX=9713 GN=BICD2 PE=3 SV=1	Leptonychotes weddellii	720	3233	89.4	92.2	0.0
+444	TR	A0A7J8IH46	BICD cargo adaptor 2 OS=Rousettus aegyptiacus OX=9407 GN=HJG63_001475 PE=3 SV=1	Rousettus aegyptiacus	778	3224	89.0	92.3	0.0
+445	TR	A0A6G1ALB8	BICD2 protein (Fragment) OS=Crocuta crocuta OX=9678 GN=Bicd2 PE=3 SV=1	Crocuta crocuta	757	3219	88.9	91.9	0.0
+446	TR	A0A5N4C016	Protein bicaudal D-like protein 2 OS=Camelus dromedarius OX=9838 GN=Cadr_000030184 PE=3 SV=1	Camelus dromedarius	734	3219	88.3	91.1	0.0
+447	TR	A0A674GJW1	BICD cargo adaptor 2 OS=Taeniopygia guttata OX=59729 GN=BICD2 PE=3 SV=1	Taeniopygia guttata	785	3218	79.0	87.5	0.0
+448	TR	A0A5N4C025	Protein bicaudal D-like protein 2 OS=Camelus dromedarius OX=9838 GN=Cadr_000030184 PE=3 SV=1	Camelus dromedarius	762	3216	88.2	91.1	0.0
+449	TR	A0A493SWN1	BICD cargo adaptor 2 OS=Anas platyrhynchos platyrhynchos OX=8840 GN=BICD2 PE=3 SV=1	Anas platyrhynchos platyrhynchos	821	3212	79.2	87.5	0.0
+450	TR	A0A8J6EMU9	Protein bicaudal D homolog 2 OS=Eleutherodactylus coqui OX=57060 GN=GDO78_021895 PE=3 SV=1	Eleutherodactylus coqui	830	3211	77.8	88.8	0.0
+451	TR	A0A8J6EMA6	BICD2 protein OS=Eleutherodactylus coqui OX=57060 GN=GDO78_021895 PE=3 SV=1	Eleutherodactylus coqui	846	3210	77.8	88.8	0.0
+452	TR	A0A8C9N895	BICD cargo adaptor 2 OS=Serinus canaria OX=9135 GN=BICD2 PE=3 SV=1	Serinus canaria	815	3208	78.9	87.4	0.0
+453	TR	G1PLU3	BICD cargo adaptor 2 OS=Myotis lucifugus OX=59463 GN=BICD2 PE=3 SV=1	Myotis lucifugus	755	3196	88.0	91.8	0.0
+454	TR	S9X7Q6	Bicaudal D 2-like protein OS=Camelus ferus OX=419612 GN=CB1_000303008 PE=3 SV=1	Camelus ferus	875	3190	87.1	89.5	0.0
+455	TR	A0A7K5DC89	BICD2 protein (Fragment) OS=Pachyramphus minor OX=369605 GN=Bicd2 PE=3 SV=1	Pachyramphus minor	806	3187	81.9	90.3	0.0
+456	TR	A0A5N4C021	Protein bicaudal D-like protein 2 OS=Camelus dromedarius OX=9838 GN=Cadr_000030184 PE=3 SV=1	Camelus dromedarius	803	3175	83.6	86.4	0.0
+457	TR	A0A673UQB8	inositol-pentakisphosphate 2-kinase OS=Suricata suricatta OX=37032 PE=3 SV=1	Suricata suricatta	1257	3173	87.9	91.4	0.0
+458	TR	A0A8J0U4F5	Protein bicaudal D homolog 2 isoform X4 OS=Xenopus laevis OX=8355 GN=bicd2.L PE=3 SV=1	Xenopus laevis	839	3167	77.4	88.8	0.0
+459	TR	A0A8C5WL72	BICD cargo adaptor 2 OS=Leptobrachium leishanense OX=445787 GN=BICD2 PE=3 SV=1	Leptobrachium leishanense	838	3167	76.9	88.2	0.0
+460	TR	A0A9D3RPM9	BICD cargo adaptor 2 OS=Anguilla anguilla OX=7936 GN=ANANG_G00224170 PE=3 SV=1	Anguilla anguilla	848	3162	78.5	88.6	0.0
+461	TR	A0A7L2F142	BICD2 protein (Fragment) OS=Quiscalus mexicanus OX=64278 GN=Bicd2 PE=3 SV=1	Quiscalus mexicanus	796	3155	82.0	90.6	0.0
+462	TR	A0A8J0U3W5	Protein bicaudal D homolog 2 isoform X1 OS=Xenopus laevis OX=8355 GN=bicd2.S PE=3 SV=1	Xenopus laevis	840	3154	76.3	88.1	0.0
+463	TR	A0A8J1KM48	Protein bicaudal D homolog 2 isoform X2 OS=Xenopus laevis OX=8355 GN=bicd2.S PE=3 SV=1	Xenopus laevis	810	3153	76.4	88.1	0.0
+464	TR	A0A8C4TI62	BICD cargo adaptor 2 OS=Erpetoichthys calabaricus OX=27687 GN=BICD2 PE=3 SV=1	Erpetoichthys calabaricus	805	3148	78.6	88.5	0.0
+465	TR	A0A9D3Q4G7	BICD cargo adaptor 2 OS=Megalops atlanticus OX=7932 GN=MATL_G00106930 PE=3 SV=1	Megalops atlanticus	850	3146	78.3	88.0	0.0
+466	TR	W5PEC2	BICD cargo adaptor 2 OS=Ovis aries OX=9940 GN=BICD2 PE=3 SV=1	Ovis aries	744	3132	87.1	89.7	0.0
+467	TR	A0A8J1N102	Protein bicaudal D homolog 2 isoform X3 OS=Xenopus laevis OX=8355 GN=LOC108704030 PE=3 SV=1	Xenopus laevis	850	3118	73.9	84.6	0.0
+468	TR	A0A8J1MYQ1	Protein bicaudal D homolog 2 isoform X1 OS=Xenopus laevis OX=8355 GN=LOC108704030 PE=3 SV=1	Xenopus laevis	880	3115	73.8	84.6	0.0
+469	TR	A0A8J1MYF9	Protein bicaudal D homolog 2 isoform X2 OS=Xenopus laevis OX=8355 GN=LOC108704030 PE=3 SV=1	Xenopus laevis	863	3115	73.8	84.6	0.0
+470	TR	A0A2I0LW33	Protein bicaudal D homolog 2 OS=Columba livia OX=8932 GN=A306_00010833 PE=3 SV=1	Columba livia	741	3100	83.1	91.1	0.0
+471	TR	A0A7R5L733	Protein bicaudal D homolog 2 OS=Pipra filicauda OX=649802 GN=BICD2 PE=3 SV=1	Pipra filicauda	744	3099	82.4	91.1	0.0
+472	TR	A0A8C3ICN8	BICD cargo adaptor 2 OS=Chrysemys picta bellii OX=8478 GN=BICD2 PE=3 SV=1	Chrysemys picta bellii	785	3097	82.1	91.1	0.0
+473	TR	K7F5V3	BICD cargo adaptor 2 OS=Pelodiscus sinensis OX=13735 GN=BICD2 PE=3 SV=1	Pelodiscus sinensis	791	3095	80.2	89.5	0.0
+474	TR	A0A7K8R3W4	BICD2 protein (Fragment) OS=Smithornis capensis OX=363769 GN=Bicd2_1 PE=3 SV=1	Smithornis capensis	751	3087	82.0	90.1	0.0
+475	TR	A0A3Q0G064	Protein bicaudal D homolog 2 isoform X2 OS=Alligator sinensis OX=38654 GN=BICD2 PE=3 SV=1	Alligator sinensis	747	3082	83.1	91.3	0.0
+476	TR	A0A8C3L829	BICD cargo adaptor 2 OS=Chrysolophus pictus OX=9089 PE=3 SV=1	Chrysolophus pictus	741	3081	82.8	90.7	0.0
+477	TR	A0A3Q0FZB9	Protein bicaudal D homolog 2 isoform X1 OS=Alligator sinensis OX=38654 GN=BICD2 PE=3 SV=1	Alligator sinensis	777	3079	83.0	91.3	0.0
+478	TR	A0A8C3L3H6	BICD cargo adaptor 2 OS=Chrysolophus pictus OX=9089 PE=3 SV=1	Chrysolophus pictus	749	3079	82.7	90.7	0.0
+479	TR	A0A852EYC5	BICD2 protein (Fragment) OS=Vidua macroura OX=187451 GN=Bicd2 PE=3 SV=1	Vidua macroura	757	3078	81.0	89.6	0.0
+480	TR	A0A0P7X939	Protein bicaudal D2-like OS=Scleropages formosus OX=113540 GN=Z043_110088 PE=3 SV=1	Scleropages formosus	849	3078	76.2	87.1	0.0
+481	TR	A0A452I711	BICD cargo adaptor 2 OS=Gopherus agassizii OX=38772 PE=3 SV=1	Gopherus agassizii	796	3077	82.7	91.3	0.0
+482	TR	A0A7L3WMI3	BICD2 protein (Fragment) OS=Atlantisia rogersi OX=2478892 GN=Bicd2 PE=3 SV=1	Atlantisia rogersi	755	3075	81.3	89.5	0.0
+483	TR	A0A6I9HR42	Protein bicaudal D homolog 2 OS=Geospiza fortis OX=48883 GN=BICD2 PE=3 SV=1	Geospiza fortis	737	3072	82.8	91.1	0.0
+484	TR	A0A8B9N6T4	BICD cargo adaptor 2 OS=Accipiter nisus OX=211598 PE=3 SV=1	Accipiter nisus	780	3072	83.0	91.0	0.0
+485	TR	A0A8C0Z8P5	BICD cargo adaptor 2 OS=Cyanistes caeruleus OX=156563 GN=BICD2 PE=3 SV=1	Cyanistes caeruleus	774	3071	82.6	90.9	0.0
+486	TR	A0A7L1YMI1	BICD2 protein (Fragment) OS=Scytalopus superciliaris OX=312124 GN=Bicd2 PE=3 SV=1	Scytalopus superciliaris	770	3068	82.5	90.9	0.0
+487	TR	A0A8C0U5Z5	BICD cargo adaptor 2 OS=Cyanistes caeruleus OX=156563 GN=BICD2 PE=3 SV=1	Cyanistes caeruleus	790	3067	82.6	90.9	0.0
+488	TR	A0A852NZQ8	BICD2 protein (Fragment) OS=Atrichornis clamosus OX=449594 GN=Bicd2 PE=3 SV=1	Atrichornis clamosus	765	3067	82.8	91.1	0.0
+489	TR	A0A7L3PE35	BICD2 protein (Fragment) OS=Xiphorhynchus elegans OX=269412 GN=Bicd2 PE=3 SV=1	Xiphorhynchus elegans	772	3066	82.4	90.6	0.0
+490	TR	A0A851ME33	BICD2 protein (Fragment) OS=Campylorhamphus procurvoides OX=190295 GN=Bicd2 PE=3 SV=1	Campylorhamphus procurvoides	772	3066	82.4	90.6	0.0
+491	TR	A0A8C9F8M9	BICD cargo adaptor 2 OS=Pavo cristatus OX=9049 PE=3 SV=1	Pavo cristatus	808	3065	82.7	90.8	0.0
+492	TR	A0A7K6CYY5	BICD2 protein (Fragment) OS=Origma solitaria OX=720586 GN=Bicd2 PE=3 SV=1	Origma solitaria	765	3064	82.8	90.7	0.0
+493	TR	A0A2I0LW51	Protein bicaudal D homolog 2 OS=Columba livia OX=8932 GN=A306_00010833 PE=3 SV=1	Columba livia	726	3064	83.8	91.7	0.0
+494	TR	A0A7L4MYD9	BICD2 protein (Fragment) OS=Ceyx cyanopectus OX=390723 GN=Bicd2 PE=3 SV=1	Ceyx cyanopectus	765	3063	82.8	91.3	0.0
+495	TR	A0A7L0WXD0	BICD2 protein (Fragment) OS=Alectura lathami OX=81907 GN=Bicd2 PE=3 SV=1	Alectura lathami	767	3060	83.0	90.9	0.0
+496	TR	A0A093BQC9	Protein bicaudal D 2 (Fragment) OS=Chaetura pelagica OX=8897 GN=M959_13916 PE=3 SV=1	Chaetura pelagica	765	3060	82.7	90.9	0.0
+497	TR	M7AT93	Protein bicaudal D like protein 2 (Fragment) OS=Chelonia mydas OX=8469 GN=UY3_15022 PE=3 SV=1	Chelonia mydas	771	3059	81.9	90.3	0.0
+498	TR	A0A7K8WDK2	BICD2 protein (Fragment) OS=Sclerurus mexicanus OX=265632 GN=Bicd2 PE=3 SV=1	Sclerurus mexicanus	772	3059	82.2	90.6	0.0
+499	TR	A0A672IVT7	Protein bicaudal D homolog 2-like OS=Salarias fasciatus OX=181472 GN=LOC115408549 PE=3 SV=1	Salarias fasciatus	835	3057	76.3	86.9	0.0
+500	TR	R0JVV8	Protein bicaudal D-like protein 2 (Fragment) OS=Anas platyrhynchos OX=8839 GN=Anapl_07223 PE=3 SV=1	Anas platyrhynchos	766	3056	82.4	90.8	0.0
+501	TR	A0A7K7XVC9	BICD2 protein (Fragment) OS=Mohoua ochrocephala OX=874463 GN=Bicd2 PE=3 SV=1	Mohoua ochrocephala	773	3056	82.2	90.3	0.0
+502	TR	A0A803Y3S5	BICD cargo adaptor 2 OS=Meleagris gallopavo OX=9103 PE=3 SV=1	Meleagris gallopavo	736	3056	82.7	90.9	0.0
+503	TR	G1N201	Uncharacterized protein OS=Meleagris gallopavo OX=9103 PE=3 SV=2	Meleagris gallopavo	755	3056	82.7	90.9	0.0
+504	TR	A0A7K9V6S3	BICD2 protein (Fragment) OS=Anseranas semipalmata OX=8851 GN=Bicd2 PE=3 SV=1	Anseranas semipalmata	767	3053	82.6	90.8	0.0
+505	TR	A0A667Z639	Protein bicaudal D homolog 2-like OS=Myripristis murdjan OX=586833 GN=BICD2 PE=3 SV=1	Myripristis murdjan	847	3053	76.5	86.8	0.0
+506	TR	A0A7L0K6T4	BICD2 protein (Fragment) OS=Chauna torquata OX=30388 GN=Bicd2 PE=3 SV=1	Chauna torquata	767	3052	82.6	90.6	0.0
+507	TR	A0A852BMH0	BICD2 protein (Fragment) OS=Ramphastos sulfuratus OX=322582 GN=Bicd2 PE=3 SV=1	Ramphastos sulfuratus	776	3052	81.7	89.7	0.0
+508	TR	A0A7K4REK2	BICD2 protein (Fragment) OS=Neopipo cinnamomea OX=456388 GN=Bicd2 PE=3 SV=1	Neopipo cinnamomea	772	3050	81.9	90.4	0.0
+509	TR	A0A7L3L529	BICD2 protein (Fragment) OS=Turnix velox OX=2529409 GN=Bicd2 PE=3 SV=1	Turnix velox	777	3050	81.5	89.7	0.0
+510	TR	A0A7K6PJM4	BICD2 protein (Fragment) OS=Ifrita kowaldi OX=461245 GN=Bicd2 PE=3 SV=1	Ifrita kowaldi	766	3050	82.7	90.6	0.0
+511	TR	A0A7K9F1I3	BICD2 protein (Fragment) OS=Stercorarius parasiticus OX=54059 GN=Bicd2 PE=3 SV=1	Stercorarius parasiticus	780	3049	81.4	89.2	0.0
+512	TR	A0A093Q300	Protein bicaudal D 2 (Fragment) OS=Manacus vitellinus OX=328815 GN=N305_01943 PE=3 SV=1	Manacus vitellinus	772	3048	81.9	90.3	0.0
+513	TR	A0A667Z666	Protein bicaudal D homolog 2-like OS=Myripristis murdjan OX=586833 GN=BICD2 PE=3 SV=1	Myripristis murdjan	861	3047	76.3	86.6	0.0
+514	TR	A0A672IV96	Protein bicaudal D homolog 2-like OS=Salarias fasciatus OX=181472 GN=LOC115408549 PE=3 SV=1	Salarias fasciatus	820	3047	76.2	86.6	0.0
+515	TR	A0A7K6RDT7	BICD2 protein (Fragment) OS=Rhynochetos jubatus OX=54386 GN=Bicd2 PE=3 SV=1	Rhynochetos jubatus	756	3046	80.4	89.0	0.0
+516	TR	A0A7L0XP44	BICD2 protein (Fragment) OS=Tyrannus savana OX=137541 GN=Bicd2 PE=3 SV=1	Tyrannus savana	771	3045	82.0	90.3	0.0
+517	TR	A0A7L2SBG2	BICD2 protein (Fragment) OS=Mystacornis crossleyi OX=98133 GN=Bicd2 PE=3 SV=1	Mystacornis crossleyi	766	3044	82.4	90.6	0.0
+518	TR	A0A7L3H5Q0	BICD2 protein (Fragment) OS=Buphagus erythrorhynchus OX=245048 GN=Bicd2 PE=3 SV=1	Buphagus erythrorhynchus	773	3044	81.7	90.0	0.0
+519	TR	A0A851A180	BICD2 protein (Fragment) OS=Sula dactylatra OX=56068 GN=Bicd2 PE=3 SV=1	Sula dactylatra	771	3042	81.9	90.0	0.0
+520	TR	A0A852EZC5	BICD2 protein (Fragment) OS=Peucedramus taeniatus OX=135441 GN=Bicd2 PE=3 SV=1	Peucedramus taeniatus	774	3042	81.6	89.9	0.0
+521	TR	A0A091FQ25	Protein bicaudal D 2 (Fragment) OS=Cuculus canorus OX=55661 GN=N303_09288 PE=3 SV=1	Cuculus canorus	765	3041	82.0	90.7	0.0
+522	TR	A0A850UCP7	BICD2 protein (Fragment) OS=Grus americana OX=9117 GN=Bicd2 PE=3 SV=1	Grus americana	782	3041	81.1	89.0	0.0
+523	TR	A0A851FAA0	BICD2 protein (Fragment) OS=Pitta sordida OX=9163 GN=Bicd2 PE=3 SV=1	Pitta sordida	772	3041	81.6	90.3	0.0
+524	TR	A0A7K9S411	BICD2 protein (Fragment) OS=Sterrhoptilus dennistouni OX=2585820 GN=Bicd2 PE=3 SV=1	Sterrhoptilus dennistouni	765	3040	82.3	90.6	0.0
+525	TR	A0A091NFY7	Protein bicaudal D 2 (Fragment) OS=Acanthisitta chloris OX=57068 GN=N310_12439 PE=3 SV=1	Acanthisitta chloris	766	3040	82.3	90.6	0.0
+526	TR	A0A8J7TIR7	BICD2 protein (Fragment) OS=Atractosteus spatula OX=7917 GN=Bicd2_0 PE=3 SV=1	Atractosteus spatula	1851	3039	72.4	81.9	0.0
+527	TR	A0A091W1W4	Protein bicaudal D 2 (Fragment) OS=Opisthocomus hoazin OX=30419 GN=N306_13076 PE=3 SV=1	Opisthocomus hoazin	774	3039	81.6	89.7	0.0
+528	TR	A0A6P7I9Z7	Protein bicaudal D homolog 2-like isoform X3 OS=Parambassis ranga OX=210632 GN=LOC114438112 PE=3 SV=1	Parambassis ranga	826	3038	75.7	86.1	0.0
+529	TR	A0A6P7IJS9	Protein bicaudal D homolog 2-like isoform X1 OS=Parambassis ranga OX=210632 GN=LOC114438112 PE=3 SV=1	Parambassis ranga	866	3038	75.7	86.1	0.0
+530	TR	A0A087R8C2	Protein bicaudal D 2 (Fragment) OS=Aptenodytes forsteri OX=9233 GN=AS27_10554 PE=3 SV=1	Aptenodytes forsteri	782	3038	80.8	89.0	0.0
+531	TR	A0A7L2I6Q2	BICD2 protein (Fragment) OS=Sagittarius serpentarius OX=56258 GN=Bicd2 PE=3 SV=1	Sagittarius serpentarius	773	3038	81.7	89.5	0.0
+532	TR	A0A8J4P684	BICD2 protein (Fragment) OS=Aptenodytes patagonicus OX=9234 GN=FQA23_0014212 PE=3 SV=1	Aptenodytes patagonicus	782	3038	80.8	89.0	0.0
+533	TR	A0A7K6QDK1	BICD2 protein (Fragment) OS=Climacteris rufus OX=47695 GN=Bicd2 PE=3 SV=1	Climacteris rufus	766	3038	82.2	90.5	0.0
+534	TR	A0A4W6EQD2	Protein bicaudal D homolog 2-like OS=Lates calcarifer OX=8187 GN=BICD2 PE=3 SV=1	Lates calcarifer	836	3038	76.1	87.1	0.0
+535	TR	A0A4W6EPH9	Protein bicaudal D homolog 2-like OS=Lates calcarifer OX=8187 GN=BICD2 PE=3 SV=1	Lates calcarifer	821	3038	76.1	87.1	0.0
+536	TR	A0A7K8PXW2	BICD2 protein (Fragment) OS=Cochlearius cochlearius OX=110676 GN=Bicd2 PE=3 SV=1	Cochlearius cochlearius	777	3038	81.4	89.4	0.0
+537	TR	A0A6P7IHI6	Protein bicaudal D homolog 2-like isoform X2 OS=Parambassis ranga OX=210632 GN=LOC114438112 PE=3 SV=1	Parambassis ranga	841	3038	75.7	86.1	0.0
+538	TR	A0A7L2TLA8	BICD2 protein (Fragment) OS=Pomatostomus ruficeps OX=9176 GN=Bicd2 PE=3 SV=1	Pomatostomus ruficeps	766	3037	82.2	90.6	0.0
+539	TR	A0A091INP0	Protein bicaudal D 2 (Fragment) OS=Egretta garzetta OX=188379 GN=Z169_11059 PE=3 SV=1	Egretta garzetta	777	3037	81.4	89.4	0.0
+540	TR	A0A091HE94	Protein bicaudal D 2 (Fragment) OS=Buceros rhinoceros silvestris OX=175836 GN=N320_01964 PE=3 SV=1	Buceros rhinoceros silvestris	777	3036	81.2	89.4	0.0
+541	TR	A0A7K5RTJ2	BICD2 protein (Fragment) OS=Lanius ludovicianus OX=28713 GN=Bicd2 PE=3 SV=1	Lanius ludovicianus	766	3035	82.2	90.3	0.0
+542	TR	A0A7L0UHK5	BICD2 protein (Fragment) OS=Chordeiles acutipennis OX=118183 GN=Bicd2 PE=3 SV=1	Chordeiles acutipennis	778	3035	81.1	89.2	0.0
+543	TR	A0A851LE23	BICD2 protein (Fragment) OS=Corythaeola cristata OX=103954 GN=Bicd2 PE=3 SV=1	Corythaeola cristata	776	3033	81.2	89.4	0.0
+544	TR	A0A7L3CKN7	BICD2 protein (Fragment) OS=Pelecanoides urinatrix OX=37079 GN=Bicd2 PE=3 SV=1	Pelecanoides urinatrix	762	3033	82.3	90.5	0.0
+545	TR	A0A672IV99	Protein bicaudal D homolog 2-like OS=Salarias fasciatus OX=181472 GN=LOC115408549 PE=3 SV=1	Salarias fasciatus	835	3032	76.1	86.5	0.0
+546	TR	A0A851EMI2	BICD2 protein (Fragment) OS=Dryoscopus gambensis OX=85069 GN=Bicd2 PE=3 SV=1	Dryoscopus gambensis	766	3032	82.2	90.3	0.0
+547	TR	A0A3P8TB97	BICD cargo adaptor 2 OS=Amphiprion percula OX=161767 GN=BICD2 PE=3 SV=1	Amphiprion percula	822	3031	75.5	85.8	0.0
+548	TR	A0A3Q1B1T4	Protein bicaudal D homolog 2-like OS=Amphiprion ocellaris OX=80972 GN=BICD2 PE=3 SV=1	Amphiprion ocellaris	862	3031	75.5	85.8	0.0
+549	TR	A0A7K7YQM6	BICD2 protein (Fragment) OS=Thryothorus ludovicianus OX=74200 GN=Bicd2 PE=3 SV=1	Thryothorus ludovicianus	765	3031	81.6	90.6	0.0
+550	TR	A0A7K7TZD7	BICD2 protein (Fragment) OS=Ibidorhyncha struthersii OX=425643 GN=Bicd2 PE=3 SV=1	Ibidorhyncha struthersii	762	3031	82.3	90.3	0.0
+551	TR	A0A3Q1EYF7	Protein bicaudal D homolog 2-like OS=Acanthochromis polyacanthus OX=80966 GN=BICD2 PE=3 SV=1	Acanthochromis polyacanthus	822	3029	75.7	86.1	0.0
+552	TR	A0A3Q1HHE1	Protein bicaudal D homolog 2-like OS=Acanthochromis polyacanthus OX=80966 GN=BICD2 PE=3 SV=1	Acanthochromis polyacanthus	837	3029	75.7	86.1	0.0
+553	TR	A0A7K6WUD9	BICD2 protein (Fragment) OS=Steatornis caripensis OX=48435 GN=Bicd2 PE=3 SV=1	Steatornis caripensis	762	3029	82.3	90.3	0.0
+554	TR	A0A7L2JMG8	BICD2 protein (Fragment) OS=Cinclus mexicanus OX=161649 GN=Bicd2 PE=3 SV=1	Cinclus mexicanus	766	3029	81.8	90.3	0.0
+555	TR	A0A7L3DHW8	BICD2 protein (Fragment) OS=Pluvianellus socialis OX=227228 GN=Bicd2 PE=3 SV=1	Pluvianellus socialis	778	3029	81.1	89.2	0.0
+556	TR	A0A091EWE6	Protein bicaudal D 2 (Fragment) OS=Corvus brachyrhynchos OX=85066 GN=N302_07179 PE=3 SV=1	Corvus brachyrhynchos	766	3028	82.0	90.2	0.0
+557	TR	A0A7L0GX98	BICD2 protein (Fragment) OS=Herpetotheres cachinnans OX=56343 GN=Bicd2 PE=3 SV=1	Herpetotheres cachinnans	770	3028	81.9	89.7	0.0
+558	TR	A0A851SHE4	BICD2 protein (Fragment) OS=Certhia familiaris OX=73333 GN=Bicd2 PE=3 SV=1	Certhia familiaris	766	3028	81.9	90.3	0.0
+559	TR	A0A7K5NC59	BICD2 protein (Fragment) OS=Chroicocephalus maculipennis OX=287016 GN=Bicd2 PE=3 SV=1	Chroicocephalus maculipennis	759	3028	82.3	90.2	0.0
+560	TR	A0A7K8UIC4	BICD2 protein (Fragment) OS=Oceanites oceanicus OX=79653 GN=Bicd2 PE=3 SV=1	Oceanites oceanicus	762	3027	82.1	90.2	0.0
+561	TR	A0A099ZMB3	Protein bicaudal D 2 (Fragment) OS=Tinamus guttatus OX=94827 GN=N309_01179 PE=3 SV=1	Tinamus guttatus	768	3027	81.7	90.4	0.0
+562	TR	A0A7L3Z8Q4	BICD2 protein (Fragment) OS=Fregetta grallaria OX=79628 GN=Bicd2 PE=3 SV=1	Fregetta grallaria	762	3027	82.1	90.2	0.0
+563	TR	A0A7L1H0N9	BICD2 protein (Fragment) OS=Indicator maculatus OX=545262 GN=Bicd2 PE=3 SV=1	Indicator maculatus	782	3026	80.4	88.5	0.0
+564	TR	A0A667ZS77	Protein bicaudal D homolog 2-like OS=Myripristis murdjan OX=586833 GN=BICD2 PE=3 SV=1	Myripristis murdjan	851	3026	76.2	86.3	0.0
+565	TR	A0A672ISK0	Protein bicaudal D homolog 2-like OS=Salarias fasciatus OX=181472 GN=LOC115408549 PE=3 SV=1	Salarias fasciatus	886	3026	76.1	86.4	0.0
+566	TR	A0A672IUX5	Protein bicaudal D homolog 2-like OS=Salarias fasciatus OX=181472 GN=LOC115408549 PE=3 SV=1	Salarias fasciatus	877	3026	76.1	86.4	0.0
+567	TR	A0A7K7APG7	BICD2 protein (Fragment) OS=Nothoprocta ornata OX=83376 GN=Bicd2 PE=3 SV=1	Nothoprocta ornata	768	3026	81.6	90.2	0.0
+568	TR	A0A3Q1IMT1	Protein bicaudal D homolog 2-like OS=Anabas testudineus OX=64144 GN=FGD3 PE=3 SV=1	Anabas testudineus	820	3025	75.8	87.1	0.0
+569	TR	A0A3Q1IQW9	Protein bicaudal D homolog 2-like OS=Anabas testudineus OX=64144 GN=FGD3 PE=3 SV=2	Anabas testudineus	856	3025	75.8	87.1	0.0
+570	TR	A0A7N6BQH1	Protein bicaudal D homolog 2-like OS=Anabas testudineus OX=64144 GN=FGD3 PE=3 SV=1	Anabas testudineus	842	3025	75.8	87.1	0.0
+571	TR	A0A7K5WR18	BICD2 protein (Fragment) OS=Hylia prasina OX=208073 GN=Bicd2 PE=3 SV=1	Hylia prasina	766	3024	81.6	90.6	0.0
+572	TR	A0A091N0R6	Protein bicaudal D 2 (Fragment) OS=Apaloderma vittatum OX=57397 GN=N311_02821 PE=3 SV=1	Apaloderma vittatum	766	3024	81.8	90.2	0.0
+573	TR	A0A671VUU4	BICD cargo adaptor 2 OS=Sparus aurata OX=8175 GN=BICD2 PE=3 SV=1	Sparus aurata	821	3023	76.1	86.4	0.0
+574	TR	A0A087YB49	Protein bicaudal D homolog 2 OS=Poecilia formosa OX=48698 GN=BICD2 PE=3 SV=2	Poecilia formosa	861	3021	75.5	86.0	0.0
+575	TR	A0A3P9NX11	BICD cargo adaptor 2 OS=Poecilia reticulata OX=8081 GN=BICD2 PE=3 SV=1	Poecilia reticulata	867	3021	75.8	86.4	0.0
+576	TR	A0A7K8ECI4	BICD2 protein (Fragment) OS=Leucopsar rothschildi OX=127929 GN=Bicd2 PE=3 SV=1	Leucopsar rothschildi	766	3020	81.8	90.2	0.0
+577	TR	A0A096ME17	Protein bicaudal D homolog 2 OS=Poecilia formosa OX=48698 GN=BICD2 PE=3 SV=1	Poecilia formosa	865	3020	75.2	85.6	0.0
+578	TR	A0A7K5HP71	BICD2 protein (Fragment) OS=Crotophaga sulcirostris OX=33598 GN=Bicd2 PE=3 SV=1	Crotophaga sulcirostris	763	3020	81.7	90.2	0.0
+579	TR	A0A7K4XVJ4	BICD2 protein (Fragment) OS=Regulus satrapa OX=13245 GN=Bicd2 PE=3 SV=1	Regulus satrapa	766	3019	81.5	90.3	0.0
+580	TR	A0A7L4DE94	BICD2 protein (Fragment) OS=Eurystomus gularis OX=325343 GN=Bicd2 PE=3 SV=1	Eurystomus gularis	772	3018	81.2	89.5	0.0
+581	TR	A0A668VWE4	BICD cargo adaptor 2 OS=Oreochromis aureus OX=47969 PE=3 SV=1	Oreochromis aureus	817	3018	75.3	86.0	0.0
+582	TR	A0A6A5FCV9	BICD cargo adaptor 2 OS=Perca fluviatilis OX=8168 GN=PFLUV_G00056620 PE=3 SV=1	Perca fluviatilis	812	3018	76.2	87.1	0.0
+583	TR	A0A6G1Q3P0	Protein bicaudal D-like protein 2 OS=Channa argus OX=215402 GN=EXN66_Car012749 PE=3 SV=1	Channa argus	862	3018	75.8	86.6	0.0
+584	TR	A0A093HZA4	Protein bicaudal D 2 (Fragment) OS=Struthio camelus australis OX=441894 GN=N308_01956 PE=3 SV=1	Struthio camelus australis	779	3018	80.8	89.2	0.0
+585	TR	A0A7K7GF93	BICD2 protein (Fragment) OS=Erithacus rubecula OX=37610 GN=Bicd2 PE=3 SV=1	Erithacus rubecula	773	3017	81.0	89.5	0.0
+586	TR	A0A3Q3NNS2	Protein bicaudal D homolog 2-like OS=Mastacembelus armatus OX=205130 PE=3 SV=2	Mastacembelus armatus	820	3017	74.5	85.0	0.0
+587	TR	A0A673CQ92	Protein bicaudal D homolog 2-like OS=Sphaeramia orbicularis OX=375764 GN=LOC115423070 PE=3 SV=1	Sphaeramia orbicularis	808	3015	75.0	86.1	0.0
+588	TR	A0A3Q3ARM2	Protein bicaudal D homolog 2-like OS=Kryptolebias marmoratus OX=37003 GN=BICD2 PE=3 SV=1	Kryptolebias marmoratus	858	3014	75.8	86.3	0.0
+589	TR	A0A665VZP9	Protein bicaudal D homolog 2-like OS=Echeneis naucrates OX=173247 GN=LOC115046032 PE=3 SV=1	Echeneis naucrates	852	3013	75.5	86.5	0.0
+590	TR	A0A3P9DIP5	Protein bicaudal D homolog 2 OS=Maylandia zebra OX=106582 GN=BICD2 PE=3 SV=1	Maylandia zebra	815	3012	75.4	85.8	0.0
+591	TR	A0A8C9X1Z8	Protein bicaudal D homolog 2-like OS=Sander lucioperca OX=283035 GN=BICD2 PE=3 SV=1	Sander lucioperca	812	3012	76.1	87.0	0.0
+592	TR	A0A665VYU4	Protein bicaudal D homolog 2-like OS=Echeneis naucrates OX=173247 GN=LOC115046032 PE=3 SV=1	Echeneis naucrates	830	3012	75.2	86.1	0.0
+593	TR	A0A484D590	BICD cargo adaptor 2 OS=Perca flavescens OX=8167 GN=EPR50_G00074510 PE=3 SV=1	Perca flavescens	852	3012	76.1	86.9	0.0
+594	TR	A0A851J6R6	BICD2 protein (Fragment) OS=Donacobius atricapilla OX=237420 GN=Bicd2 PE=3 SV=1	Donacobius atricapilla	769	3012	81.3	89.7	0.0
+595	TR	A0A671VYC1	BICD cargo adaptor 2 OS=Sparus aurata OX=8175 GN=BICD2 PE=3 SV=1	Sparus aurata	838	3009	75.5	85.9	0.0
+596	TR	A0A667ZSF2	Protein bicaudal D homolog 2-like OS=Myripristis murdjan OX=586833 GN=BICD2 PE=3 SV=1	Myripristis murdjan	849	3008	76.4	86.7	0.0
+597	TR	A0A671VWL6	BICD cargo adaptor 2 OS=Sparus aurata OX=8175 GN=BICD2 PE=3 SV=1	Sparus aurata	920	3008	75.9	86.3	0.0
+598	TR	A0A3P9DJS6	Protein bicaudal D homolog 2 OS=Maylandia zebra OX=106582 GN=BICD2 PE=3 SV=1	Maylandia zebra	830	3007	75.6	86.1	0.0
+599	TR	A0A668VWE2	BICD cargo adaptor 2 OS=Oreochromis aureus OX=47969 PE=3 SV=1	Oreochromis aureus	846	3007	75.6	86.2	0.0
+600	TR	A0A668VWD7	BICD cargo adaptor 2 OS=Oreochromis aureus OX=47969 PE=3 SV=1	Oreochromis aureus	829	3007	75.6	86.2	0.0
+601	TR	A0A3Q2X4E4	Protein bicaudal D homolog 2-like OS=Haplochromis burtoni OX=8153 GN=BICD2 PE=3 SV=1	Haplochromis burtoni	830	3007	75.6	86.1	0.0
+602	TR	A0A3Q3CDM9	Protein bicaudal D homolog 2-like OS=Haplochromis burtoni OX=8153 GN=BICD2 PE=3 SV=1	Haplochromis burtoni	845	3007	75.6	86.1	0.0
+603	TR	V8NXN2	Protein bicaudal D-like 2 (Fragment) OS=Ophiophagus hannah OX=8665 GN=BICD2 PE=3 SV=1	Ophiophagus hannah	768	3006	81.0	90.6	0.0
+604	TR	A0A8C9L9L8	BICD2 protein OS=Pavo cristatus OX=9049 PE=3 SV=1	Pavo cristatus	824	3005	78.6	86.2	0.0
+605	TR	A0A7N8YCG1	Protein bicaudal D homolog 2-like OS=Mastacembelus armatus OX=205130 PE=3 SV=1	Mastacembelus armatus	821	3005	74.4	85.0	0.0
+606	TR	A0A7K9EVR0	BICD2 protein (Fragment) OS=Baryphthengus martii OX=176943 GN=Bicd2 PE=3 SV=1	Baryphthengus martii	773	3005	81.1	88.7	0.0
+607	TR	A0A7N8YQC7	Protein bicaudal D homolog 2-like OS=Mastacembelus armatus OX=205130 PE=3 SV=1	Mastacembelus armatus	860	3004	75.2	85.9	0.0
+608	TR	A0A673CS28	Protein bicaudal D homolog 2-like OS=Sphaeramia orbicularis OX=375764 GN=LOC115423070 PE=3 SV=1	Sphaeramia orbicularis	816	3004	74.9	85.7	0.0
+609	TR	A0A673CQ86	Protein bicaudal D homolog 2-like OS=Sphaeramia orbicularis OX=375764 GN=LOC115423070 PE=3 SV=1	Sphaeramia orbicularis	831	3004	74.9	85.7	0.0
+610	TR	A0A6P7MZS7	Protein bicaudal D homolog 2 isoform X1 OS=Betta splendens OX=158456 GN=zgc:171572 PE=3 SV=1	Betta splendens	853	3003	75.3	85.6	0.0
+611	TR	A0A6P7MY49	Protein bicaudal D homolog 2 isoform X2 OS=Betta splendens OX=158456 GN=zgc:171572 PE=3 SV=1	Betta splendens	813	3003	75.3	85.6	0.0
+612	TR	A0A671VYC6	BICD cargo adaptor 2 OS=Sparus aurata OX=8175 GN=BICD2 PE=3 SV=1	Sparus aurata	909	3002	75.9	86.2	0.0
+613	TR	A0A8C7ZHK2	BICD cargo adaptor 2 OS=Oryzias sinensis OX=183150 GN=BICD2 PE=3 SV=1	Oryzias sinensis	831	3001	73.9	85.3	0.0
+614	TR	A0A3L8RY15	Protein bicaudal D homolog 2 OS=Chloebia gouldiae OX=44316 GN=DV515_00014515 PE=3 SV=1	Chloebia gouldiae	796	3001	80.5	88.9	0.0
+615	TR	A0A8C9WZ61	Protein bicaudal D homolog 2-like OS=Sander lucioperca OX=283035 GN=BICD2 PE=3 SV=1	Sander lucioperca	852	2997	76.0	86.9	0.0
+616	TR	A0A8C9X5B1	Protein bicaudal D homolog 2-like OS=Sander lucioperca OX=283035 GN=BICD2 PE=3 SV=1	Sander lucioperca	843	2997	75.8	86.7	0.0
+617	TR	A0A8C9X1K0	Protein bicaudal D homolog 2-like OS=Sander lucioperca OX=283035 GN=BICD2 PE=3 SV=1	Sander lucioperca	842	2997	76.0	86.9	0.0
+618	TR	A0A8C4EHN6	Protein bicaudal D homolog 2 OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	835	2997	75.3	85.6	0.0
+619	TR	A0A8P4G1B4	Protein bicaudal D homolog 2 OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	860	2997	75.3	85.6	0.0
+620	TR	A0A8C4EFQ1	Protein bicaudal D homolog 2 OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	820	2997	75.3	85.6	0.0
+621	TR	A0A8C4ELH0	Protein bicaudal D homolog 2 OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	821	2997	74.8	85.3	0.0
+622	TR	A0A7K6U9D8	BICD2 protein (Fragment) OS=Aegotheles bennettii OX=48278 GN=Bicd2 PE=3 SV=1	Aegotheles bennettii	768	2997	81.4	89.7	0.0
+623	TR	A0A8C0IIJ1	BICD cargo adaptor 2 OS=Bubo bubo OX=30461 PE=3 SV=1	Bubo bubo	792	2995	82.5	90.6	0.0
+624	TR	A0A8D0CQB8	Protein bicaudal D homolog 2-like OS=Sander lucioperca OX=283035 GN=BICD2 PE=3 SV=1	Sander lucioperca	835	2993	76.3	87.5	0.0
+625	TR	A0A3B5QWW2	Protein bicaudal D homolog 2-like OS=Xiphophorus maculatus OX=8083 GN=BICD2 PE=3 SV=1	Xiphophorus maculatus	835	2993	74.5	86.0	0.0
+626	TR	A0A3Q2X5K8	Protein bicaudal D homolog 2-like OS=Haplochromis burtoni OX=8153 GN=BICD2 PE=3 SV=1	Haplochromis burtoni	821	2993	75.2	85.5	0.0
+627	TR	A0A665VZR1	Protein bicaudal D homolog 2-like OS=Echeneis naucrates OX=173247 GN=LOC115046032 PE=3 SV=1	Echeneis naucrates	849	2992	75.8	86.9	0.0
+628	TR	M4AT16	Protein bicaudal D homolog 2-like OS=Xiphophorus maculatus OX=8083 GN=BICD2 PE=3 SV=2	Xiphophorus maculatus	820	2992	74.7	86.0	0.0
+629	TR	A0A8C9X1W2	Protein bicaudal D homolog 2-like OS=Sander lucioperca OX=283035 GN=BICD2 PE=3 SV=1	Sander lucioperca	852	2991	75.8	86.5	0.0
+630	TR	H2M6F0	Protein bicaudal D homolog 2 OS=Oryzias latipes OX=8090 GN=BICD2 PE=3 SV=2	Oryzias latipes	839	2991	73.9	85.2	0.0
+631	TR	A0A7N8XY30	Protein bicaudal D homolog 2-like OS=Mastacembelus armatus OX=205130 PE=3 SV=1	Mastacembelus armatus	851	2990	74.2	84.9	0.0
+632	TR	A0A8C7ZHJ0	BICD cargo adaptor 2 OS=Oryzias sinensis OX=183150 GN=BICD2 PE=3 SV=1	Oryzias sinensis	839	2989	73.9	85.2	0.0
+633	TR	A0A8C7ZI34	BICD cargo adaptor 2 OS=Oryzias sinensis OX=183150 GN=BICD2 PE=3 SV=1	Oryzias sinensis	820	2989	73.9	85.2	0.0
+634	TR	A0A673CN15	Protein bicaudal D homolog 2-like OS=Sphaeramia orbicularis OX=375764 GN=LOC115423070 PE=3 SV=1	Sphaeramia orbicularis	854	2989	74.8	85.6	0.0
+635	TR	A0A673CKL1	Protein bicaudal D homolog 2-like OS=Sphaeramia orbicularis OX=375764 GN=LOC115423070 PE=3 SV=1	Sphaeramia orbicularis	849	2988	75.2	86.2	0.0
+636	TR	A0A673CGN8	Protein bicaudal D homolog 2-like OS=Sphaeramia orbicularis OX=375764 GN=LOC115423070 PE=3 SV=1	Sphaeramia orbicularis	809	2986	75.2	86.2	0.0
+637	TR	A0A834FCN2	Bicaudal D-like protein 2 OS=Oryzias melastigma OX=30732 GN=FQA47_016538 PE=3 SV=1	Oryzias melastigma	860	2984	74.7	85.7	0.0
+638	TR	A0A6G0IQT9	Protein bicaudal D-like protein 2 OS=Larimichthys crocea OX=215358 GN=D5F01_LYC08765 PE=3 SV=1	Larimichthys crocea	820	2983	75.4	86.0	0.0
+639	TR	A0A8C6Q2M4	Protein bicaudal D homolog 2-like OS=Nothobranchius furzeri OX=105023 GN=BICD2 PE=3 SV=1	Nothobranchius furzeri	860	2983	75.8	86.0	0.0
+640	TR	A0A3Q2CYM8	Protein bicaudal D homolog 2-like OS=Cyprinodon variegatus OX=28743 GN=BICD2 PE=3 SV=1	Cyprinodon variegatus	837	2982	75.0	85.7	0.0
+641	TR	A0A6J2W6D2	Protein bicaudal D homolog 2-like isoform X1 OS=Chanos chanos OX=29144 GN=LOC115820309 PE=3 SV=1	Chanos chanos	860	2981	74.1	86.0	0.0
+642	TR	A0A6J2W2X7	Protein bicaudal D homolog 2-like isoform X2 OS=Chanos chanos OX=29144 GN=LOC115820309 PE=3 SV=1	Chanos chanos	827	2981	74.1	86.0	0.0
+643	TR	A0A3Q3ELR9	Protein bicaudal D homolog 2-like OS=Labrus bergylta OX=56723 GN=BICD2 PE=3 SV=1	Labrus bergylta	858	2981	74.6	84.9	0.0
+644	TR	A0A2I4CLS1	Protein bicaudal D homolog 2-like OS=Austrofundulus limnaeus OX=52670 GN=LOC106529942 PE=3 SV=1	Austrofundulus limnaeus	862	2981	75.3	85.7	0.0
+645	TR	H3B4P8	BICD cargo adaptor 2 OS=Latimeria chalumnae OX=7897 GN=BICD2 PE=3 SV=1	Latimeria chalumnae	772	2977	79.8	89.8	0.0
+646	TR	A0A667ZSA3	Protein bicaudal D homolog 2-like OS=Myripristis murdjan OX=586833 GN=BICD2 PE=3 SV=1	Myripristis murdjan	853	2975	76.5	86.8	0.0
+647	TR	A0A8C7ZI44	BICD cargo adaptor 2 OS=Oryzias sinensis OX=183150 GN=BICD2 PE=3 SV=1	Oryzias sinensis	864	2974	73.8	85.1	0.0
+648	TR	A0A437D7S1	Protein bicaudal D homolog 2 OS=Oryzias javanicus OX=123683 GN=OJAV_G00067480 PE=3 SV=1	Oryzias javanicus	839	2972	75.6	86.3	0.0
+649	TR	A0A8C7ZJB4	BICD cargo adaptor 2 OS=Oryzias sinensis OX=183150 GN=BICD2 PE=3 SV=1	Oryzias sinensis	812	2971	74.1	85.6	0.0
+650	TR	A0A8C6VZH9	Protein bicaudal D homolog 2-like OS=Nothobranchius furzeri OX=105023 GN=BICD2 PE=3 SV=1	Nothobranchius furzeri	856	2968	75.6	85.9	0.0
+651	TR	A0A8C6Q0B7	Protein bicaudal D homolog 2-like OS=Nothobranchius furzeri OX=105023 GN=BICD2 PE=3 SV=1	Nothobranchius furzeri	837	2968	75.6	85.9	0.0
+652	TR	A0A6P6BT98	inositol-pentakisphosphate 2-kinase OS=Pteropus vampyrus OX=132908 GN=LOC105304687 PE=3 SV=1	Pteropus vampyrus	1197	2967	77.2	81.2	0.0
+653	TR	A0A6J2Q166	LOW QUALITY PROTEIN: protein bicaudal D homolog 2-like OS=Cottoperca gobio OX=56716 GN=LOC115010539 PE=3 SV=1	Cottoperca gobio	872	2965	74.3	84.9	0.0
+654	TR	W5L7Q1	Protein bicaudal D homolog 2-like OS=Astyanax mexicanus OX=7994 GN=BICD2 PE=3 SV=1	Astyanax mexicanus	813	2964	74.8	85.6	0.0
+655	TR	A0A3B1JKI1	Protein bicaudal D homolog 2-like OS=Astyanax mexicanus OX=7994 GN=BICD2 PE=3 SV=1	Astyanax mexicanus	848	2964	74.8	85.6	0.0
+656	TR	A0A3B1JWP8	Protein bicaudal D homolog 2-like OS=Astyanax mexicanus OX=7994 GN=BICD2 PE=3 SV=1	Astyanax mexicanus	828	2964	74.8	85.6	0.0
+657	TR	A0A8C9X1Y5	Protein bicaudal D homolog 2-like OS=Sander lucioperca OX=283035 GN=BICD2 PE=3 SV=1	Sander lucioperca	829	2962	76.6	87.8	0.0
+658	TR	A0A669EK75	BICD cargo adaptor 2 OS=Oreochromis niloticus OX=8128 GN=BICD2 PE=3 SV=1	Oreochromis niloticus	794	2961	74.5	84.9	0.0
+659	TR	A0A669EWE9	BICD cargo adaptor 2 OS=Oreochromis niloticus OX=8128 GN=BICD2 PE=3 SV=1	Oreochromis niloticus	852	2960	74.8	85.0	0.0
+660	TR	I3KKN9	BICD cargo adaptor 2 OS=Oreochromis niloticus OX=8128 GN=BICD2 PE=3 SV=2	Oreochromis niloticus	828	2960	74.8	85.0	0.0
+661	TR	A0A2U9C2Q0	BICD cargo adaptor 2 OS=Scophthalmus maximus OX=52904 GN=SMAX5B_014557 PE=3 SV=1	Scophthalmus maximus	918	2958	74.3	85.5	0.0
+662	TR	A0A7N5P4K4	BICD cargo adaptor 2 OS=Ailuropoda melanoleuca OX=9646 GN=BICD2 PE=3 SV=1	Ailuropoda melanoleuca	765	2958	76.8	80.9	0.0
+663	TR	A0A8C6Q4G1	Protein bicaudal D homolog 2-like OS=Nothobranchius furzeri OX=105023 GN=BICD2 PE=3 SV=1	Nothobranchius furzeri	843	2956	76.2	86.2	0.0
+664	TR	A0A8C3G7Q0	BICD cargo adaptor 2 OS=Cyclopterus lumpus OX=8103 GN=BICD2 PE=3 SV=1	Cyclopterus lumpus	870	2956	74.6	85.1	0.0
+665	TR	A0A8C5D7I6	Protein bicaudal D homolog 2-like OS=Gouania willdenowi OX=441366 GN=LOC114467691 PE=3 SV=1	Gouania willdenowi	825	2956	74.5	86.3	0.0
+666	TR	A0A8C5D5X7	Protein bicaudal D homolog 2-like OS=Gouania willdenowi OX=441366 GN=LOC114467691 PE=3 SV=1	Gouania willdenowi	847	2955	74.9	86.5	0.0
+667	TR	A0A4W5MWJ7	BICD cargo adaptor 2 OS=Hucho hucho OX=62062 GN=BICD2 PE=3 SV=1	Hucho hucho	804	2952	75.0	85.2	0.0
+668	TR	A0A8C6UET6	BICD cargo adaptor 2 OS=Neogobius melanostomus OX=47308 PE=3 SV=1	Neogobius melanostomus	853	2950	75.1	85.2	0.0
+669	TR	A0A6P8U7F3	Protein bicaudal D homolog 2-like isoform X2 OS=Gymnodraco acuticeps OX=8218 GN=LOC117543119 PE=3 SV=1	Gymnodraco acuticeps	814	2950	75.2	85.9	0.0
+670	TR	A0A6P8TS63	Protein bicaudal D homolog 2-like isoform X1 OS=Gymnodraco acuticeps OX=8218 GN=LOC117543119 PE=3 SV=1	Gymnodraco acuticeps	854	2950	75.2	85.9	0.0
+671	TR	A0A6I9Q1W7	Protein bicaudal D homolog 2-like OS=Notothenia coriiceps OX=8208 GN=LOC104966709 PE=3 SV=1	Notothenia coriiceps	854	2946	75.2	85.9	0.0
+672	TR	A0A315W8F7	BICD cargo adaptor 2 OS=Gambusia affinis OX=33528 GN=CCH79_00006644 PE=3 SV=1	Gambusia affinis	977	2945	70.7	81.1	0.0
+673	TR	A0A673X2Q0	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	821	2944	74.8	84.5	0.0
+674	TR	A0A673X2L9	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	808	2943	74.2	84.1	0.0
+675	TR	A0A673WUC3	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	810	2942	74.4	84.2	0.0
+676	TR	W5N9R0	BICD cargo adaptor 2 OS=Lepisosteus oculatus OX=7918 GN=BICD2 PE=3 SV=1	Lepisosteus oculatus	850	2941	75.4	86.1	0.0
+677	TR	A0A8C3AF55	BICD cargo adaptor 2 OS=Cyclopterus lumpus OX=8103 GN=BICD2 PE=3 SV=1	Cyclopterus lumpus	840	2941	74.5	85.0	0.0
+678	TR	A0A1S3LH43	Protein bicaudal D homolog 2-like OS=Salmo salar OX=8030 GN=LOC106566609 PE=3 SV=1	Salmo salar	856	2940	74.5	84.1	0.0
+679	TR	A0A8B7QCC6	inositol-pentakisphosphate 2-kinase OS=Hipposideros armiger OX=186990 GN=LOC109375243 PE=3 SV=1	Hipposideros armiger	1197	2940	76.5	80.8	0.0
+680	TR	A0A8C3ADB0	BICD cargo adaptor 2 OS=Cyclopterus lumpus OX=8103 GN=BICD2 PE=3 SV=1	Cyclopterus lumpus	859	2939	73.7	84.2	0.0
+681	TR	A0A4Z2B5M6	BICD cargo adaptor 2 OS=Takifugu bimaculatus OX=433685 GN=fugu_007136 PE=3 SV=1	Takifugu bimaculatus	860	2938	73.4	85.0	0.0
+682	TR	A0A673Z2V3	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	804	2938	74.9	85.6	0.0
+683	TR	A0A673WUH5	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	830	2937	74.5	84.4	0.0
+684	TR	A0A4W5MUU9	BICD cargo adaptor 2 OS=Hucho hucho OX=62062 GN=BICD2 PE=3 SV=1	Hucho hucho	816	2937	75.2	85.4	0.0
+685	TR	A0A4W5MWF0	BICD cargo adaptor 2 OS=Hucho hucho OX=62062 GN=BICD2 PE=3 SV=1	Hucho hucho	831	2937	75.2	85.4	0.0
+686	TR	A0A3Q3XHA7	BICD cargo adaptor 2 OS=Mola mola OX=94237 PE=3 SV=1	Mola mola	840	2936	74.7	86.1	0.0
+687	TR	A0A8C5D987	Protein bicaudal D homolog 2-like OS=Gouania willdenowi OX=441366 GN=LOC114467691 PE=3 SV=1	Gouania willdenowi	875	2936	74.4	86.0	0.0
+688	TR	A0A673X2M5	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	856	2935	75.2	85.0	0.0
+689	TR	A0A673Z1E2	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	811	2929	74.2	85.0	0.0
+690	TR	A0A8U1EZT5	Protein bicaudal D homolog 2-like OS=Salvelinus namaycush OX=8040 GN=LOC120061335 PE=3 SV=1	Salvelinus namaycush	856	2929	74.2	84.1	0.0
+691	TR	A0A674NCL3	Protein bicaudal D homolog 2 OS=Takifugu rubripes OX=31033 GN=BICD2 PE=3 SV=1	Takifugu rubripes	860	2928	73.2	84.8	0.0
+692	TR	A0A674MBK7	Protein bicaudal D homolog 2 OS=Takifugu rubripes OX=31033 GN=BICD2 PE=3 SV=1	Takifugu rubripes	835	2928	73.2	84.8	0.0
+693	TR	A0A8C7JK46	BICD cargo adaptor 2 OS=Oncorhynchus kisutch OX=8019 GN=BICD2 PE=3 SV=1	Oncorhynchus kisutch	820	2926	74.6	84.7	0.0
+694	TR	A0A673Z2D7	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	815	2925	74.2	85.1	0.0
+695	TR	A0A6Q2ZP49	Protein bicaudal D homolog 2 OS=Esox lucius OX=8010 GN=BICD2 PE=3 SV=1	Esox lucius	814	2925	73.6	84.1	0.0
+696	TR	A0A6Q2ZPR2	Protein bicaudal D homolog 2 OS=Esox lucius OX=8010 GN=BICD2 PE=3 SV=1	Esox lucius	803	2925	73.7	84.1	0.0
+697	TR	A0A8C8HA46	BICD cargo adaptor 2 OS=Oncorhynchus tshawytscha OX=74940 GN=BICD2 PE=3 SV=1	Oncorhynchus tshawytscha	810	2925	74.3	83.8	0.0
+698	TR	A0A8C8CW49	Protein bicaudal D homolog 2-like OS=Oncorhynchus tshawytscha OX=74940 GN=BICD2 PE=3 SV=1	Oncorhynchus tshawytscha	855	2924	75.3	85.7	0.0
+699	TR	A0A8C8EMY2	Protein bicaudal D homolog 2-like OS=Oncorhynchus tshawytscha OX=74940 GN=BICD2 PE=3 SV=1	Oncorhynchus tshawytscha	831	2924	75.3	85.7	0.0
+700	TR	A0A8C8CM24	Protein bicaudal D homolog 2-like OS=Oncorhynchus tshawytscha OX=74940 GN=BICD2 PE=3 SV=1	Oncorhynchus tshawytscha	844	2924	75.3	85.7	0.0
+701	TR	A0A8C7GHU1	BICD cargo adaptor 2 OS=Oncorhynchus kisutch OX=8019 GN=BICD2 PE=3 SV=1	Oncorhynchus kisutch	808	2924	74.1	83.6	0.0
+702	TR	A0A673Z1X5	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	821	2923	75.1	85.8	0.0
+703	TR	A0A673Z270	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	816	2923	75.1	85.8	0.0
+704	TR	A0A8C7JM63	BICD cargo adaptor 2 OS=Oncorhynchus kisutch OX=8019 GN=BICD2 PE=3 SV=1	Oncorhynchus kisutch	831	2923	75.3	85.7	0.0
+705	TR	A0A8C7JQ50	BICD cargo adaptor 2 OS=Oncorhynchus kisutch OX=8019 GN=BICD2 PE=3 SV=1	Oncorhynchus kisutch	851	2923	75.3	85.7	0.0
+706	TR	A0A8C7JKD0	BICD cargo adaptor 2 OS=Oncorhynchus kisutch OX=8019 GN=BICD2 PE=3 SV=1	Oncorhynchus kisutch	821	2923	75.3	85.7	0.0
+707	TR	A0A1S3MD85	Protein bicaudal D homolog 2-like isoform X3 OS=Salmo salar OX=8030 GN=LOC106571893 PE=3 SV=1	Salmo salar	856	2922	75.1	85.8	0.0
+708	TR	A0A7J6CQB4	Uncharacterized protein OS=Onychostoma macrolepis OX=369639 GN=G5714_008781 PE=3 SV=1	Onychostoma macrolepis	805	2922	73.7	85.6	0.0
+709	TR	A0A060X1A5	Uncharacterized protein OS=Oncorhynchus mykiss OX=8022 GN=GSONMT00054074001 PE=3 SV=1	Oncorhynchus mykiss	844	2918	75.2	85.6	0.0
+710	TR	A0A3P9AC75	Protein bicaudal D homolog 2 OS=Esox lucius OX=8010 GN=BICD2 PE=3 SV=1	Esox lucius	854	2916	74.4	84.9	0.0
+711	TR	A0A3P9AB76	Protein bicaudal D homolog 2 OS=Esox lucius OX=8010 GN=BICD2 PE=3 SV=1	Esox lucius	829	2916	74.4	84.9	0.0
+712	TR	A0A3P8YQ16	Protein bicaudal D homolog 2 OS=Esox lucius OX=8010 GN=BICD2 PE=3 SV=1	Esox lucius	832	2916	74.4	84.9	0.0
+713	TR	A0A8C8HA66	BICD cargo adaptor 2 OS=Oncorhynchus tshawytscha OX=74940 GN=BICD2 PE=3 SV=1	Oncorhynchus tshawytscha	832	2915	74.5	84.0	0.0
+714	TR	A0A8C4GLU7	BICD cargo adaptor 2 OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	848	2914	75.6	85.6	0.0
+715	TR	A0A8C8M2J4	BICD cargo adaptor 2 OS=Oncorhynchus tshawytscha OX=74940 GN=BICD2 PE=3 SV=1	Oncorhynchus tshawytscha	817	2914	74.3	83.8	0.0
+716	TR	A0A8C7GLP6	BICD cargo adaptor 2 OS=Oncorhynchus kisutch OX=8019 GN=BICD2 PE=3 SV=1	Oncorhynchus kisutch	830	2914	74.3	83.8	0.0
+717	TR	A0A8D2QUW3	BICD cargo adaptor 2 OS=Zosterops lateralis melanops OX=1220523 PE=3 SV=1	Zosterops lateralis melanops	701	2913	82.7	90.9	0.0
+718	TR	A0A8C7GGU3	BICD cargo adaptor 2 OS=Oncorhynchus kisutch OX=8019 GN=BICD2 PE=3 SV=1	Oncorhynchus kisutch	816	2911	74.3	83.8	0.0
+719	TR	A0A8C0BUX7	BICD cargo adaptor 2 OS=Buteo japonicus OX=224669 PE=3 SV=1	Buteo japonicus	701	2910	82.7	90.6	0.0
+720	TR	A0A8C8CV10	Protein bicaudal D homolog 2-like OS=Oncorhynchus tshawytscha OX=74940 GN=BICD2 PE=3 SV=1	Oncorhynchus tshawytscha	853	2909	75.2	85.6	0.0
+721	TR	A0A673Z2A4	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	857	2908	75.0	85.7	0.0
+722	TR	A0A8C7JMI7	BICD cargo adaptor 2 OS=Oncorhynchus kisutch OX=8019 GN=BICD2 PE=3 SV=1	Oncorhynchus kisutch	853	2908	75.2	85.6	0.0
+723	TR	A0A674MLU8	Protein bicaudal D homolog 2 OS=Takifugu rubripes OX=31033 GN=BICD2 PE=3 SV=1	Takifugu rubripes	826	2907	73.2	84.7	0.0
+724	TR	A0A8C8M2J8	BICD cargo adaptor 2 OS=Oncorhynchus tshawytscha OX=74940 GN=BICD2 PE=3 SV=1	Oncorhynchus tshawytscha	856	2907	74.0	83.4	0.0
+725	TR	A0A674PJL4	Protein bicaudal D homolog 2 OS=Takifugu rubripes OX=31033 GN=BICD2 PE=3 SV=1	Takifugu rubripes	882	2905	73.1	84.6	0.0
+726	TR	A0A663MN79	BICD cargo adaptor 2 OS=Athene cunicularia OX=194338 GN=BICD2 PE=3 SV=1	Athene cunicularia	701	2905	82.6	90.3	0.0
+727	TR	A0A7J8IGA2	BICD cargo adaptor 2 OS=Rousettus aegyptiacus OX=9407 GN=HJG63_001475 PE=3 SV=1	Rousettus aegyptiacus	697	2902	88.4	92.0	0.0
+728	TR	A0A8B7IW60	Protein bicaudal D homolog 2 isoform X2 OS=Apteryx mantelli mantelli OX=202946 GN=BICD2 PE=3 SV=1	Apteryx mantelli mantelli	701	2899	82.1	90.7	0.0
+729	TR	H2TC96	Protein bicaudal D homolog 2 OS=Takifugu rubripes OX=31033 GN=BICD2 PE=3 SV=3	Takifugu rubripes	822	2898	74.1	85.6	0.0
+730	TR	A0A8C7GKF1	BICD cargo adaptor 2 OS=Oncorhynchus kisutch OX=8019 GN=BICD2 PE=3 SV=1	Oncorhynchus kisutch	856	2898	74.0	83.4	0.0
+731	TR	A0A8B7IXC8	Protein bicaudal D homolog 2 isoform X1 OS=Apteryx mantelli mantelli OX=202946 GN=BICD2 PE=3 SV=1	Apteryx mantelli mantelli	715	2897	82.0	90.7	0.0
+732	TR	A0A8X7XNT9	BICD2 protein (Fragment) OS=Polypterus senegalus OX=55291 GN=Bicd2_0 PE=3 SV=1	Polypterus senegalus	810	2896	78.9	88.4	0.0
+733	TR	A0A8C1FW59	Uncharacterized protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	819	2896	72.4	84.2	0.0
+734	TR	A0A9J7XY35	BICD cargo adaptor 2 OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	846	2896	72.4	84.2	0.0
+735	TR	A0A4U5UTA7	Protein bicaudal D-like protein 2 OS=Collichthys lucidus OX=240159 GN=D9C73_011881 PE=3 SV=1	Collichthys lucidus	914	2894	70.2	80.3	0.0
+736	TR	A0A8U1C0H5	Protein bicaudal D homolog 2-like OS=Salvelinus namaycush OX=8040 GN=LOC120059507 PE=3 SV=1	Salvelinus namaycush	856	2893	74.6	85.1	0.0
+737	TR	A0A671KCC3	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107684464 PE=3 SV=1	Sinocyclocheilus anshuiensis	839	2893	72.7	85.0	0.0
+738	TR	A0A671KGS0	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107684464 PE=3 SV=1	Sinocyclocheilus anshuiensis	807	2893	72.7	85.0	0.0
+739	TR	A0A8D2M942	BICD cargo adaptor 2 OS=Zonotrichia albicollis OX=44394 GN=BICD2 PE=3 SV=1	Zonotrichia albicollis	701	2891	82.0	90.4	0.0
+740	TR	A0A9F5ILZ3	Protein bicaudal D homolog 2 OS=Python bivittatus OX=176946 GN=BICD2 PE=3 SV=1	Python bivittatus	731	2891	81.6	90.7	0.0
+741	TR	A0A671KCC8	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107684464 PE=3 SV=1	Sinocyclocheilus anshuiensis	816	2891	73.1	85.3	0.0
+742	TR	A0A7E6D4W3	inositol-pentakisphosphate 2-kinase OS=Phyllostomus discolor OX=89673 GN=LOC114513564 PE=3 SV=1	Phyllostomus discolor	1193	2887	75.6	80.4	0.0
+743	TR	A0A671KIQ7	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107684464 PE=3 SV=1	Sinocyclocheilus anshuiensis	824	2886	73.4	85.6	0.0
+744	TR	A0A9J8BYT4	BICD cargo adaptor 2 OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	834	2884	73.3	84.9	0.0
+745	TR	A0A8C1FYS2	Uncharacterized protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=2	Cyprinus carpio carpio	825	2884	73.3	84.9	0.0
+746	TR	A0A9J7Z154	Protein bicaudal D homolog 2-like OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	799	2884	73.3	84.9	0.0
+747	TR	A0A8C1FW53	Uncharacterized protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=2	Cyprinus carpio carpio	841	2884	73.3	84.9	0.0
+748	TR	A0A8C1FU63	Protein bicaudal D homolog 2-like OS=Cyprinus carpio carpio OX=630221 PE=3 SV=2	Cyprinus carpio carpio	801	2884	73.3	84.9	0.0
+749	TR	A0A6P6PYM6	Protein bicaudal D homolog 2-like isoform X1 OS=Carassius auratus OX=7957 GN=LOC113107874 PE=3 SV=1	Carassius auratus	835	2884	73.3	85.2	0.0
+750	TR	A0A6P6Q081	Protein bicaudal D homolog 2-like isoform X2 OS=Carassius auratus OX=7957 GN=LOC113107874 PE=3 SV=1	Carassius auratus	800	2884	73.3	85.2	0.0
+751	TR	H9G5B1	BICD cargo adaptor 2 OS=Anolis carolinensis OX=28377 GN=bicd2 PE=3 SV=2	Anolis carolinensis	700	2881	81.3	90.3	0.0
+752	TR	A0A1S3MCK0	Protein bicaudal D homolog 2-like isoform X4 OS=Salmo salar OX=8030 GN=LOC106571893 PE=3 SV=1	Salmo salar	847	2880	72.2	82.6	0.0
+753	TR	A0A1S3MCJ6	Protein bicaudal D homolog 2-like isoform X1 OS=Salmo salar OX=8030 GN=LOC106571893 PE=3 SV=1	Salmo salar	887	2880	72.2	82.6	0.0
+754	TR	A0A8C6Q4I0	Protein bicaudal D homolog 2-like OS=Nothobranchius furzeri OX=105023 GN=BICD2 PE=3 SV=1	Nothobranchius furzeri	842	2880	73.9	84.2	0.0
+755	TR	A0A672KHV9	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	828	2880	72.2	84.5	0.0
+756	TR	A0A1S3MCV5	Protein bicaudal D homolog 2-like isoform X2 OS=Salmo salar OX=8030 GN=LOC106571893 PE=3 SV=1	Salmo salar	862	2880	72.2	82.6	0.0
+757	TR	A0A672KHV4	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	819	2878	72.2	84.4	0.0
+758	TR	A0A667IJT5	BICD cargo adaptor 2 OS=Lynx canadensis OX=61383 PE=3 SV=1	Lynx canadensis	739	2875	82.7	85.9	0.0
+759	TR	A0A672KJK6	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	848	2870	72.2	84.2	0.0
+760	TR	A0A672KHT2	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	862	2869	72.5	84.7	0.0
+761	TR	A0A672MWG4	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	848	2869	72.9	85.1	0.0
+762	TR	A0A672KJR5	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	841	2869	72.5	84.7	0.0
+763	TR	A0A8C8ECE6	Protein bicaudal D homolog 2 OS=Otus sunia OX=257818 PE=3 SV=1	Otus sunia	686	2868	83.3	91.1	0.0
+764	TR	A0A672N2Y1	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	796	2867	73.0	85.1	0.0
+765	TR	A0A672MUB8	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	847	2867	73.0	85.1	0.0
+766	TR	A0A672MYA0	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	831	2867	73.0	85.1	0.0
+767	TR	A0A8C8CNA5	Protein bicaudal D homolog 2-like OS=Oncorhynchus tshawytscha OX=74940 GN=BICD2 PE=3 SV=1	Oncorhynchus tshawytscha	847	2865	74.4	84.2	0.0
+768	TR	A0A8C5CQF3	Protein bicaudal D homolog 2-like OS=Gadus morhua OX=8049 GN=LOC115542466 PE=3 SV=1	Gadus morhua	820	2864	72.5	82.9	0.0
+769	TR	A0A8C5FGL2	Protein bicaudal D homolog 2-like OS=Gadus morhua OX=8049 GN=LOC115542466 PE=3 SV=1	Gadus morhua	843	2860	72.5	83.2	0.0
+770	TR	A0A8C5BWL9	Protein bicaudal D homolog 2-like OS=Gadus morhua OX=8049 GN=LOC115542466 PE=3 SV=1	Gadus morhua	871	2860	72.5	83.2	0.0
+771	TR	A0A8C5C6I0	Protein bicaudal D homolog 2-like OS=Gadus morhua OX=8049 GN=LOC115542466 PE=3 SV=1	Gadus morhua	803	2860	72.5	83.2	0.0
+772	TR	A0A672MUF5	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	811	2859	73.0	85.1	0.0
+773	TR	A0A672KHX3	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	800	2859	72.8	85.2	0.0
+774	TR	A0A672MYA5	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	818	2859	73.0	85.1	0.0
+775	TR	A0A3P8WZE3	Protein bicaudal D homolog 2-like OS=Cynoglossus semilaevis OX=244447 GN=BICD2 PE=3 SV=1	Cynoglossus semilaevis	816	2859	72.3	84.0	0.0
+776	TR	A0A8C1BGB7	BICD cargo adaptor 2 OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	851	2857	71.8	84.0	0.0
+777	TR	A0A8C1H8V7	Uncharacterized protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	819	2857	71.8	84.0	0.0
+778	TR	A0A8C5B8H9	Protein bicaudal D homolog 2-like OS=Gadus morhua OX=8049 GN=LOC115542466 PE=3 SV=1	Gadus morhua	822	2855	73.3	83.9	0.0
+779	TR	A0A8C1H910	BICD2 protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	851	2855	72.0	83.9	0.0
+780	TR	A0A8C5FAV9	Protein bicaudal D homolog 2-like OS=Gadus morhua OX=8049 GN=LOC115542466 PE=3 SV=1	Gadus morhua	850	2850	73.1	83.8	0.0
+781	TR	A0A9J8CS63	Uncharacterized protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	841	2850	72.5	84.4	0.0
+782	TR	A0A8C1H8S9	Protein bicaudal D homolog 2-like OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	806	2850	72.5	84.4	0.0
+783	TR	A0A8C1BHC3	Protein bicaudal D homolog 2-like OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	807	2850	72.5	84.4	0.0
+784	TR	A0A9J7Z725	Protein bicaudal D homolog 2-like OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	810	2850	72.5	84.4	0.0
+785	TR	A0A5A9NZ11	Protein bicaudal D-like protein 2 OS=Triplophysa tibetana OX=1572043 GN=E1301_Tti021832 PE=3 SV=1	Triplophysa tibetana	838	2849	72.4	84.2	0.0
+786	TR	A0A8C1H8V9	BICD cargo adaptor 2 OS=Cyprinus carpio carpio OX=630221 PE=3 SV=1	Cyprinus carpio carpio	844	2846	72.5	84.5	0.0
+787	TR	A0A672KDD0	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=BICD2 PE=3 SV=1	Sinocyclocheilus grahami	840	2845	72.8	85.0	0.0
+788	TR	A0A4W3IFU2	BICD cargo adaptor 2 OS=Callorhinchus milii OX=7868 GN=BICD2 PE=3 SV=1	Callorhinchus milii	783	2844	76.4	86.9	0.0
+789	TR	A0A674P056	Protein bicaudal D homolog 2 OS=Takifugu rubripes OX=31033 GN=BICD2 PE=3 SV=1	Takifugu rubripes	847	2844	73.4	84.8	0.0
+790	TR	A0A8C5SYB3	BICD cargo adaptor 2 OS=Laticauda laticaudata OX=8630 GN=BICD2 PE=3 SV=1	Laticauda laticaudata	702	2842	80.5	90.2	0.0
+791	TR	A0A5N5NL72	BICD cargo adaptor 2 OS=Pangasianodon hypophthalmus OX=310915 GN=PHYPO_G00235380 PE=3 SV=1	Pangasianodon hypophthalmus	827	2841	72.6	85.3	0.0
+792	TR	A0A6Q2X3M9	Protein bicaudal D homolog 2 OS=Esox lucius OX=8010 GN=BICD2 PE=3 SV=1	Esox lucius	847	2839	73.3	83.5	0.0
+793	TR	A0A8C5SU25	BICD cargo adaptor 2 OS=Laticauda laticaudata OX=8630 GN=BICD2 PE=3 SV=1	Laticauda laticaudata	753	2838	80.5	90.2	0.0
+794	TR	A0A7J5ZIZ5	Uncharacterized protein OS=Ameiurus melas OX=219545 GN=AMELA_G00287860 PE=3 SV=1	Ameiurus melas	840	2837	72.8	84.9	0.0
+795	TR	A0A7J7EAV7	BICD cargo adaptor 2 OS=Diceros bicornis minor OX=77932 GN=HPG69_007915 PE=3 SV=1	Diceros bicornis minor	679	2835	87.6	90.7	0.0
+796	TR	A0A8C5CHT7	Protein bicaudal D homolog 2-like OS=Gadus morhua OX=8049 GN=LOC115542466 PE=3 SV=1	Gadus morhua	805	2832	73.3	84.1	0.0
+797	TR	A0A9D3P082	Bicaudal D OS=Hemibagrus wyckioides OX=337641 GN=KOW79_004062 PE=3 SV=1	Hemibagrus wyckioides	804	2825	72.0	83.4	0.0
+798	TR	A0A8B9VQE8	BICD cargo adaptor 2 OS=Anas zonorhyncha OX=75864 PE=3 SV=1	Anas zonorhyncha	779	2812	73.8	84.2	0.0
+799	TR	A0A8C5CA80	Protein bicaudal D homolog 2-like OS=Gadus morhua OX=8049 GN=LOC115542466 PE=3 SV=1	Gadus morhua	853	2804	71.4	82.0	0.0
+800	TR	A0A8T0ART6	Protein bicaudal D homolog 2-like OS=Silurus meridionalis OX=175797 GN=HF521_006818 PE=3 SV=1	Silurus meridionalis	802	2802	71.2	83.8	0.0
+801	TR	A0A673FP38	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus rhinocerous OX=307959 GN=LOC107711785 PE=3 SV=1	Sinocyclocheilus rhinocerous	842	2798	70.9	82.3	0.0
+802	TR	A0A674GQ84	BICD cargo adaptor 2 OS=Taeniopygia guttata OX=59729 GN=BICD2 PE=3 SV=1	Taeniopygia guttata	774	2796	71.4	80.4	0.0
+803	TR	A0A401RUN3	Protein bicaudal D homolog 2 OS=Chiloscyllium punctatum OX=137246 GN=chiPu_0000247 PE=3 SV=1	Chiloscyllium punctatum	744	2794	75.8	86.7	0.0
+804	TR	A0A670HN43	BICD cargo adaptor 2 OS=Podarcis muralis OX=64176 GN=BICD2 PE=3 SV=1	Podarcis muralis	774	2788	74.8	84.1	0.0
+805	TR	A0A672IVU3	Protein bicaudal D homolog 2-like OS=Salarias fasciatus OX=181472 GN=LOC115408549 PE=3 SV=1	Salarias fasciatus	754	2780	76.6	86.4	0.0
+806	TR	A0A7N8Y8T9	Protein bicaudal D homolog 2-like OS=Mastacembelus armatus OX=205130 PE=3 SV=1	Mastacembelus armatus	741	2775	76.5	85.8	0.0
+807	TR	A0A3Q4IC86	Protein bicaudal D homolog 2-like OS=Neolamprologus brichardi OX=32507 GN=BICD2 PE=3 SV=1	Neolamprologus brichardi	773	2760	73.8	84.1	0.0
+808	TR	A0A7L2RM99	BICD2 protein (Fragment) OS=Neodrepanis coruscans OX=254563 GN=Bicd2 PE=3 SV=1	Neodrepanis coruscans	671	2759	82.1	90.5	0.0
+809	TR	A0A093F5D0	Protein bicaudal D 2 (Fragment) OS=Gavia stellata OX=37040 GN=N328_10973 PE=3 SV=1	Gavia stellata	676	2759	81.6	89.5	0.0
+810	TR	A0A7L3IBY0	BICD2 protein (Fragment) OS=Pardalotus punctatus OX=254575 GN=Bicd2 PE=3 SV=1	Pardalotus punctatus	665	2755	82.5	90.5	0.0
+811	TR	A0A667ZIV0	Protein bicaudal D homolog 2-like OS=Myripristis murdjan OX=586833 GN=BICD2 PE=3 SV=1	Myripristis murdjan	762	2749	77.4	87.0	0.0
+812	TR	A0A7K8R0B1	BICD2 protein (Fragment) OS=Smithornis capensis OX=363769 GN=Bicd2_0 PE=3 SV=1	Smithornis capensis	702	2744	81.8	89.6	0.0
+813	TR	A0A8C4EHX3	BICD2 protein OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	744	2739	75.6	85.3	0.0
+814	TR	A0A7L2WFK9	BICD2 protein (Fragment) OS=Pandion haliaetus OX=56262 GN=Bicd2 PE=3 SV=1	Pandion haliaetus	661	2737	81.9	90.2	0.0
+815	TR	A0A851BXH9	BICD2 protein (Fragment) OS=Calyptomena viridis OX=135972 GN=Bicd2 PE=3 SV=1	Calyptomena viridis	706	2732	80.9	89.4	0.0
+816	TR	A0A7L3FHG1	BICD2 protein (Fragment) OS=Zapornia atra OX=2585822 GN=Bicd2 PE=3 SV=1	Zapornia atra	706	2731	80.9	88.9	0.0
+817	TR	A0A7K4Z949	BICD2 protein (Fragment) OS=Bucorvus abyssinicus OX=153643 GN=Bicd2 PE=3 SV=1	Bucorvus abyssinicus	712	2729	80.2	88.3	0.0
+818	TR	A0A7L0SU67	BICD2 protein (Fragment) OS=Podilymbus podiceps OX=9252 GN=Bicd2 PE=3 SV=1	Podilymbus podiceps	707	2725	80.6	88.6	0.0
+819	TR	A0A8C7ZHM6	BICD cargo adaptor 2 OS=Oryzias sinensis OX=183150 GN=BICD2 PE=3 SV=1	Oryzias sinensis	756	2723	73.4	85.3	0.0
+820	TR	A0A668VWF0	BICD cargo adaptor 2 OS=Oreochromis aureus OX=47969 PE=3 SV=1	Oreochromis aureus	794	2722	75.6	86.0	0.0
+821	TR	A0A665VZR5	Protein bicaudal D homolog 2-like OS=Echeneis naucrates OX=173247 GN=LOC115046032 PE=3 SV=1	Echeneis naucrates	757	2720	76.8	87.1	0.0
+822	TR	A0A7K9CSV7	BICD2 protein (Fragment) OS=Hemiprocne comata OX=243314 GN=Bicd2 PE=3 SV=1	Hemiprocne comata	708	2719	80.4	88.4	0.0
+823	TR	A0A851B7J3	BICD2 protein (Fragment) OS=Picathartes gymnocephalus OX=175131 GN=Bicd2 PE=3 SV=1	Picathartes gymnocephalus	696	2718	81.2	89.6	0.0
+824	TR	A0A7L3NF29	BICD2 protein (Fragment) OS=Oreotrochilus melanogaster OX=689266 GN=Bicd2 PE=3 SV=1	Oreotrochilus melanogaster	709	2717	80.3	88.5	0.0
+825	TR	A0A7L2ZA18	BICD2 protein (Fragment) OS=Jacana jacana OX=54508 GN=Bicd2 PE=3 SV=1	Jacana jacana	708	2717	80.2	88.4	0.0
+826	TR	A0A8S4C2M4	(Atlantic silverside) hypothetical protein (Fragment) OS=Menidia menidia OX=238744 GN=MMEN_LOCUS21830 PE=3 SV=1	Menidia menidia	791	2716	76.1	85.6	0.0
+827	TR	A0A7L1UJR7	BICD2 protein (Fragment) OS=Phainopepla nitens OX=161653 GN=Bicd2 PE=3 SV=1	Phainopepla nitens	696	2716	81.1	89.5	0.0
+828	TR	A0A7L3Y7P3	BICD2 protein (Fragment) OS=Calonectris borealis OX=1323832 GN=Bicd2 PE=3 SV=1	Calonectris borealis	690	2716	81.9	89.7	0.0
+829	TR	A0A851PVR3	BICD2 protein (Fragment) OS=Anhinga anhinga OX=56067 GN=Bicd2 PE=3 SV=1	Anhinga anhinga	707	2715	80.1	88.4	0.0
+830	TR	A0A7K5X4I6	BICD2 protein (Fragment) OS=Dromas ardeola OX=458190 GN=Bicd2 PE=3 SV=1	Dromas ardeola	692	2715	81.5	89.6	0.0
+831	TR	A0A9D3Q8C5	Bicaudal D OS=Megalops atlanticus OX=7932 GN=MATL_G00073980 PE=3 SV=1	Megalops atlanticus	797	2715	68.6	80.9	0.0
+832	TR	A0A093CXH8	Protein bicaudal D 2 (Fragment) OS=Tauraco erythrolophus OX=121530 GN=N340_13613 PE=3 SV=1	Tauraco erythrolophus	706	2713	80.0	88.5	0.0
+833	TR	A0A7K6H2S6	BICD2 protein (Fragment) OS=Malurus elegans OX=720584 GN=Bicd2 PE=3 SV=1	Malurus elegans	696	2713	81.5	89.3	0.0
+834	TR	A0A7K4J3Q7	BICD2 protein (Fragment) OS=Geococcyx californianus OX=8947 GN=Bicd2 PE=3 SV=1	Geococcyx californianus	709	2712	79.8	88.4	0.0
+835	TR	A0A8C7ZJC4	BICD cargo adaptor 2 OS=Oryzias sinensis OX=183150 GN=BICD2 PE=3 SV=1	Oryzias sinensis	786	2711	74.2	85.0	0.0
+836	TR	A0A673CS33	Protein bicaudal D homolog 2-like OS=Sphaeramia orbicularis OX=375764 GN=LOC115423070 PE=3 SV=1	Sphaeramia orbicularis	778	2710	76.0	85.6	0.0
+837	TR	A0A7L0Q329	BICD2 protein (Fragment) OS=Mesembrinibis cayennensis OX=1118748 GN=Bicd2 PE=3 SV=1	Mesembrinibis cayennensis	692	2705	81.2	89.6	0.0
+838	TR	A0A6J2VKU8	Protein bicaudal D homolog 2-like isoform X2 OS=Chanos chanos OX=29144 GN=LOC115814781 PE=3 SV=1	Chanos chanos	805	2705	68.4	80.5	0.0
+839	TR	A0A6J2VP72	Protein bicaudal D homolog 2-like isoform X1 OS=Chanos chanos OX=29144 GN=LOC115814781 PE=3 SV=1	Chanos chanos	839	2705	68.4	80.5	0.0
+840	TR	A0A667Y3T2	Protein bicaudal D homolog 2-like OS=Myripristis murdjan OX=586833 GN=LOC115358695 PE=3 SV=1	Myripristis murdjan	821	2701	68.3	81.6	0.0
+841	TR	A0A7J6CJ14	Uncharacterized protein OS=Onychostoma macrolepis OX=369639 GN=G5714_011661 PE=3 SV=1	Onychostoma macrolepis	817	2693	69.3	81.5	0.0
+842	TR	A0A7L2VKI0	BICD2 protein (Fragment) OS=Brachypteracias leptosomus OX=135165 GN=Bicd2 PE=3 SV=1	Brachypteracias leptosomus	706	2692	80.0	87.8	0.0
+843	TR	A0A673X5K4	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	729	2688	75.3	84.6	0.0
+844	TR	A0A4W5MXS8	BICD cargo adaptor 2 OS=Hucho hucho OX=62062 GN=BICD2 PE=3 SV=1	Hucho hucho	754	2688	75.4	85.2	0.0
+845	TR	A0A3Q4C0T8	Bicaudal D homolog 2 (Drosophila) OS=Mola mola OX=94237 PE=3 SV=1	Mola mola	873	2687	68.3	80.8	0.0
+846	TR	A0A4W5NS22	BICD cargo adaptor 2 OS=Hucho hucho OX=62062 GN=BICD2 PE=3 SV=1	Hucho hucho	729	2685	74.9	84.5	0.0
+847	TR	H3DKP7	BICD cargo adaptor 2 OS=Tetraodon nigroviridis OX=99883 GN=BICD2 PE=3 SV=1	Tetraodon nigroviridis	781	2685	74.2	84.7	0.0
+848	TR	A0A6F9B0T6	BICD cargo adaptor 2 (Fragment) OS=Coregonus sp. 'balchen' OX=861768 GN=CSTEINMANNI_LOCUS2048353 PE=3 SV=1	Coregonus sp. 'balchen'	776	2684	76.3	85.9	0.0
+849	TR	A0A6I9XDW8	Protein bicaudal D homolog 2 isoform X2 OS=Thamnophis sirtalis OX=35019 GN=BICD2 PE=3 SV=1	Thamnophis sirtalis	683	2681	79.6	89.9	0.0
+850	TR	A0A498N303	Bicaudal D-like protein OS=Labeo rohita OX=84645 GN=ROHU_006524 PE=3 SV=1	Labeo rohita	926	2681	68.8	80.7	0.0
+851	TR	A0A6P6L1X1	Protein bicaudal D homolog 2-like isoform X2 OS=Carassius auratus OX=7957 GN=LOC113055479 PE=3 SV=1	Carassius auratus	820	2680	68.6	80.9	0.0
+852	TR	A0A6P6L288	Protein bicaudal D homolog 2-like isoform X1 OS=Carassius auratus OX=7957 GN=LOC113055479 PE=3 SV=1	Carassius auratus	883	2680	68.6	80.9	0.0
+853	TR	G3N474	BICD cargo adaptor 2 OS=Gasterosteus aculeatus OX=69293 GN=BICD2 PE=3 SV=1	Gasterosteus aculeatus	850	2678	69.8	82.8	0.0
+854	TR	A0A6I9X9Y0	Protein bicaudal D homolog 2 isoform X1 OS=Thamnophis sirtalis OX=35019 GN=BICD2 PE=3 SV=1	Thamnophis sirtalis	713	2678	79.4	89.9	0.0
+855	TR	A0A6I9XEV3	Protein bicaudal D homolog 2 isoform X3 OS=Thamnophis sirtalis OX=35019 GN=BICD2 PE=3 SV=1	Thamnophis sirtalis	682	2677	79.6	89.9	0.0
+856	TR	A0A4W5NS27	BICD cargo adaptor 2 OS=Hucho hucho OX=62062 GN=BICD2 PE=3 SV=1	Hucho hucho	726	2676	75.0	84.2	0.0
+857	TR	A0A673IFA4	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus rhinocerous OX=307959 GN=LOC107739657 PE=3 SV=1	Sinocyclocheilus rhinocerous	801	2676	73.6	85.1	0.0
+858	TR	A0A669DSP2	BICD cargo adaptor 2 OS=Oreochromis niloticus OX=8128 GN=BICD2 PE=3 SV=1	Oreochromis niloticus	777	2675	74.6	84.6	0.0
+859	TR	A0A671L3J1	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107696460 PE=3 SV=1	Sinocyclocheilus anshuiensis	905	2675	68.8	81.3	0.0
+860	TR	A0A673Z1D8	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=BICD2 PE=3 SV=1	Salmo trutta	740	2673	75.2	85.0	0.0
+861	TR	A0A672LL33	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=LOC107578651 PE=3 SV=1	Sinocyclocheilus grahami	857	2672	69.2	81.2	0.0
+862	TR	A0A3Q4G4Z5	Protein bicaudal D homolog 2-like OS=Neolamprologus brichardi OX=32507 PE=3 SV=1	Neolamprologus brichardi	819	2672	67.5	81.0	0.0
+863	TR	A0A8C7JRP5	BICD cargo adaptor 2 OS=Oncorhynchus kisutch OX=8019 GN=BICD2 PE=3 SV=1	Oncorhynchus kisutch	741	2672	76.3	85.7	0.0
+864	TR	A0A8C1EEH0	Bicaudal D homolog 2 (Drosophila) OS=Cyprinus carpio carpio OX=630221 PE=3 SV=2	Cyprinus carpio carpio	854	2669	68.2	80.9	0.0
+865	TR	A0A671LUK2	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107694868 PE=3 SV=1	Sinocyclocheilus anshuiensis	898	2669	69.2	81.1	0.0
+866	TR	A0A8N7TEB8	Protein bicaudal D homolog 2 isoform X2 OS=Danio rerio OX=7955 GN=bicd2 PE=1 SV=1	Danio rerio	809	2668	67.8	80.2	0.0
+867	TR	X1WDT9	Bicaudal D homolog 2 (Drosophila) OS=Danio rerio OX=7955 GN=bicd2 PE=1 SV=3	Danio rerio	846	2668	67.8	80.2	0.0
+868	TR	A0A1S3P667	Protein bicaudal D homolog 2-like isoform X2 OS=Salmo salar OX=8030 GN=LOC106583446 PE=3 SV=1	Salmo salar	829	2666	68.3	81.5	0.0
+869	TR	A0A1S3P6B7	Protein bicaudal D homolog 2-like isoform X1 OS=Salmo salar OX=8030 GN=LOC106583446 PE=3 SV=1	Salmo salar	852	2666	68.3	81.5	0.0
+870	TR	A0A674EYX7	Protein bicaudal D homolog 2-like OS=Salmo trutta OX=8032 GN=LOC115208214 PE=3 SV=1	Salmo trutta	857	2666	68.1	81.9	0.0
+871	TR	A0A6P6QC20	Protein bicaudal D homolog 2-like isoform X2 OS=Carassius auratus OX=7957 GN=LOC113110809 PE=3 SV=1	Carassius auratus	820	2665	68.7	81.0	0.0
+872	TR	A0A6P6QBK7	Protein bicaudal D homolog 2-like isoform X1 OS=Carassius auratus OX=7957 GN=LOC113110809 PE=3 SV=1	Carassius auratus	857	2665	68.7	81.0	0.0
+873	TR	A0A4W5Q9Y8	Bicaudal D homolog 2 (Drosophila) OS=Hucho hucho OX=62062 PE=3 SV=1	Hucho hucho	856	2664	67.8	81.7	0.0
+874	TR	A0A4W5QX92	Bicaudal D homolog 2 (Drosophila) OS=Hucho hucho OX=62062 PE=3 SV=1	Hucho hucho	864	2663	68.6	81.4	0.0
+875	TR	A0A673HPS2	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus rhinocerous OX=307959 GN=LOC107743251 PE=3 SV=1	Sinocyclocheilus rhinocerous	854	2663	68.7	81.2	0.0
+876	TR	A0A8C7GLG5	BICD cargo adaptor 2 OS=Oncorhynchus kisutch OX=8019 GN=BICD2 PE=3 SV=1	Oncorhynchus kisutch	729	2662	74.9	83.9	0.0
+877	TR	A0A8M3B5A4	Protein bicaudal D homolog 2 OS=Danio rerio OX=7955 GN=zgc:171572 PE=3 SV=1	Danio rerio	749	2661	72.6	84.6	0.0
+878	TR	A0A8C1FQ07	Bicaudal D homolog 2 (Drosophila) OS=Cyprinus carpio carpio OX=630221 PE=3 SV=2	Cyprinus carpio carpio	853	2660	68.5	81.1	0.0
+879	TR	A0A3P9C2A0	Protein bicaudal D homolog 2 OS=Maylandia zebra OX=106582 PE=3 SV=1	Maylandia zebra	819	2659	67.0	80.5	0.0
+880	TR	A0A1S3L8Z1	Protein bicaudal D homolog 2-like OS=Salmo salar OX=8030 GN=LOC106565154 PE=3 SV=1	Salmo salar	826	2658	68.0	81.5	0.0
+881	TR	A0A674A110	Caspase recruitment domain-containing protein 19-like OS=Salmo trutta OX=8032 GN=LOC115151182 PE=3 SV=1	Salmo trutta	878	2657	68.2	81.4	0.0
+882	TR	A0A674A0X8	Caspase recruitment domain-containing protein 19-like OS=Salmo trutta OX=8032 GN=LOC115151182 PE=3 SV=1	Salmo trutta	852	2657	68.2	81.4	0.0
+883	TR	A0A3Q3CVA8	Protein bicaudal D homolog 2-like OS=Haplochromis burtoni OX=8153 PE=3 SV=1	Haplochromis burtoni	819	2657	67.0	80.6	0.0
+884	TR	A0A672YDD4	Bicaudal D homolog 2 (Drosophila) OS=Sphaeramia orbicularis OX=375764 PE=3 SV=1	Sphaeramia orbicularis	822	2655	67.6	80.3	0.0
+885	TR	A0A4W6EVS8	Bicaudal D homolog 2 (Drosophila) OS=Lates calcarifer OX=8187 PE=3 SV=1	Lates calcarifer	822	2655	67.9	80.7	0.0
+886	TR	A0A060XE76	Protein bicaudal D homolog 2-like OS=Oncorhynchus mykiss OX=8022 GN=GSONMT00003197001 PE=3 SV=1	Oncorhynchus mykiss	1020	2653	67.8	81.6	0.0
+887	TR	A0A668TQY0	Bicaudal D homolog 2 (Drosophila) OS=Oreochromis aureus OX=47969 PE=3 SV=1	Oreochromis aureus	817	2652	67.1	80.4	0.0
+888	TR	A0A3Q1I4T2	Bicaudal D homolog 2 (Drosophila) OS=Anabas testudineus OX=64144 PE=3 SV=2	Anabas testudineus	825	2652	67.4	81.1	0.0
+889	TR	A0A3P8TSQ1	Bicaudal D homolog 2 (Drosophila) OS=Amphiprion percula OX=161767 PE=3 SV=1	Amphiprion percula	816	2651	67.0	80.4	0.0
+890	TR	A0A3Q1C6D6	Protein bicaudal D homolog 2-like OS=Amphiprion ocellaris OX=80972 PE=3 SV=1	Amphiprion ocellaris	869	2650	66.9	80.2	0.0
+891	TR	A0A3Q1C8Y5	Protein bicaudal D homolog 2-like OS=Amphiprion ocellaris OX=80972 PE=3 SV=1	Amphiprion ocellaris	816	2650	67.0	80.4	0.0
+892	TR	A0A2I4B1I1	Protein bicaudal D homolog 2-like OS=Austrofundulus limnaeus OX=52670 GN=LOC106516018 PE=3 SV=1	Austrofundulus limnaeus	807	2647	68.0	79.9	0.0
+893	TR	A0A3P8ZQR8	Bicaudal D homolog 2 (Drosophila) OS=Esox lucius OX=8010 PE=3 SV=2	Esox lucius	834	2647	68.0	80.7	0.0
+894	TR	I3JJN1	Protein bicaudal D homolog 2 OS=Oreochromis niloticus OX=8128 GN=LOC100693219 PE=3 SV=1	Oreochromis niloticus	817	2647	67.1	80.2	0.0
+895	TR	A0A8U1F9F1	Protein bicaudal D homolog 2-like isoform X1 OS=Salvelinus namaycush OX=8040 GN=LOC120065366 PE=3 SV=1	Salvelinus namaycush	857	2647	68.0	81.0	0.0
+896	TR	A0A8U1F979	Protein bicaudal D homolog 2-like isoform X2 OS=Salvelinus namaycush OX=8040 GN=LOC120065366 PE=3 SV=1	Salvelinus namaycush	846	2647	68.0	81.0	0.0
+897	TR	A0A8U1FA17	Protein bicaudal D homolog 2-like isoform X3 OS=Salvelinus namaycush OX=8040 GN=LOC120065366 PE=3 SV=1	Salvelinus namaycush	834	2647	68.0	81.0	0.0
+898	TR	A0A672GHY7	Protein bicaudal D homolog 2-like OS=Salarias fasciatus OX=181472 GN=LOC115388372 PE=3 SV=1	Salarias fasciatus	816	2646	66.6	80.0	0.0
+899	TR	A0A6P7IHX2	Protein bicaudal D homolog 2-like OS=Parambassis ranga OX=210632 GN=LOC114436459 PE=3 SV=1	Parambassis ranga	815	2644	66.9	80.5	0.0
+900	TR	A0A6P7MFU3	Protein bicaudal D homolog 2 OS=Betta splendens OX=158456 GN=LOC114854988 PE=3 SV=1	Betta splendens	808	2643	67.6	80.5	0.0
+901	TR	A0A674NNV2	Bicaudal D homolog 2 (Drosophila) OS=Takifugu rubripes OX=31033 PE=3 SV=1	Takifugu rubripes	840	2642	67.3	80.0	0.0
+902	TR	A0A672QPX8	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=LOC107582381 PE=3 SV=1	Sinocyclocheilus grahami	892	2642	67.5	79.8	0.0
+903	TR	A0A672QPP1	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus grahami OX=75366 GN=LOC107582381 PE=3 SV=1	Sinocyclocheilus grahami	858	2642	67.5	79.8	0.0
+904	TR	A0A553N058	Uncharacterized protein OS=Danionella translucida OX=623744 GN=DNTS_022333 PE=3 SV=1	Danionella translucida	851	2641	67.3	80.0	0.0
+905	TR	H3BZM4	Bicaudal D homolog 2 (Drosophila) OS=Tetraodon nigroviridis OX=99883 PE=3 SV=1	Tetraodon nigroviridis	807	2641	67.2	79.8	0.0
+906	TR	A0A8J0U571	Protein bicaudal D homolog 2 isoform X3 OS=Xenopus laevis OX=8355 GN=bicd2.S PE=3 SV=1	Xenopus laevis	769	2640	74.9	87.3	0.0
+907	TR	A0A6G0J4K9	Protein bicaudal D-like protein 2 OS=Larimichthys crocea OX=215358 GN=D5F01_LYC03036 PE=3 SV=1	Larimichthys crocea	805	2640	67.5	80.8	0.0
+908	TR	A0A6G1PIS4	Protein bicaudal D-like protein 2 OS=Channa argus OX=215402 GN=EXN66_Car005560 PE=3 SV=1	Channa argus	820	2640	67.3	81.2	0.0
+909	TR	A0A8U1H5Q2	Protein bicaudal D homolog 2 OS=Salvelinus namaycush OX=8040 GN=bicd2 PE=3 SV=1	Salvelinus namaycush	822	2640	68.1	81.6	0.0
+910	TR	A0A3Q1EII4	Protein bicaudal D homolog 2-like OS=Acanthochromis polyacanthus OX=80966 PE=3 SV=1	Acanthochromis polyacanthus	816	2639	67.0	79.6	0.0
+911	TR	A0A671YH77	Bicaudal D homolog 2 (Drosophila) OS=Sparus aurata OX=8175 PE=3 SV=1	Sparus aurata	887	2639	67.2	80.7	0.0
+912	TR	A0A8C9ZZB8	Protein bicaudal D homolog 2-like OS=Sander lucioperca OX=283035 GN=LOC116041558 PE=3 SV=1	Sander lucioperca	816	2637	67.3	80.1	0.0
+913	TR	A0A3Q1H140	Protein bicaudal D homolog 2-like OS=Acanthochromis polyacanthus OX=80966 PE=3 SV=1	Acanthochromis polyacanthus	818	2637	66.2	79.3	0.0
+914	TR	A0A8C4FD95	Bicaudal D homolog 2 (Drosophila) OS=Dicentrarchus labrax OX=13489 PE=3 SV=1	Dicentrarchus labrax	816	2633	66.8	80.8	0.0
+915	TR	A0A5A9NG60	Protein bicaudal D-like protein 2 OS=Triplophysa tibetana OX=1572043 GN=E1301_Tti016312 PE=3 SV=1	Triplophysa tibetana	1019	2633	68.0	80.2	0.0
+916	TR	A0A484DF60	Bicaudal D homolog 2 (Drosophila) OS=Perca flavescens OX=8167 GN=EPR50_G00039210 PE=3 SV=1	Perca flavescens	816	2633	67.0	80.0	0.0
+917	TR	A0A8C8J8L4	Bicaudal D homolog 2 (Drosophila) OS=Oncorhynchus tshawytscha OX=74940 PE=3 SV=1	Oncorhynchus tshawytscha	864	2632	67.7	80.6	0.0
+918	TR	A0A8C8J8U1	Bicaudal D homolog 2 (Drosophila) OS=Oncorhynchus tshawytscha OX=74940 PE=3 SV=1	Oncorhynchus tshawytscha	853	2632	67.7	80.6	0.0
+919	TR	A0A6A5FLC7	Bicaudal D homolog 2 (Drosophila) OS=Perca fluviatilis OX=8168 GN=PFLUV_G00044740 PE=3 SV=1	Perca fluviatilis	816	2632	67.2	80.0	0.0
+920	TR	A0A8C4A1L2	BICD cargo adaptor 2 OS=Denticeps clupeoides OX=299321 GN=bicd2 PE=3 SV=1	Denticeps clupeoides	832	2632	67.6	80.2	0.0
+921	TR	H3DB22	Bicaudal D homolog 2 (Drosophila) OS=Tetraodon nigroviridis OX=99883 PE=3 SV=1	Tetraodon nigroviridis	807	2632	67.5	80.1	0.0
+922	TR	A0A5C6N8D2	Protein bicaudal D-like protein 2 OS=Takifugu flavidus OX=433684 GN=D4764_04G0007170 PE=3 SV=1	Takifugu flavidus	983	2631	67.0	80.0	0.0
+923	TR	A0A8C7HFB9	Protein bicaudal D homolog 2 OS=Oncorhynchus kisutch OX=8019 GN=LOC109891350 PE=3 SV=1	Oncorhynchus kisutch	853	2630	67.7	80.6	0.0
+924	TR	A0A8C7HCV8	Protein bicaudal D homolog 2 OS=Oncorhynchus kisutch OX=8019 GN=LOC109891350 PE=3 SV=1	Oncorhynchus kisutch	864	2630	67.7	80.6	0.0
+925	TR	A0A8C8G298	Protein bicaudal D homolog 2-like OS=Oncorhynchus tshawytscha OX=74940 GN=LOC112244870 PE=3 SV=1	Oncorhynchus tshawytscha	836	2628	67.5	81.2	0.0
+926	TR	A0A8C8G2S8	Protein bicaudal D homolog 2-like OS=Oncorhynchus tshawytscha OX=74940 GN=LOC112244870 PE=3 SV=1	Oncorhynchus tshawytscha	853	2628	67.5	81.2	0.0
+927	TR	A0A3Q3NN41	Bicaudal D homolog 2 (Drosophila) OS=Mastacembelus armatus OX=205130 PE=3 SV=1	Mastacembelus armatus	813	2625	67.1	80.6	0.0
+928	TR	A0A3Q2ZK82	Protein bicaudal D homolog 2-like OS=Kryptolebias marmoratus OX=37003 PE=3 SV=1	Kryptolebias marmoratus	817	2623	66.9	79.9	0.0
+929	TR	A0A674MGA9	Protein bicaudal D homolog 2 OS=Takifugu rubripes OX=31033 GN=BICD2 PE=3 SV=1	Takifugu rubripes	773	2622	73.6	84.6	0.0
+930	TR	A0A8C7D2D2	Protein bicaudal D homolog 2-like OS=Oncorhynchus kisutch OX=8019 GN=LOC109892671 PE=3 SV=1	Oncorhynchus kisutch	853	2622	67.5	81.1	0.0
+931	TR	A0A8C7CWE5	Protein bicaudal D homolog 2-like OS=Oncorhynchus kisutch OX=8019 GN=LOC109892671 PE=3 SV=1	Oncorhynchus kisutch	836	2622	67.5	81.1	0.0
+932	TR	A0A5E4BXL5	BICD cargo adaptor 2 OS=Marmota monax OX=9995 GN=MONAX_5E033124 PE=3 SV=1	Marmota monax	591	2621	94.3	96.1	0.0
+933	TR	A0A087YLI1	Protein bicaudal D homolog 2-like OS=Poecilia formosa OX=48698 PE=3 SV=2	Poecilia formosa	819	2618	66.5	79.9	0.0
+934	TR	A0A2U9BFP4	Bicaudal D homolog 2 (Drosophila) OS=Scophthalmus maximus OX=52904 GN=LOC118310143 PE=3 SV=1	Scophthalmus maximus	813	2618	66.6	80.0	0.0
+935	TR	M4ARL4	Protein bicaudal D homolog 2-like OS=Xiphophorus maculatus OX=8083 PE=3 SV=1	Xiphophorus maculatus	818	2616	66.7	79.6	0.0
+936	TR	G3N9T7	Bicaudal D homolog 2 (Drosophila) OS=Gasterosteus aculeatus OX=69293 PE=3 SV=1	Gasterosteus aculeatus	807	2614	65.4	79.2	0.0
+937	TR	A0A673I6W3	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus rhinocerous OX=307959 GN=LOC107739657 PE=3 SV=1	Sinocyclocheilus rhinocerous	720	2608	73.1	84.4	0.0
+938	TR	A0A673IFC3	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus rhinocerous OX=307959 GN=LOC107739657 PE=3 SV=1	Sinocyclocheilus rhinocerous	758	2607	73.5	84.8	0.0
+939	TR	A0A3Q2DA33	Protein bicaudal D homolog 2-like OS=Cyprinodon variegatus OX=28743 PE=3 SV=1	Cyprinodon variegatus	866	2606	66.1	80.1	0.0
+940	TR	A0A8M1KIX3	Protein bicaudal D homolog 2 isoform X1 OS=Clupea harengus OX=7950 GN=bicd2 PE=3 SV=1	Clupea harengus	851	2603	66.5	78.9	0.0
+941	TR	A0A6P3W2S1	Protein bicaudal D homolog 2 isoform X2 OS=Clupea harengus OX=7950 GN=bicd2 PE=3 SV=1	Clupea harengus	821	2603	66.5	78.9	0.0
+942	TR	A0A3Q2DAR6	Protein bicaudal D homolog 2-like OS=Cyprinodon variegatus OX=28743 PE=3 SV=1	Cyprinodon variegatus	854	2602	66.3	80.2	0.0
+943	TR	A0A8C4A1A2	BICD cargo adaptor 2 OS=Denticeps clupeoides OX=299321 GN=bicd2 PE=3 SV=1	Denticeps clupeoides	824	2601	68.3	80.9	0.0
+944	TR	A0A3P9NQL1	Protein bicaudal D homolog 2-like OS=Poecilia reticulata OX=8081 PE=3 SV=1	Poecilia reticulata	818	2599	66.5	79.7	0.0
+945	TR	A0A8C6UEX4	Bicaudal D homolog 2 (Drosophila) OS=Neogobius melanostomus OX=47308 PE=3 SV=1	Neogobius melanostomus	837	2597	67.2	78.8	0.0
+946	TR	A0A8C2ZGX1	Bicaudal D homolog 2 (Drosophila) OS=Cyclopterus lumpus OX=8103 PE=3 SV=1	Cyclopterus lumpus	876	2597	65.5	79.5	0.0
+947	TR	A0A673IC18	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus rhinocerous OX=307959 GN=LOC107739657 PE=3 SV=1	Sinocyclocheilus rhinocerous	718	2597	73.9	85.3	0.0
+948	TR	A0A3B1J7U5	Protein bicaudal D homolog 2 OS=Astyanax mexicanus OX=7994 PE=3 SV=1	Astyanax mexicanus	899	2597	66.6	80.0	0.0
+949	TR	A0A4W4DN49	BICD cargo adaptor 2 OS=Electrophorus electricus OX=8005 GN=bicd2 PE=3 SV=1	Electrophorus electricus	840	2596	65.9	79.2	0.0
+950	TR	A0A8C5AGG3	Protein bicaudal D homolog 2-like OS=Gadus morhua OX=8049 GN=LOC115542466 PE=3 SV=1	Gadus morhua	722	2594	73.8	83.7	0.0
+951	TR	A0A665SZ22	Protein bicaudal D homolog 2-like OS=Echeneis naucrates OX=173247 GN=LOC115044115 PE=3 SV=1	Echeneis naucrates	811	2594	65.7	79.3	0.0
+952	TR	A0A3B1K791	Protein bicaudal D homolog 2 OS=Astyanax mexicanus OX=7994 PE=3 SV=1	Astyanax mexicanus	841	2593	67.4	80.5	0.0
+953	TR	A0A3B1KKT6	Protein bicaudal D homolog 2 OS=Astyanax mexicanus OX=7994 PE=3 SV=1	Astyanax mexicanus	802	2593	67.4	80.5	0.0
+954	TR	A0A8C6P7Z6	Protein bicaudal D homolog 2-like OS=Nothobranchius furzeri OX=105023 GN=LOC107385119 PE=3 SV=1	Nothobranchius furzeri	847	2590	66.0	79.5	0.0
+955	TR	A0A4Z2J6F7	Protein bicaudal D 2 OS=Liparis tanakae OX=230148 GN=Bicd2 PE=3 SV=1	Liparis tanakae	809	2590	65.2	80.0	0.0
+956	TR	A0A1A8U5M0	Bicaudal D homolog 2 OS=Nothobranchius furzeri OX=105023 GN=BICD2 PE=3 SV=1	Nothobranchius furzeri	814	2590	66.0	79.5	0.0
+957	TR	A0A8S4BPE9	(Atlantic silverside) hypothetical protein OS=Menidia menidia OX=238744 GN=MMEN_LOCUS16312 PE=3 SV=1	Menidia menidia	992	2588	66.5	80.2	0.0
+958	TR	A0A3Q3E8F3	Protein bicaudal D homolog 2-like OS=Labrus bergylta OX=56723 PE=3 SV=1	Labrus bergylta	870	2586	66.4	78.7	0.0
+959	TR	A0A671PMF5	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107669024 PE=3 SV=1	Sinocyclocheilus anshuiensis	824	2586	68.1	79.8	0.0
+960	TR	A0A8T2N409	Uncharacterized protein OS=Albula glossodonta OX=121402 GN=JZ751_014520 PE=3 SV=1	Albula glossodonta	712	2585	78.6	87.7	0.0
+961	TR	A0A8C5I190	Protein bicaudal D homolog 2-like OS=Gouania willdenowi OX=441366 GN=LOC114463633 PE=3 SV=1	Gouania willdenowi	840	2583	66.2	79.8	0.0
+962	TR	A0A671PMH0	Protein bicaudal D homolog 2-like OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107669024 PE=3 SV=1	Sinocyclocheilus anshuiensis	852	2582	67.9	79.5	0.0
+963	TR	A0A6J2PNT2	Protein bicaudal D homolog 2-like OS=Cottoperca gobio OX=56716 GN=LOC115007956 PE=3 SV=1	Cottoperca gobio	816	2578	65.1	78.7	0.0
+964	TR	A0A8C5AF01	Protein bicaudal D homolog 2-like OS=Gadus morhua OX=8049 GN=LOC115556700 PE=3 SV=1	Gadus morhua	845	2574	65.5	78.0	0.0
+965	TR	A0A8C5FGC5	Protein bicaudal D homolog 2-like OS=Gadus morhua OX=8049 GN=LOC115556700 PE=3 SV=1	Gadus morhua	838	2574	65.5	78.0	0.0
+966	TR	A0A6I9MWB2	Protein bicaudal D homolog 2-like OS=Notothenia coriiceps OX=8208 GN=LOC104946162 PE=3 SV=1	Notothenia coriiceps	809	2570	65.9	79.3	0.0
+967	TR	A0A8C1BGG6	Uncharacterized protein OS=Cyprinus carpio carpio OX=630221 PE=3 SV=2	Cyprinus carpio carpio	756	2568	72.8	84.1	0.0
+968	TR	A0A7L1Y6S0	BICD1 protein (Fragment) OS=Scytalopus superciliaris OX=312124 GN=Bicd1 PE=3 SV=1	Scytalopus superciliaris	978	2568	65.2	78.8	0.0
+969	TR	A0A8J4UI76	Protein bicaudal D 2-like isoform X2 (Fragment) OS=Clarias magur OX=1594786 GN=DAT39_003021 PE=3 SV=1	Clarias magur	725	2567	71.3	84.6	0.0
+970	TR	A0A3P8UR19	Protein bicaudal D homolog 2 OS=Cynoglossus semilaevis OX=244447 PE=3 SV=1	Cynoglossus semilaevis	846	2566	67.2	79.2	0.0
+971	TR	A0A6P8VDK7	Protein bicaudal D homolog 2-like isoform X1 OS=Gymnodraco acuticeps OX=8218 GN=LOC117548131 PE=3 SV=1	Gymnodraco acuticeps	811	2564	65.7	79.3	0.0
+972	TR	A0A8C6WV59	Bicaudal D homolog 2 (Drosophila) OS=Neogobius melanostomus OX=47308 PE=3 SV=1	Neogobius melanostomus	795	2557	66.9	78.4	0.0
+973	TR	A0A852MUI8	BICD1 protein (Fragment) OS=Pteruthius melanotis OX=357074 GN=Bicd1 PE=3 SV=1	Pteruthius melanotis	978	2552	64.8	78.5	0.0
+974	TR	A0A7L0KYG9	BICD1 protein (Fragment) OS=Sylvietta virens OX=208069 GN=Bicd1 PE=3 SV=1	Sylvietta virens	949	2551	64.7	78.5	0.0
+975	TR	A0A7K7QDC4	BICD1 protein (Fragment) OS=Poecile atricapillus OX=48891 GN=Bicd1 PE=3 SV=1	Poecile atricapillus	949	2551	64.6	78.8	0.0
+976	TR	A0A7K7MBH1	BICD1 protein (Fragment) OS=Brachypodius atriceps OX=182895 GN=Bicd1 PE=3 SV=1	Brachypodius atriceps	949	2550	65.0	78.9	0.0
+977	TR	A0A7K6E922	BICD1 protein (Fragment) OS=Grantiella picta OX=266360 GN=Bicd1 PE=3 SV=1	Grantiella picta	949	2550	64.6	78.8	0.0
+978	TR	A0A8C3N0M0	Uncharacterized protein OS=Geospiza parvula OX=87175 GN=BICD1 PE=3 SV=1	Geospiza parvula	839	2549	64.6	78.5	0.0
+979	TR	A0A8C3X638	BICD cargo adaptor 1 OS=Cyanoderma ruficeps OX=181631 PE=3 SV=1	Cyanoderma ruficeps	839	2549	64.4	78.5	0.0
+980	TR	A0A7K6I0U1	BICD1 protein (Fragment) OS=Dasyornis broadbenti OX=243059 GN=Bicd1 PE=3 SV=1	Dasyornis broadbenti	978	2549	64.7	78.5	0.0
+981	TR	A0A6J0GAU7	Protein bicaudal D homolog 1 isoform X4 OS=Lepidothrix coronata OX=321398 GN=BICD1 PE=3 SV=1	Lepidothrix coronata	839	2549	64.7	78.5	0.0
+982	TR	A0A7K9Q1N6	BICD1 protein (Fragment) OS=Pachycephala philippinensis OX=449367 GN=Bicd1 PE=3 SV=1	Pachycephala philippinensis	978	2549	64.6	78.5	0.0
+983	TR	A0A851KSZ3	BICD1 protein (Fragment) OS=Vidua chalybeata OX=81927 GN=Bicd1 PE=3 SV=1	Vidua chalybeata	949	2549	64.6	78.5	0.0
+984	TR	A0A7K4V7Y2	BICD1 protein (Fragment) OS=Emberiza fucata OX=337179 GN=Bicd1 PE=3 SV=1	Emberiza fucata	949	2549	64.6	78.5	0.0
+985	TR	A0A7K7RSE3	BICD1 protein (Fragment) OS=Nesospiza acunhae OX=381881 GN=Bicd1 PE=3 SV=1	Nesospiza acunhae	949	2548	64.6	78.5	0.0
+986	TR	A0A7K8RQB2	BICD1 protein (Fragment) OS=Rhodinocichla rosea OX=58203 GN=Bicd1 PE=3 SV=1	Rhodinocichla rosea	949	2548	64.6	78.5	0.0
+987	TR	H0ZML5	BICD cargo adaptor 1 OS=Taeniopygia guttata OX=59729 GN=BICD1 PE=3 SV=2	Taeniopygia guttata	839	2548	64.6	78.5	0.0
+988	TR	A0A6J0GDZ2	Protein bicaudal D homolog 1 isoform X1 OS=Lepidothrix coronata OX=321398 GN=BICD1 PE=3 SV=1	Lepidothrix coronata	1001	2548	64.7	78.5	0.0
+989	TR	A0A6J0GG38	Protein bicaudal D homolog 1 isoform X2 OS=Lepidothrix coronata OX=321398 GN=BICD1 PE=3 SV=1	Lepidothrix coronata	978	2548	64.7	78.5	0.0
+990	TR	A0A7K5P8F3	BICD1 protein (Fragment) OS=Erythrocercus mccallii OX=107208 GN=Bicd1 PE=3 SV=1	Erythrocercus mccallii	978	2548	64.6	78.5	0.0
+991	TR	A0A7K7ED71	BICD1 protein (Fragment) OS=Sylvia atricapilla OX=48155 GN=Bicd1 PE=3 SV=1	Sylvia atricapilla	949	2548	64.4	78.5	0.0
+992	TR	A0A7L1C4A9	BICD1 protein (Fragment) OS=Illadopsis cleaveri OX=201329 GN=Bicd1 PE=3 SV=1	Illadopsis cleaveri	970	2548	64.6	78.5	0.0
+993	TR	A0A7K9L3U0	BICD1 protein (Fragment) OS=Rhabdornis inornatus OX=237438 GN=Bicd1 PE=3 SV=1	Rhabdornis inornatus	978	2548	64.6	78.5	0.0
+994	TR	A0A851V2K0	BICD1 protein (Fragment) OS=Copsychus sechellarum OX=797021 GN=Bicd1 PE=3 SV=1	Copsychus sechellarum	924	2548	64.6	78.5	0.0
+995	TR	A0A7L0RBC9	BICD1 protein (Fragment) OS=Setophaga kirtlandii OX=298831 GN=Bicd1 PE=3 SV=1	Setophaga kirtlandii	978	2548	64.6	78.5	0.0
+996	TR	A0A851ZYF5	BICD1 protein (Fragment) OS=Calcarius ornatus OX=198940 GN=Bicd1 PE=3 SV=1	Calcarius ornatus	949	2548	64.6	78.5	0.0
+997	TR	A0A8C3TH91	BICD cargo adaptor 1 OS=Catharus ustulatus OX=91951 PE=3 SV=1	Catharus ustulatus	839	2548	64.9	78.8	0.0
+998	TR	A0A7L4EZ75	BICD1 protein (Fragment) OS=Hirundo rustica OX=43150 GN=Bicd1 PE=3 SV=1	Hirundo rustica	949	2548	64.6	78.5	0.0
+999	TR	A0A7K8GWC3	BICD1 protein (Fragment) OS=Orthonyx spaldingii OX=38397 GN=Bicd1 PE=3 SV=1	Orthonyx spaldingii	978	2547	64.6	78.5	0.0
+1000	TR	A0A8C3MUI1	Uncharacterized protein OS=Geospiza parvula OX=87175 GN=BICD1 PE=3 SV=1	Geospiza parvula	831	2547	64.7	78.6	0.0
