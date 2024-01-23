@@ -1,0 +1,8 @@
+CUSTOM_DUMPSOFTWAREVERSIONS:
+  python: 3.11.0
+  yaml: '6.0'
+DBSHEET_CHECK:
+  python: 3.8.3
+Workflow:
+  Nextflow: 23.10.1
+  nf-core/getstructures: 1.0dev
