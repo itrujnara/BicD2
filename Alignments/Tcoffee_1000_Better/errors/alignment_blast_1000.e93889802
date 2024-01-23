@@ -1,0 +1,7 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+./job.sh: line 4: t_coffee: command not found
+
+CondaError: Run 'conda init' before 'conda deactivate'
+
