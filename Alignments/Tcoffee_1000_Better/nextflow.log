@@ -1,0 +1,3601 @@
+N E X T F L O W  ~  version 23.10.1
+Launching `main.nf` [shrivelled_joliot] DSL2 - revision: eb489ab5cc
+Downloading plugin nf-tower@1.6.3
+[-        ] process > TALIGN:APPEND -
+
+[-        ] process > TALIGN:APPEND    -
+[-        ] process > TALIGN:ALIGN_SEQ -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+[-        ] process > TALIGN:APPEND    -
+[-        ] process > TALIGN:ALIGN_SEQ -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (7)
+[ba/dead58] process > TALIGN:APPEND (16) [  0%] 0 of 108
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (12)
+[9f/e383c3] process > TALIGN:APPEND (8)  [  0%] 0 of 200
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (12)
+[9f/e383c3] process > TALIGN:APPEND (8)  [  0%] 0 of 408
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (12)
+[9f/e383c3] process > TALIGN:APPEND (8)  [  0%] 0 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (13)
+[9f/e383c3] process > TALIGN:APPEND (8)  [  0%] 1 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (14)
+[d5/05887b] process > TALIGN:APPEND (7)  [  0%] 2 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (14)
+[d5/05887b] process > TALIGN:APPEND (7)  [  0%] 2 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (15)
+[80/e54422] process > TALIGN:APPEND (9)  [  0%] 3 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (16)
+[47/72add1] process > TALIGN:APPEND (14) [  0%] 4 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (17)
+[15/96c5e0] process > TALIGN:APPEND (15) [  0%] 5 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (18)
+[22/834573] process > TALIGN:APPEND (17) [  1%] 6 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (18)
+[22/834573] process > TALIGN:APPEND (17) [  1%] 6 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (19)
+[4b/e49cf9] process > TALIGN:APPEND (18) [  1%] 7 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (20)
+[1a/fb464e] process > TALIGN:APPEND (20) [  1%] 8 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (21)
+[ea/ba7ca1] process > TALIGN:APPEND (21) [  1%] 9 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (21)
+[ea/ba7ca1] process > TALIGN:APPEND (21) [  1%] 9 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (22)
+[b8/74e2f6] process > TALIGN:APPEND (22) [  1%] 10 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (22)
+[de/09a118] process > TALIGN:APPEND (3)  [  2%] 11 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (23)
+[64/bdebaf] process > TALIGN:APPEND (23) [  2%] 11 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (24)
+[60/13cf46] process > TALIGN:APPEND (24) [  2%] 12 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (25)
+[90/2b8838] process > TALIGN:APPEND (27) [  2%] 13 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (25)
+[90/2b8838] process > TALIGN:APPEND (27) [  2%] 13 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (27)
+[9b/b02e5d] process > TALIGN:APPEND (26) [  2%] 15 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (27)
+[9b/b02e5d] process > TALIGN:APPEND (26) [  2%] 15 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (28)
+[34/1679a3] process > TALIGN:APPEND (28) [  3%] 16 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (29)
+[ef/4d311f] process > TALIGN:APPEND (29) [  3%] 17 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (30)
+[74/46187e] process > TALIGN:APPEND (25) [  3%] 18 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (30)
+[4b/e49cf9] process > TALIGN:APPEND (18) [  3%] 19 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (31)
+[bc/d0e7de] process > TALIGN:APPEND (30) [  3%] 19 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (32)
+[6f/43aced] process > TALIGN:APPEND (32) [  3%] 20 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (32)
+[6f/43aced] process > TALIGN:APPEND (32) [  3%] 20 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (33)
+[c5/fbb37b] process > TALIGN:APPEND (34) [  3%] 21 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (33)
+[c5/fbb37b] process > TALIGN:APPEND (34) [  3%] 21 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (34)
+[91/f0b290] process > TALIGN:APPEND (31) [  4%] 22 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (34)
+[91/f0b290] process > TALIGN:APPEND (31) [  4%] 22 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (35)
+[88/fd8c73] process > TALIGN:APPEND (37) [  4%] 23 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (37)
+[92/80dac7] process > TALIGN:APPEND (35) [  4%] 25 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (37)
+[92/80dac7] process > TALIGN:APPEND (35) [  4%] 25 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (38)
+[5c/da7550] process > TALIGN:APPEND (40) [  4%] 26 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (39)
+[fb/04475c] process > TALIGN:APPEND (48) [  5%] 27 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (40)
+[ee/d46da5] process > TALIGN:APPEND (38) [  5%] 28 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (41)
+[ba/99e59d] process > TALIGN:APPEND (41) [  5%] 29 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (42)
+[5e/1d2bc3] process > TALIGN:APPEND (39) [  5%] 30 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (43)
+[17/792485] process > TALIGN:APPEND (43) [  5%] 31 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (44)
+[79/41e36b] process > TALIGN:APPEND (44) [  6%] 32 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (45)
+[09/c788c1] process > TALIGN:APPEND (53) [  6%] 33 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (46)
+[cb/8ca51e] process > TALIGN:APPEND (45) [  6%] 34 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (47)
+[e9/e4f27e] process > TALIGN:APPEND (55) [  6%] 35 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (47)
+[e9/e4f27e] process > TALIGN:APPEND (55) [  6%] 35 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (48)
+[19/3f55f4] process > TALIGN:APPEND (42) [  6%] 36 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (48)
+[19/3f55f4] process > TALIGN:APPEND (42) [  6%] 36 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (49)
+[23/cc66ab] process > TALIGN:APPEND (47) [  6%] 37 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (49)
+[23/cc66ab] process > TALIGN:APPEND (47) [  6%] 37 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (50)
+[a6/22fa58] process > TALIGN:APPEND (59) [  7%] 38 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (50)
+[a6/22fa58] process > TALIGN:APPEND (59) [  7%] 38 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (51)
+[f9/83cced] process > TALIGN:APPEND (46) [  7%] 39 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (52)
+[99/908247] process > TALIGN:APPEND (49) [  7%] 40 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (53)
+[da/3aeebc] process > TALIGN:APPEND (51) [  7%] 41 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (53)
+[da/3aeebc] process > TALIGN:APPEND (51) [  7%] 41 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (54)
+[c3/c67774] process > TALIGN:APPEND (52) [  7%] 42 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (54)
+[c3/c67774] process > TALIGN:APPEND (52) [  7%] 42 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (55)
+[0c/76ee70] process > TALIGN:APPEND (50) [  8%] 43 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (55)
+[0c/76ee70] process > TALIGN:APPEND (50) [  8%] 43 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (58)
+[dc/7d9c5f] process > TALIGN:APPEND (64) [  8%] 46 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (58)
+[dc/7d9c5f] process > TALIGN:APPEND (64) [  8%] 46 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (59)
+[f8/d595a8] process > TALIGN:APPEND (57) [  8%] 47 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (60)
+[fb/a4f6bd] process > TALIGN:APPEND (56) [  9%] 48 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (60)
+[fb/a4f6bd] process > TALIGN:APPEND (56) [  9%] 48 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (61)
+[a8/7158cb] process > TALIGN:APPEND (58) [  9%] 49 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (61)
+[a8/7158cb] process > TALIGN:APPEND (58) [  9%] 49 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (62)
+[97/e33ff6] process > TALIGN:APPEND (60) [  9%] 50 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (63)
+[4f/99a20e] process > TALIGN:APPEND (61) [  9%] 51 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (64)
+[9d/712ac3] process > TALIGN:APPEND (65) [  9%] 52 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (65)
+[f4/db254b] process > TALIGN:APPEND (67) [  9%] 53 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (66)
+[46/b91fc4] process > TALIGN:APPEND (71) [ 10%] 54 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (66)
+[46/b91fc4] process > TALIGN:APPEND (71) [ 10%] 54 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (67)
+[d5/c3b68e] process > TALIGN:APPEND (69) [ 10%] 55 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (67)
+[d5/c3b68e] process > TALIGN:APPEND (69) [ 10%] 55 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (68)
+[4a/bd640a] process > TALIGN:APPEND (62) [ 10%] 56 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (69)
+[db/71fe30] process > TALIGN:APPEND (66) [ 10%] 57 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (69)
+[db/71fe30] process > TALIGN:APPEND (66) [ 10%] 57 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (70)
+[b8/606a8c] process > TALIGN:APPEND (68) [ 10%] 58 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (70)
+[b8/606a8c] process > TALIGN:APPEND (68) [ 10%] 58 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (71)
+[f8/d595a8] process > TALIGN:APPEND (57) [ 11%] 59 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (72)
+[9a/8a8772] process > TALIGN:APPEND (72) [ 11%] 60 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (72)
+[9a/8a8772] process > TALIGN:APPEND (72) [ 11%] 60 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (73)
+[f9/258acf] process > TALIGN:APPEND (82) [ 11%] 61 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (73)
+[f9/258acf] process > TALIGN:APPEND (82) [ 11%] 61 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (74)
+[d4/c10a89] process > TALIGN:APPEND (83) [ 11%] 62 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (75)
+[9f/dfccd5] process > TALIGN:APPEND (73) [ 11%] 63 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (75)
+[9f/dfccd5] process > TALIGN:APPEND (73) [ 11%] 63 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (76)
+[51/48c050] process > TALIGN:APPEND (76) [ 12%] 64 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (77)
+[6c/e592fb] process > TALIGN:APPEND (84) [ 12%] 65 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (77)
+[6c/e592fb] process > TALIGN:APPEND (84) [ 12%] 65 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (78)
+[f9/3e930f] process > TALIGN:APPEND (85) [ 12%] 66 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (79)
+[ae/a0ffa0] process > TALIGN:APPEND (77) [ 12%] 67 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (80)
+[0c/8e6f1b] process > TALIGN:APPEND (75) [ 12%] 68 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (80)
+[0c/8e6f1b] process > TALIGN:APPEND (75) [ 12%] 68 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (82)
+[c9/4116da] process > TALIGN:APPEND (78) [ 13%] 70 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (82)
+[c9/4116da] process > TALIGN:APPEND (78) [ 13%] 70 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (83)
+[11/fb24c2] process > TALIGN:APPEND (79) [ 13%] 71 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (83)
+[11/fb24c2] process > TALIGN:APPEND (79) [ 13%] 71 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (84)
+[df/53b8da] process > TALIGN:APPEND (92) [ 13%] 72 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (85)
+[48/635aa2] process > TALIGN:APPEND (80) [ 13%] 73 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (85)
+[48/635aa2] process > TALIGN:APPEND (80) [ 13%] 73 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (87)
+[0c/f2090c] process > TALIGN:APPEND (94) [ 14%] 75 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (87)
+[0c/f2090c] process > TALIGN:APPEND (94) [ 14%] 75 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (88)
+[ae/b8df3e] process > TALIGN:APPEND (93) [ 14%] 76 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (88)
+[ae/b8df3e] process > TALIGN:APPEND (93) [ 14%] 76 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (89)
+[aa/2a2677] process > TALIGN:APPEND (87) [ 14%] 77 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (89)
+[aa/2a2677] process > TALIGN:APPEND (87) [ 14%] 77 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (90)
+[11/626d3d] process > TALIGN:APPEND (90) [ 14%] 78 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (91)
+[3b/ac3011] process > TALIGN:APPEND (88) [ 14%] 79 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (91)
+[3b/ac3011] process > TALIGN:APPEND (88) [ 14%] 79 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (92)
+[85/fad325] process > TALIGN:APPEND (91) [ 15%] 80 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (94)
+[fe/e46a76] process > TALIGN:APPEND (101) [ 15%] 82 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (95)
+[a2/a7e5cf] process > TALIGN:APPEND (89)  [ 15%] 83 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (95)
+[a2/a7e5cf] process > TALIGN:APPEND (89)  [ 15%] 83 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (96)
+[03/8def76] process > TALIGN:APPEND (86)  [ 15%] 84 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (97)
+[e6/0c5bec] process > TALIGN:APPEND (95)  [ 15%] 85 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (97)
+[e6/0c5bec] process > TALIGN:APPEND (95)  [ 15%] 85 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (98)
+[3c/bc1b8b] process > TALIGN:APPEND (106) [ 16%] 86 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (100)
+[21/ef7f26] process > TALIGN:APPEND (104) [ 16%] 88 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (100)
+[21/ef7f26] process > TALIGN:APPEND (104) [ 16%] 88 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (101)
+[e0/bcae1c] process > TALIGN:APPEND (107) [ 16%] 89 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (101)
+[e0/bcae1c] process > TALIGN:APPEND (107) [ 16%] 89 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (102)
+[23/56c170] process > TALIGN:APPEND (96)  [ 16%] 90 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (103)
+[25/383848] process > TALIGN:APPEND (102) [ 17%] 91 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (105)
+[8e/ea965d] process > TALIGN:APPEND (98) [ 17%] 93 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (105)
+[8e/ea965d] process > TALIGN:APPEND (98) [ 17%] 93 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (106)
+[23/579e32] process > TALIGN:APPEND (105) [ 17%] 94 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (107)
+[fe/4c59c7] process > TALIGN:APPEND (113) [ 17%] 95 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (109)
+[4b/a83c4f] process > TALIGN:APPEND (118) [ 18%] 97 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (109)
+[4b/a83c4f] process > TALIGN:APPEND (118) [ 18%] 97 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (110)
+[12/15acc7] process > TALIGN:APPEND (120) [ 18%] 98 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (111)
+[fd/45ffdb] process > TALIGN:APPEND (117) [ 18%] 99 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (111)
+[fd/45ffdb] process > TALIGN:APPEND (117) [ 18%] 99 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (112)
+[8d/fdf341] process > TALIGN:APPEND (103) [ 18%] 100 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (112)
+[8d/fdf341] process > TALIGN:APPEND (103) [ 18%] 100 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (113)
+[f3/64fd09] process > TALIGN:APPEND (110) [ 18%] 101 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (113)
+[f3/64fd09] process > TALIGN:APPEND (110) [ 18%] 101 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (114)
+[1d/7a00f9] process > TALIGN:APPEND (111) [ 19%] 102 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (114)
+[25/383848] process > TALIGN:APPEND (102) [ 19%] 103 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (115)
+[46/955cf2] process > TALIGN:APPEND (109) [ 19%] 103 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (115)
+[8e/ea965d] process > TALIGN:APPEND (98) [ 19%] 104 of 533
+[-        ] process > TALIGN:ALIGN_SEQ   -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (116)
+[e1/b3cf3c] process > TALIGN:APPEND (108) [ 19%] 104 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (117)
+[6c/5e8f9a] process > TALIGN:APPEND (119) [ 19%] 105 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (119)
+[32/a888d4] process > TALIGN:APPEND (116) [ 20%] 107 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (119)
+[32/a888d4] process > TALIGN:APPEND (116) [ 20%] 107 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (120)
+[67/b6525e] process > TALIGN:APPEND (115) [ 20%] 108 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (120)
+[4b/a83c4f] process > TALIGN:APPEND (118) [ 20%] 109 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (121)
+[a8/52a6ae] process > TALIGN:APPEND (121) [ 20%] 109 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (122)
+[0e/5fbc53] process > TALIGN:APPEND (122) [ 20%] 110 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (122)
+[0e/5fbc53] process > TALIGN:APPEND (122) [ 20%] 110 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (123)
+[18/64abd4] process > TALIGN:APPEND (112) [ 20%] 111 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (124)
+[69/1f7807] process > TALIGN:APPEND (124) [ 21%] 112 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (125)
+[56/a45e99] process > TALIGN:APPEND (132) [ 21%] 113 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (126)
+[2c/94f23d] process > TALIGN:APPEND (128) [ 21%] 114 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (126)
+[2c/94f23d] process > TALIGN:APPEND (128) [ 21%] 114 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (127)
+[a8/452925] process > TALIGN:APPEND (134) [ 21%] 115 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (127)
+[a8/452925] process > TALIGN:APPEND (134) [ 21%] 115 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (128)
+[80/589551] process > TALIGN:APPEND (135) [ 21%] 116 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (130)
+[5b/7814f9] process > TALIGN:APPEND (136) [ 22%] 118 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (130)
+[5b/7814f9] process > TALIGN:APPEND (136) [ 22%] 118 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (132)
+[27/1da73b] process > TALIGN:APPEND (125) [ 22%] 120 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (133)
+[9e/8a7e67] process > TALIGN:APPEND (131) [ 22%] 121 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (135)
+[89/471c87] process > TALIGN:APPEND (129) [ 23%] 123 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (135)
+[89/471c87] process > TALIGN:APPEND (129) [ 23%] 123 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (136)
+[82/8e8d36] process > TALIGN:APPEND (126) [ 23%] 124 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (136)
+[82/8e8d36] process > TALIGN:APPEND (126) [ 23%] 124 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (137)
+[59/acb0d7] process > TALIGN:APPEND (137) [ 23%] 125 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (137)
+[59/acb0d7] process > TALIGN:APPEND (137) [ 23%] 125 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (139)
+[f5/f69af1] process > TALIGN:APPEND (139) [ 23%] 127 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (139)
+[f5/f69af1] process > TALIGN:APPEND (139) [ 23%] 127 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (139)
+[5b/7814f9] process > TALIGN:APPEND (136) [ 24%] 129 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (141)
+[55/2e8599] process > TALIGN:APPEND (142) [ 24%] 129 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (141)
+[55/2e8599] process > TALIGN:APPEND (142) [ 24%] 129 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (142)
+[07/bd47a0] process > TALIGN:APPEND (148) [ 24%] 130 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (143)
+[4a/90b093] process > TALIGN:APPEND (149) [ 24%] 131 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (143)
+[4a/90b093] process > TALIGN:APPEND (149) [ 24%] 131 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (144)
+[44/21475f] process > TALIGN:APPEND (145) [ 24%] 132 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (144)
+[44/21475f] process > TALIGN:APPEND (145) [ 24%] 132 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (145)
+[1c/3faa08] process > TALIGN:APPEND (140) [ 24%] 133 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (146)
+[d1/01c8a4] process > TALIGN:APPEND (147) [ 25%] 134 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (147)
+[0e/97652f] process > TALIGN:APPEND (144) [ 25%] 135 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (148)
+[93/bc5f60] process > TALIGN:APPEND (151) [ 25%] 136 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (149)
+[1d/972a04] process > TALIGN:APPEND (143) [ 25%] 137 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (150)
+[b2/e2a6bf] process > TALIGN:APPEND (150) [ 25%] 138 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (150)
+[b2/e2a6bf] process > TALIGN:APPEND (150) [ 25%] 138 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (151)
+[fa/5b385f] process > TALIGN:APPEND (152) [ 26%] 139 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (152)
+[a2/416927] process > TALIGN:APPEND (154) [ 26%] 140 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (153)
+[e0/875bbc] process > TALIGN:APPEND (153) [ 26%] 141 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (154)
+[90/2a8203] process > TALIGN:APPEND (146) [ 26%] 142 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (155)
+[6f/b6bf10] process > TALIGN:APPEND (160) [ 26%] 143 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (155)
+[6f/b6bf10] process > TALIGN:APPEND (160) [ 26%] 143 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (156)
+[47/37e1fb] process > TALIGN:APPEND (162) [ 27%] 144 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (157)
+[85/916de6] process > TALIGN:APPEND (158) [ 27%] 145 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (157)
+[85/916de6] process > TALIGN:APPEND (158) [ 27%] 145 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (158)
+[ba/b0ffbc] process > TALIGN:APPEND (156) [ 27%] 146 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (158)
+[ba/b0ffbc] process > TALIGN:APPEND (156) [ 27%] 146 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (159)
+[30/bb053e] process > TALIGN:APPEND (168) [ 27%] 147 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (159)
+[30/bb053e] process > TALIGN:APPEND (168) [ 27%] 147 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (160)
+[f2/fd78ed] process > TALIGN:APPEND (365) [ 27%] 148 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (161)
+[62/56de0e] process > TALIGN:APPEND (167) [ 27%] 149 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (162)
+[7c/41aacf] process > TALIGN:APPEND (157) [ 28%] 150 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (163)
+[83/0eefb4] process > TALIGN:APPEND (163) [ 28%] 151 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (164)
+[e0/93becd] process > TALIGN:APPEND (165) [ 28%] 152 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (164)
+[e0/93becd] process > TALIGN:APPEND (165) [ 28%] 152 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (165)
+[63/916a7b] process > TALIGN:APPEND (164) [ 28%] 153 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (165)
+[63/916a7b] process > TALIGN:APPEND (164) [ 28%] 153 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (166)
+[7e/675bf9] process > TALIGN:APPEND (159) [ 28%] 154 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (166)
+[7e/675bf9] process > TALIGN:APPEND (159) [ 28%] 154 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (167)
+[aa/5e5556] process > TALIGN:APPEND (161) [ 29%] 155 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (168)
+[90/2f59aa] process > TALIGN:APPEND (173) [ 29%] 156 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (169)
+[de/406fc4] process > TALIGN:APPEND (155) [ 29%] 157 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (169)
+[de/406fc4] process > TALIGN:APPEND (155) [ 29%] 157 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (170)
+[6b/1c2e01] process > TALIGN:APPEND (166) [ 29%] 158 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (170)
+[6b/1c2e01] process > TALIGN:APPEND (166) [ 29%] 158 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (171)
+[6a/694731] process > TALIGN:APPEND (169) [ 29%] 159 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (171)
+[6a/694731] process > TALIGN:APPEND (169) [ 29%] 159 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (172)
+[70/8ea9a5] process > TALIGN:APPEND (170) [ 30%] 160 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (173)
+[25/b7b0c6] process > TALIGN:APPEND (174) [ 30%] 161 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (174)
+[eb/693751] process > TALIGN:APPEND (180) [ 30%] 162 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (176)
+[b2/959f33] process > TALIGN:APPEND (179) [ 30%] 164 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (176)
+[b2/959f33] process > TALIGN:APPEND (179) [ 30%] 164 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (177)
+[9f/4ee9d5] process > TALIGN:APPEND (183) [ 30%] 165 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (178)
+[c1/a69e4f] process > TALIGN:APPEND (182) [ 31%] 166 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (179)
+[5f/370d31] process > TALIGN:APPEND (187) [ 31%] 167 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (179)
+[90/2f59aa] process > TALIGN:APPEND (173) [ 31%] 168 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (180)
+[c6/5e9578] process > TALIGN:APPEND (181) [ 31%] 168 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (181)
+[e8/33a07b] process > TALIGN:APPEND (172) [ 31%] 169 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (181)
+[e8/33a07b] process > TALIGN:APPEND (172) [ 31%] 169 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (182)
+[34/71d97e] process > TALIGN:APPEND (175) [ 31%] 170 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (183)
+[41/9e4b96] process > TALIGN:APPEND (176) [ 32%] 171 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (183)
+[41/9e4b96] process > TALIGN:APPEND (176) [ 32%] 171 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (184)
+[0b/1f2d59] process > TALIGN:APPEND (177) [ 32%] 172 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (185)
+[7f/13cc2e] process > TALIGN:APPEND (178) [ 32%] 173 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (185)
+[7f/13cc2e] process > TALIGN:APPEND (178) [ 32%] 173 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (186)
+[d4/a6a7ab] process > TALIGN:APPEND (184) [ 32%] 174 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (186)
+[d4/a6a7ab] process > TALIGN:APPEND (184) [ 32%] 174 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (187)
+[18/1e7efa] process > TALIGN:APPEND (186) [ 32%] 175 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (188)
+[dc/ef5a16] process > TALIGN:APPEND (193) [ 33%] 176 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (189)
+[d1/7fb439] process > TALIGN:APPEND (185) [ 33%] 177 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (190)
+[03/451d0d] process > TALIGN:APPEND (188) [ 33%] 178 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (190)
+[03/451d0d] process > TALIGN:APPEND (188) [ 33%] 178 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (191)
+[18/1306bf] process > TALIGN:APPEND (189) [ 33%] 179 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (192)
+[a3/afee25] process > TALIGN:APPEND (190) [ 33%] 180 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (192)
+[a3/afee25] process > TALIGN:APPEND (190) [ 33%] 180 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (193)
+[e2/8ebb99] process > TALIGN:APPEND (191) [ 33%] 181 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (194)
+[ab/020a1b] process > TALIGN:APPEND (192) [ 34%] 182 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (195)
+[b9/29107f] process > TALIGN:APPEND (194) [ 34%] 183 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (195)
+[b9/29107f] process > TALIGN:APPEND (194) [ 34%] 183 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (196)
+[88/e4656f] process > TALIGN:APPEND (195) [ 34%] 184 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (196)
+[88/e4656f] process > TALIGN:APPEND (195) [ 34%] 184 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (197)
+[cc/00ce67] process > TALIGN:APPEND (197) [ 34%] 185 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (199)
+[88/32c1ad] process > TALIGN:APPEND (198) [ 35%] 187 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (200)
+[b8/86c708] process > TALIGN:APPEND (200) [ 35%] 188 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (201)
+[df/839644] process > TALIGN:APPEND (199) [ 35%] 189 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (201)
+[df/839644] process > TALIGN:APPEND (199) [ 35%] 189 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (202)
+[9f/e1b4d2] process > TALIGN:APPEND (202) [ 35%] 190 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (203)
+[9b/c68414] process > TALIGN:APPEND (206) [ 35%] 191 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (204)
+[4e/720c2f] process > TALIGN:APPEND (207) [ 36%] 192 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (205)
+[4b/8413d0] process > TALIGN:APPEND (210) [ 36%] 193 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (206)
+[eb/a9e60d] process > TALIGN:APPEND (209) [ 36%] 194 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (207)
+[12/180894] process > TALIGN:APPEND (208) [ 36%] 195 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (208)
+[58/41055c] process > TALIGN:APPEND (212) [ 36%] 196 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (208)
+[58/41055c] process > TALIGN:APPEND (212) [ 36%] 196 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (209)
+[75/33c719] process > TALIGN:APPEND (204) [ 36%] 197 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (209)
+[75/33c719] process > TALIGN:APPEND (204) [ 36%] 197 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (210)
+[e5/7fd338] process > TALIGN:APPEND (211) [ 37%] 198 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (211)
+[4e/ecabcf] process > TALIGN:APPEND (205) [ 37%] 199 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (212)
+[7a/6d9f12] process > TALIGN:APPEND (203) [ 37%] 200 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (212)
+[7a/6d9f12] process > TALIGN:APPEND (203) [ 37%] 200 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (213)
+[40/4e678e] process > TALIGN:APPEND (201) [ 37%] 201 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (213)
+[40/4e678e] process > TALIGN:APPEND (201) [ 37%] 201 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (214)
+[83/c0274d] process > TALIGN:APPEND (214) [ 37%] 202 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (215)
+[ca/3ce532] process > TALIGN:APPEND (213) [ 38%] 203 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (216)
+[81/4d0a47] process > TALIGN:APPEND (215) [ 38%] 204 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (218)
+[58/cc2d6b] process > TALIGN:APPEND (223) [ 38%] 206 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (218)
+[58/cc2d6b] process > TALIGN:APPEND (223) [ 38%] 206 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (219)
+[4a/e7adf8] process > TALIGN:APPEND (217) [ 38%] 207 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (220)
+[2d/883bae] process > TALIGN:APPEND (220) [ 39%] 208 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (221)
+[a4/d3c123] process > TALIGN:APPEND (219) [ 39%] 209 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (223)
+[53/d35aef] process > TALIGN:APPEND (224) [ 39%] 211 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (223)
+[53/d35aef] process > TALIGN:APPEND (224) [ 39%] 211 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (224)
+[16/426e9a] process > TALIGN:APPEND (225) [ 39%] 212 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (224)
+[16/426e9a] process > TALIGN:APPEND (225) [ 39%] 212 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (225)
+[d5/059e32] process > TALIGN:APPEND (227) [ 39%] 213 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (226)
+[99/c9ba96] process > TALIGN:APPEND (228) [ 40%] 214 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (226)
+[99/c9ba96] process > TALIGN:APPEND (228) [ 40%] 214 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (227)
+[3f/9c3dd6] process > TALIGN:APPEND (231) [ 40%] 215 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (227)
+[3f/9c3dd6] process > TALIGN:APPEND (231) [ 40%] 215 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (228)
+[e4/891492] process > TALIGN:APPEND (230) [ 40%] 216 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (229)
+[ac/e04880] process > TALIGN:APPEND (234) [ 40%] 217 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (229)
+[ac/e04880] process > TALIGN:APPEND (234) [ 40%] 217 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (230)
+[15/31d825] process > TALIGN:APPEND (235) [ 40%] 218 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (230)
+[15/31d825] process > TALIGN:APPEND (235) [ 40%] 218 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (231)
+[33/01f2f2] process > TALIGN:APPEND (232) [ 41%] 219 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (233)
+[dc/895e50] process > TALIGN:APPEND (238) [ 41%] 221 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (234)
+[e7/a46967] process > TALIGN:APPEND (236) [ 41%] 222 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (234)
+[e7/a46967] process > TALIGN:APPEND (236) [ 41%] 222 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (235)
+[7d/b7aaed] process > TALIGN:APPEND (239) [ 41%] 223 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (235)
+[7d/b7aaed] process > TALIGN:APPEND (239) [ 41%] 223 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (236)
+[74/f0ba25] process > TALIGN:APPEND (242) [ 42%] 224 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (236)
+[74/f0ba25] process > TALIGN:APPEND (242) [ 42%] 224 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (238)
+[90/e8eddf] process > TALIGN:APPEND (244) [ 42%] 226 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (238)
+[90/e8eddf] process > TALIGN:APPEND (244) [ 42%] 226 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (239)
+[42/79d092] process > TALIGN:APPEND (243) [ 42%] 227 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (239)
+[42/79d092] process > TALIGN:APPEND (243) [ 42%] 227 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (241)
+[ca/7aa248] process > TALIGN:APPEND (245) [ 42%] 229 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (241)
+[ca/7aa248] process > TALIGN:APPEND (245) [ 42%] 229 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (242)
+[96/2a773e] process > TALIGN:APPEND (247) [ 43%] 230 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (243)
+[12/5e24d6] process > TALIGN:APPEND (250) [ 43%] 231 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (243)
+[12/5e24d6] process > TALIGN:APPEND (250) [ 43%] 231 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (244)
+[0b/976a53] process > TALIGN:APPEND (252) [ 43%] 232 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (245)
+[57/401686] process > TALIGN:APPEND (253) [ 43%] 233 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (246)
+[ab/691e1e] process > TALIGN:APPEND (249) [ 43%] 234 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (246)
+[ab/691e1e] process > TALIGN:APPEND (249) [ 43%] 234 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (247)
+[87/a2c236] process > TALIGN:APPEND (254) [ 44%] 235 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (247)
+[87/a2c236] process > TALIGN:APPEND (254) [ 44%] 235 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (248)
+[0f/866cdc] process > TALIGN:APPEND (251) [ 44%] 236 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (249)
+[da/50709f] process > TALIGN:APPEND (256) [ 44%] 237 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (249)
+[da/50709f] process > TALIGN:APPEND (256) [ 44%] 237 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (250)
+[ac/37a389] process > TALIGN:APPEND (259) [ 44%] 238 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (251)
+[5c/c1bed2] process > TALIGN:APPEND (260) [ 44%] 239 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (252)
+[28/b6a26a] process > TALIGN:APPEND (255) [ 45%] 240 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (252)
+[28/b6a26a] process > TALIGN:APPEND (255) [ 45%] 240 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (253)
+[51/65716f] process > TALIGN:APPEND (240) [ 45%] 241 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (254)
+[f3/962cf1] process > TALIGN:APPEND (218) [ 45%] 242 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (255)
+[f3/84243d] process > TALIGN:APPEND (226) [ 45%] 243 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (256)
+[0e/d32586] process > TALIGN:APPEND (258) [ 45%] 244 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (257)
+[f7/c6e3fb] process > TALIGN:APPEND (261) [ 45%] 245 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (258)
+[f7/9771b5] process > TALIGN:APPEND (262) [ 46%] 246 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (258)
+[f7/9771b5] process > TALIGN:APPEND (262) [ 46%] 246 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (259)
+[c3/6b2d66] process > TALIGN:APPEND (267) [ 46%] 247 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (259)
+[c3/6b2d66] process > TALIGN:APPEND (267) [ 46%] 247 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (260)
+[7a/76855c] process > TALIGN:APPEND (263) [ 46%] 248 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (260)
+[7a/76855c] process > TALIGN:APPEND (263) [ 46%] 248 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (261)
+[88/a671eb] process > TALIGN:APPEND (265) [ 46%] 249 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (262)
+[f4/3d6bc6] process > TALIGN:APPEND (264) [ 46%] 250 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (262)
+[f4/3d6bc6] process > TALIGN:APPEND (264) [ 46%] 250 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (263)
+[9d/e264d5] process > TALIGN:APPEND (266) [ 47%] 251 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (264)
+[f8/24781a] process > TALIGN:APPEND (268) [ 47%] 252 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (265)
+[5f/3c3ebe] process > TALIGN:APPEND (269) [ 47%] 253 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (266)
+[b7/6aedfb] process > TALIGN:APPEND (271) [ 47%] 254 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (267)
+[49/0e2502] process > TALIGN:APPEND (270) [ 47%] 255 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (268)
+[0d/b47bae] process > TALIGN:APPEND (272) [ 48%] 256 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (268)
+[0d/b47bae] process > TALIGN:APPEND (272) [ 48%] 256 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (269)
+[c4/6d8176] process > TALIGN:APPEND (273) [ 48%] 257 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (270)
+[1b/cc9ac3] process > TALIGN:APPEND (277) [ 48%] 258 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (271)
+[5e/bc5327] process > TALIGN:APPEND (278) [ 48%] 259 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (271)
+[5e/bc5327] process > TALIGN:APPEND (278) [ 48%] 259 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (272)
+[ee/0a576c] process > TALIGN:APPEND (276) [ 48%] 260 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (272)
+[ee/0a576c] process > TALIGN:APPEND (276) [ 48%] 260 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (273)
+[11/bc9a9f] process > TALIGN:APPEND (274) [ 48%] 261 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (273)
+[11/bc9a9f] process > TALIGN:APPEND (274) [ 48%] 261 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (274)
+[bf/f3fc3c] process > TALIGN:APPEND (275) [ 49%] 262 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (275)
+[3f/675be1] process > TALIGN:APPEND (282) [ 49%] 263 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (276)
+[32/9c850b] process > TALIGN:APPEND (280) [ 49%] 264 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (277)
+[db/05dc92] process > TALIGN:APPEND (283) [ 49%] 265 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (278)
+[11/02a95a] process > TALIGN:APPEND (284) [ 49%] 266 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (279)
+[41/41f254] process > TALIGN:APPEND (285) [ 50%] 267 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (279)
+[41/41f254] process > TALIGN:APPEND (285) [ 50%] 267 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (280)
+[cc/faffa6] process > TALIGN:APPEND (281) [ 50%] 268 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (280)
+[c4/6d8176] process > TALIGN:APPEND (273) [ 50%] 269 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (281)
+[85/b2b0c0] process > TALIGN:APPEND (288) [ 50%] 269 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (282)
+[2d/d31f27] process > TALIGN:APPEND (289) [ 50%] 270 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (282)
+[2d/d31f27] process > TALIGN:APPEND (289) [ 50%] 270 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (283)
+[48/f64a18] process > TALIGN:APPEND (291) [ 50%] 271 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (283)
+[48/f64a18] process > TALIGN:APPEND (291) [ 50%] 271 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (284)
+[d2/b3c522] process > TALIGN:APPEND (290) [ 51%] 272 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (285)
+[84/4e2c30] process > TALIGN:APPEND (293) [ 51%] 273 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (286)
+[85/f35eec] process > TALIGN:APPEND (292) [ 51%] 274 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (287)
+[ab/4d878c] process > TALIGN:APPEND (294) [ 51%] 275 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (287)
+[ab/4d878c] process > TALIGN:APPEND (294) [ 51%] 275 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (288)
+[bc/7fa849] process > TALIGN:APPEND (296) [ 51%] 276 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (288)
+[bc/7fa849] process > TALIGN:APPEND (296) [ 51%] 276 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (289)
+[a1/be503f] process > TALIGN:APPEND (297) [ 51%] 277 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (290)
+[b9/a60552] process > TALIGN:APPEND (298) [ 52%] 278 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (291)
+[09/b58262] process > TALIGN:APPEND (300) [ 52%] 279 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (292)
+[af/fa3f8b] process > TALIGN:APPEND (299) [ 52%] 280 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (293)
+[74/749128] process > TALIGN:APPEND (301) [ 52%] 281 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (293)
+[74/749128] process > TALIGN:APPEND (301) [ 52%] 281 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (294)
+[ee/ab70e5] process > TALIGN:APPEND (303) [ 52%] 282 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (295)
+[2c/917d1d] process > TALIGN:APPEND (302) [ 53%] 283 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (295)
+[2c/917d1d] process > TALIGN:APPEND (302) [ 53%] 283 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (296)
+[7c/744fb3] process > TALIGN:APPEND (248) [ 53%] 284 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (297)
+[7e/9b842c] process > TALIGN:APPEND (229) [ 53%] 285 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (298)
+[55/137c61] process > TALIGN:APPEND (257) [ 53%] 286 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (298)
+[55/137c61] process > TALIGN:APPEND (257) [ 53%] 286 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (299)
+[44/39ea44] process > TALIGN:APPEND (305) [ 53%] 287 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (300)
+[69/f70daf] process > TALIGN:APPEND (279) [ 54%] 288 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (301)
+[56/924f1e] process > TALIGN:APPEND (286) [ 54%] 289 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (302)
+[fa/f2b770] process > TALIGN:APPEND (233) [ 54%] 290 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (303)
+[07/413777] process > TALIGN:APPEND (287) [ 54%] 291 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (303)
+[af/fa3f8b] process > TALIGN:APPEND (299) [ 54%] 292 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (304)
+[5b/ef0f7b] process > TALIGN:APPEND (295) [ 54%] 292 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (306)
+[7e/014b92] process > TALIGN:APPEND (304) [ 55%] 294 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (306)
+[7e/014b92] process > TALIGN:APPEND (304) [ 55%] 294 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (307)
+[d6/c24174] process > TALIGN:APPEND (309) [ 55%] 295 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (307)
+[d6/c24174] process > TALIGN:APPEND (309) [ 55%] 295 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (308)
+[8f/5ecd58] process > TALIGN:APPEND (306) [ 55%] 296 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (309)
+[ed/8b69a0] process > TALIGN:APPEND (307) [ 55%] 297 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (310)
+[40/68aa83] process > TALIGN:APPEND (308) [ 55%] 298 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (310)
+[40/68aa83] process > TALIGN:APPEND (308) [ 55%] 298 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (310)
+[69/f70daf] process > TALIGN:APPEND (279) [ 56%] 299 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (312)
+[0d/4fcd7b] process > TALIGN:APPEND (311) [ 56%] 300 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (312)
+[56/924f1e] process > TALIGN:APPEND (286) [ 56%] 301 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (314)
+[fa/5c916f] process > TALIGN:APPEND (313) [ 56%] 302 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (314)
+[fa/5c916f] process > TALIGN:APPEND (313) [ 56%] 302 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (315)
+[79/3b1d5c] process > TALIGN:APPEND (316) [ 56%] 303 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (316)
+[d2/a20449] process > TALIGN:APPEND (314) [ 57%] 304 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (316)
+[d2/a20449] process > TALIGN:APPEND (314) [ 57%] 304 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (318)
+[b3/7b34f5] process > TALIGN:APPEND (320) [ 57%] 306 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (319)
+[25/f7bf14] process > TALIGN:APPEND (321) [ 57%] 307 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (319)
+[25/f7bf14] process > TALIGN:APPEND (321) [ 57%] 307 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (320)
+[3f/a72427] process > TALIGN:APPEND (322) [ 57%] 308 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (320)
+[3f/a72427] process > TALIGN:APPEND (322) [ 57%] 308 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (321)
+[a8/413492] process > TALIGN:APPEND (317) [ 57%] 309 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (322)
+[7f/b7d55d] process > TALIGN:APPEND (319) [ 58%] 310 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (323)
+[e3/28e9ce] process > TALIGN:APPEND (318) [ 58%] 311 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (324)
+[ab/005833] process > TALIGN:APPEND (324) [ 58%] 312 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (325)
+[79/e6fb5f] process > TALIGN:APPEND (327) [ 58%] 313 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (326)
+[b7/7a3eea] process > TALIGN:APPEND (328) [ 58%] 314 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (326)
+[b7/7a3eea] process > TALIGN:APPEND (328) [ 58%] 314 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (327)
+[92/64bcc8] process > TALIGN:APPEND (323) [ 59%] 315 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (327)
+[92/64bcc8] process > TALIGN:APPEND (323) [ 59%] 315 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (329)
+[06/1a63c6] process > TALIGN:APPEND (325) [ 59%] 317 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (329)
+[06/1a63c6] process > TALIGN:APPEND (325) [ 59%] 317 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (330)
+[1d/3baabb] process > TALIGN:APPEND (330) [ 59%] 318 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (330)
+[1d/3baabb] process > TALIGN:APPEND (330) [ 59%] 318 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (331)
+[fa/4f1c31] process > TALIGN:APPEND (335) [ 59%] 319 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (331)
+[fa/4f1c31] process > TALIGN:APPEND (335) [ 59%] 319 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (331)
+[3f/a72427] process > TALIGN:APPEND (322) [ 60%] 320 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (332)
+[0c/265b73] process > TALIGN:APPEND (337) [ 60%] 320 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (332)
+[7f/b7d55d] process > TALIGN:APPEND (319) [ 60%] 321 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (333)
+[95/424f62] process > TALIGN:APPEND (339) [ 60%] 321 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (334)
+[84/2f2243] process > TALIGN:APPEND (334) [ 60%] 322 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (335)
+[6d/71f2d4] process > TALIGN:APPEND (329) [ 60%] 323 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (335)
+[6d/71f2d4] process > TALIGN:APPEND (329) [ 60%] 323 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (336)
+[37/f8f3d2] process > TALIGN:APPEND (333) [ 60%] 324 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (337)
+[b4/0a8e24] process > TALIGN:APPEND (332) [ 60%] 325 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (338)
+[b1/114c24] process > TALIGN:APPEND (336) [ 61%] 326 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (339)
+[6f/d88cee] process > TALIGN:APPEND (345) [ 61%] 327 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (339)
+[6f/d88cee] process > TALIGN:APPEND (345) [ 61%] 327 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (340)
+[b5/94f7b4] process > TALIGN:APPEND (331) [ 61%] 328 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (340)
+[b5/94f7b4] process > TALIGN:APPEND (331) [ 61%] 328 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (341)
+[2a/68430c] process > TALIGN:APPEND (340) [ 61%] 329 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (341)
+[2a/68430c] process > TALIGN:APPEND (340) [ 61%] 329 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (343)
+[c0/8ccbd1] process > TALIGN:APPEND (342) [ 62%] 331 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (343)
+[c0/8ccbd1] process > TALIGN:APPEND (342) [ 62%] 331 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (343)
+[0c/265b73] process > TALIGN:APPEND (337) [ 62%] 332 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (344)
+[6a/1511af] process > TALIGN:APPEND (343) [ 62%] 332 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (345)
+[26/ad4035] process > TALIGN:APPEND (338) [ 62%] 333 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (346)
+[36/6ea525] process > TALIGN:APPEND (344) [ 62%] 334 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (346)
+[36/6ea525] process > TALIGN:APPEND (344) [ 62%] 334 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (347)
+[26/1d9616] process > TALIGN:APPEND (347) [ 62%] 335 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (348)
+[05/2806fb] process > TALIGN:APPEND (356) [ 63%] 336 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (348)
+[05/2806fb] process > TALIGN:APPEND (356) [ 63%] 336 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (349)
+[5e/70e803] process > TALIGN:APPEND (348) [ 63%] 337 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (350)
+[4d/d913b7] process > TALIGN:APPEND (349) [ 63%] 338 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (351)
+[be/80cf12] process > TALIGN:APPEND (346) [ 63%] 339 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (352)
+[7b/eb5dd8] process > TALIGN:APPEND (350) [ 63%] 340 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (352)
+[7b/eb5dd8] process > TALIGN:APPEND (350) [ 63%] 340 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (353)
+[cb/51503c] process > TALIGN:APPEND (352) [ 63%] 341 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (353)
+[cb/51503c] process > TALIGN:APPEND (352) [ 63%] 341 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (354)
+[61/44d883] process > TALIGN:APPEND (351) [ 64%] 342 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (354)
+[61/44d883] process > TALIGN:APPEND (351) [ 64%] 342 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (355)
+[d4/6dbf05] process > TALIGN:APPEND (353) [ 64%] 343 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (356)
+[06/7385b7] process > TALIGN:APPEND (354) [ 64%] 344 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (357)
+[ec/b74985] process > TALIGN:APPEND (355) [ 64%] 345 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (358)
+[03/6ae39e] process > TALIGN:APPEND (357) [ 64%] 346 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (359)
+[63/511b42] process > TALIGN:APPEND (362) [ 65%] 347 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (360)
+[2f/0e5d07] process > TALIGN:APPEND (364) [ 65%] 348 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (361)
+[37/d8ea9b] process > TALIGN:APPEND (370) [ 65%] 349 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (361)
+[37/d8ea9b] process > TALIGN:APPEND (370) [ 65%] 349 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (362)
+[56/f7ef79] process > TALIGN:APPEND (358) [ 65%] 350 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (362)
+[56/f7ef79] process > TALIGN:APPEND (358) [ 65%] 350 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (363)
+[86/d0eec6] process > TALIGN:APPEND (360) [ 65%] 351 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (364)
+[af/55159e] process > TALIGN:APPEND (359) [ 66%] 352 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (365)
+[2d/2bf814] process > TALIGN:APPEND (361) [ 66%] 353 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (365)
+[2d/2bf814] process > TALIGN:APPEND (361) [ 66%] 353 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (367)
+[ae/fa7ce0] process > TALIGN:APPEND (366) [ 66%] 355 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (368)
+[20/d70737] process > TALIGN:APPEND (368) [ 66%] 356 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (368)
+[20/d70737] process > TALIGN:APPEND (368) [ 66%] 356 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (369)
+[d7/60126f] process > TALIGN:APPEND (367) [ 66%] 357 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (370)
+[5c/fda4cb] process > TALIGN:APPEND (369) [ 67%] 358 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (370)
+[5c/fda4cb] process > TALIGN:APPEND (369) [ 67%] 358 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (371)
+[c1/f8b94d] process > TALIGN:APPEND (371) [ 67%] 359 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (371)
+[c1/f8b94d] process > TALIGN:APPEND (371) [ 67%] 359 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (371)
+[37/d8ea9b] process > TALIGN:APPEND (370) [ 67%] 360 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (372)
+[39/5ad95f] process > TALIGN:APPEND (372) [ 67%] 360 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (373)
+[55/0ad36c] process > TALIGN:APPEND (374) [ 67%] 361 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (373)
+[55/0ad36c] process > TALIGN:APPEND (374) [ 67%] 361 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (374)
+[bd/9a1819] process > TALIGN:APPEND (373) [ 67%] 362 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (374)
+[bd/9a1819] process > TALIGN:APPEND (373) [ 67%] 362 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (376)
+[c7/ed90ea] process > TALIGN:APPEND (378) [ 68%] 364 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (376)
+[c7/ed90ea] process > TALIGN:APPEND (378) [ 68%] 364 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (377)
+[0e/d7cb17] process > TALIGN:APPEND (376) [ 68%] 365 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (377)
+[0e/d7cb17] process > TALIGN:APPEND (376) [ 68%] 365 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (378)
+[19/81300a] process > TALIGN:APPEND (382) [ 68%] 366 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (379)
+[8c/287318] process > TALIGN:APPEND (379) [ 68%] 367 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (381)
+[ac/8cd27c] process > TALIGN:APPEND (383) [ 69%] 369 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (382)
+[99/34e5cc] process > TALIGN:APPEND (381) [ 69%] 370 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (383)
+[8d/007308] process > TALIGN:APPEND (385) [ 69%] 371 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (383)
+[8d/007308] process > TALIGN:APPEND (385) [ 69%] 371 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (384)
+[86/c2b4c6] process > TALIGN:APPEND (392) [ 69%] 372 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (385)
+[28/3e8963] process > TALIGN:APPEND (384) [ 69%] 373 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (386)
+[f8/e2c612] process > TALIGN:APPEND (388) [ 70%] 374 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (386)
+[f8/e2c612] process > TALIGN:APPEND (388) [ 70%] 374 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (387)
+[d5/3881ff] process > TALIGN:APPEND (389) [ 70%] 375 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (388)
+[77/5431cc] process > TALIGN:APPEND (390) [ 70%] 376 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (389)
+[a4/02f818] process > TALIGN:APPEND (387) [ 70%] 377 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (390)
+[f4/c5d037] process > TALIGN:APPEND (386) [ 70%] 378 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (391)
+[17/6e2fa2] process > TALIGN:APPEND (399) [ 71%] 379 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (392)
+[3d/946752] process > TALIGN:APPEND (391) [ 71%] 380 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (392)
+[3d/946752] process > TALIGN:APPEND (391) [ 71%] 380 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (392)
+[99/34e5cc] process > TALIGN:APPEND (381) [ 71%] 381 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (394)
+[c1/c0e163] process > TALIGN:APPEND (394) [ 71%] 382 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (395)
+[06/250043] process > TALIGN:APPEND (395) [ 71%] 383 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (395)
+[06/250043] process > TALIGN:APPEND (395) [ 71%] 383 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (396)
+[0a/c682a0] process > TALIGN:APPEND (396) [ 72%] 384 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (396)
+[0a/c682a0] process > TALIGN:APPEND (396) [ 72%] 384 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (396)
+[28/3e8963] process > TALIGN:APPEND (384) [ 72%] 385 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (397)
+[dd/2990aa] process > TALIGN:APPEND (397) [ 72%] 385 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (398)
+[cc/571685] process > TALIGN:APPEND (377) [ 72%] 386 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (398)
+[cc/571685] process > TALIGN:APPEND (377) [ 72%] 386 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (399)
+[30/2499fb] process > TALIGN:APPEND (398) [ 72%] 387 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (401)
+[f3/6e2824] process > TALIGN:APPEND (403) [ 72%] 389 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (402)
+[d8/6921a9] process > TALIGN:APPEND (411) [ 73%] 390 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (403)
+[2e/7ad039] process > TALIGN:APPEND (402) [ 73%] 391 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (403)
+[2e/7ad039] process > TALIGN:APPEND (402) [ 73%] 391 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (404)
+[21/6af780] process > TALIGN:APPEND (410) [ 73%] 392 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (405)
+[f4/c2cf6c] process > TALIGN:APPEND (400) [ 73%] 393 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (405)
+[f4/c2cf6c] process > TALIGN:APPEND (400) [ 73%] 393 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (406)
+[b2/2f848e] process > TALIGN:APPEND (412) [ 73%] 394 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (406)
+[b2/2f848e] process > TALIGN:APPEND (412) [ 73%] 394 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (407)
+[5a/400775] process > TALIGN:APPEND (406) [ 74%] 395 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (408)
+[98/7b9593] process > TALIGN:APPEND (416) [ 74%] 396 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (408)
+[98/7b9593] process > TALIGN:APPEND (416) [ 74%] 396 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (409)
+[48/a3983d] process > TALIGN:APPEND (414) [ 74%] 397 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (409)
+[48/a3983d] process > TALIGN:APPEND (414) [ 74%] 397 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (410)
+[15/c43fa9] process > TALIGN:APPEND (404) [ 74%] 398 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (410)
+[15/c43fa9] process > TALIGN:APPEND (404) [ 74%] 398 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (411)
+[ee/dfd512] process > TALIGN:APPEND (407) [ 74%] 399 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (411)
+[ee/dfd512] process > TALIGN:APPEND (407) [ 74%] 399 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (412)
+[10/597b8b] process > TALIGN:APPEND (405) [ 75%] 400 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (413)
+[5a/becc7d] process > TALIGN:APPEND (408) [ 75%] 401 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (413)
+[5a/becc7d] process > TALIGN:APPEND (408) [ 75%] 401 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (413)
+[f3/6e2824] process > TALIGN:APPEND (403) [ 75%] 402 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (414)
+[1c/afa91d] process > TALIGN:APPEND (409) [ 75%] 402 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (415)
+[7f/12a525] process > TALIGN:APPEND (415) [ 75%] 403 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (415)
+[7f/12a525] process > TALIGN:APPEND (415) [ 75%] 403 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (416)
+[21/004c70] process > TALIGN:APPEND (413) [ 75%] 404 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (416)
+[21/004c70] process > TALIGN:APPEND (413) [ 75%] 404 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (417)
+[bd/2ccd16] process > TALIGN:APPEND (417) [ 75%] 405 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (417)
+[bd/2ccd16] process > TALIGN:APPEND (417) [ 75%] 405 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (418)
+[2c/2f3e5d] process > TALIGN:APPEND (419) [ 76%] 406 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (418)
+[2c/2f3e5d] process > TALIGN:APPEND (419) [ 76%] 406 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (418)
+[5a/400775] process > TALIGN:APPEND (406) [ 76%] 407 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (419)
+[df/25f214] process > TALIGN:APPEND (418) [ 76%] 407 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (420)
+[bf/7fc1d3] process > TALIGN:APPEND (420) [ 76%] 408 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (421)
+[f3/9bf2ad] process > TALIGN:APPEND (421) [ 76%] 409 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (422)
+[7b/8ff858] process > TALIGN:APPEND (426) [ 76%] 410 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (423)
+[cf/d7bb66] process > TALIGN:APPEND (424) [ 77%] 411 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (423)
+[cf/d7bb66] process > TALIGN:APPEND (424) [ 77%] 411 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (424)
+[65/c63271] process > TALIGN:APPEND (425) [ 77%] 412 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (425)
+[c6/546992] process > TALIGN:APPEND (423) [ 77%] 413 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (427)
+[66/81eec1] process > TALIGN:APPEND (433) [ 77%] 415 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (428)
+[7a/ae1ea2] process > TALIGN:APPEND (427) [ 78%] 416 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (428)
+[7a/ae1ea2] process > TALIGN:APPEND (427) [ 78%] 416 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (429)
+[56/fc977d] process > TALIGN:APPEND (429) [ 78%] 417 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (430)
+[d7/08b28a] process > TALIGN:APPEND (430) [ 78%] 418 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (430)
+[d7/08b28a] process > TALIGN:APPEND (430) [ 78%] 418 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (431)
+[1a/471472] process > TALIGN:APPEND (431) [ 78%] 419 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (431)
+[1a/471472] process > TALIGN:APPEND (431) [ 78%] 419 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (432)
+[e9/a877c7] process > TALIGN:APPEND (439) [ 78%] 420 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (432)
+[e9/a877c7] process > TALIGN:APPEND (439) [ 78%] 420 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (433)
+[2a/9c3288] process > TALIGN:APPEND (436) [ 78%] 421 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (434)
+[61/d0ddb7] process > TALIGN:APPEND (442) [ 79%] 422 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (435)
+[b4/16ff1b] process > TALIGN:APPEND (428) [ 79%] 423 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (436)
+[17/097ab0] process > TALIGN:APPEND (432) [ 79%] 424 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (437)
+[05/3e9abd] process > TALIGN:APPEND (434) [ 79%] 425 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (438)
+[a9/4660d3] process > TALIGN:APPEND (435) [ 79%] 426 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (438)
+[a9/4660d3] process > TALIGN:APPEND (435) [ 79%] 426 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (438)
+[a2/4019c4] process > TALIGN:APPEND (422) [ 80%] 427 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (439)
+[d9/d79c3d] process > TALIGN:APPEND (438) [ 80%] 427 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (440)
+[61/4a1ea5] process > TALIGN:APPEND (445) [ 80%] 428 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (441)
+[a4/18d00b] process > TALIGN:APPEND (437) [ 80%] 429 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (442)
+[7e/05e52b] process > TALIGN:APPEND (440) [ 80%] 430 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (442)
+[7e/05e52b] process > TALIGN:APPEND (440) [ 80%] 430 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (443)
+[f0/1f1281] process > TALIGN:APPEND (441) [ 80%] 431 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (445)
+[3a/8518d2] process > TALIGN:APPEND (443) [ 81%] 433 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (445)
+[3a/8518d2] process > TALIGN:APPEND (443) [ 81%] 433 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (447)
+[88/eb6935] process > TALIGN:APPEND (447) [ 81%] 435 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (448)
+[12/56fb5d] process > TALIGN:APPEND (450) [ 81%] 436 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (449)
+[87/f37f12] process > TALIGN:APPEND (448) [ 81%] 437 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (450)
+[c5/2251f4] process > TALIGN:APPEND (449) [ 82%] 438 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (451)
+[9c/636668] process > TALIGN:APPEND (451) [ 82%] 439 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (452)
+[c9/5687be] process > TALIGN:APPEND (457) [ 82%] 440 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (453)
+[91/113802] process > TALIGN:APPEND (458) [ 82%] 441 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (454)
+[b0/18de3d] process > TALIGN:APPEND (453) [ 82%] 442 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (454)
+[b0/18de3d] process > TALIGN:APPEND (453) [ 82%] 442 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (455)
+[85/cb9f63] process > TALIGN:APPEND (454) [ 83%] 443 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (455)
+[85/cb9f63] process > TALIGN:APPEND (454) [ 83%] 443 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (456)
+[7c/5b377e] process > TALIGN:APPEND (455) [ 83%] 444 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (456)
+[7c/5b377e] process > TALIGN:APPEND (455) [ 83%] 444 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (457)
+[f2/ab0f57] process > TALIGN:APPEND (456) [ 83%] 445 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (458)
+[9e/95863b] process > TALIGN:APPEND (452) [ 83%] 446 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (459)
+[33/0fe79d] process > TALIGN:APPEND (465) [ 83%] 447 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (460)
+[ba/f779d1] process > TALIGN:APPEND (467) [ 84%] 448 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (461)
+[10/1593dd] process > TALIGN:APPEND (462) [ 84%] 449 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (462)
+[ad/b4287b] process > TALIGN:APPEND (460) [ 84%] 450 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (462)
+[ad/b4287b] process > TALIGN:APPEND (460) [ 84%] 450 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (463)
+[d5/39221e] process > TALIGN:APPEND (459) [ 84%] 451 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (463)
+[d5/39221e] process > TALIGN:APPEND (459) [ 84%] 451 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (464)
+[2e/38c425] process > TALIGN:APPEND (461) [ 84%] 452 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (465)
+[a1/72a5b4] process > TALIGN:APPEND (463) [ 84%] 453 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (466)
+[5e/b47bd0] process > TALIGN:APPEND (466) [ 85%] 454 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (467)
+[42/166894] process > TALIGN:APPEND (469) [ 85%] 455 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (467)
+[42/166894] process > TALIGN:APPEND (469) [ 85%] 455 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (469)
+[48/f09198] process > TALIGN:APPEND (468) [ 85%] 457 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (469)
+[48/f09198] process > TALIGN:APPEND (468) [ 85%] 457 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (470)
+[0a/cbf5ff] process > TALIGN:APPEND (471) [ 85%] 458 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (471)
+[42/e39e66] process > TALIGN:APPEND (472) [ 86%] 459 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (471)
+[ba/f779d1] process > TALIGN:APPEND (467) [ 86%] 460 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (472)
+[1f/f1bf88] process > TALIGN:APPEND (470) [ 86%] 460 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (473)
+[b4/07a1cd] process > TALIGN:APPEND (473) [ 86%] 461 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (473)
+[b4/07a1cd] process > TALIGN:APPEND (473) [ 86%] 461 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (474)
+[51/f9d3d6] process > TALIGN:APPEND (464) [ 86%] 462 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (475)
+[f9/374aa5] process > TALIGN:APPEND (475) [ 86%] 463 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (476)
+[ec/245351] process > TALIGN:APPEND (476) [ 87%] 464 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (476)
+[ec/245351] process > TALIGN:APPEND (476) [ 87%] 464 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (478)
+[95/8b54df] process > TALIGN:APPEND (478) [ 87%] 466 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (479)
+[48/23d019] process > TALIGN:APPEND (479) [ 87%] 467 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (479)
+[48/23d019] process > TALIGN:APPEND (479) [ 87%] 467 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (480)
+[89/7ce54e] process > TALIGN:APPEND (481) [ 87%] 468 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (481)
+[08/80367d] process > TALIGN:APPEND (482) [ 87%] 469 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (482)
+[09/2ed7ec] process > TALIGN:APPEND (480) [ 88%] 470 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (483)
+[b5/570dcf] process > TALIGN:APPEND (483) [ 88%] 471 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (484)
+[08/97ecf5] process > TALIGN:APPEND (484) [ 88%] 472 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (485)
+[5c/a7b236] process > TALIGN:APPEND (485) [ 88%] 473 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (486)
+[67/a15011] process > TALIGN:APPEND (486) [ 88%] 474 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (488)
+[3d/52ec44] process > TALIGN:APPEND (489) [ 89%] 476 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (489)
+[63/505e0b] process > TALIGN:APPEND (487) [ 89%] 477 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (490)
+[e2/c2755e] process > TALIGN:APPEND (497) [ 89%] 478 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (492)
+[cf/e91b6d] process > TALIGN:APPEND (499) [ 90%] 480 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (493)
+[d4/e335f9] process > TALIGN:APPEND (493) [ 90%] 481 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (493)
+[d4/e335f9] process > TALIGN:APPEND (493) [ 90%] 481 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (494)
+[01/ff077e] process > TALIGN:APPEND (494) [ 90%] 482 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (494)
+[01/ff077e] process > TALIGN:APPEND (494) [ 90%] 482 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (495)
+[66/a93dbe] process > TALIGN:APPEND (501) [ 90%] 483 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (496)
+[56/6e3a42] process > TALIGN:APPEND (505) [ 90%] 484 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (497)
+[a1/1c0d1c] process > TALIGN:APPEND (491) [ 90%] 485 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (498)
+[ae/03a066] process > TALIGN:APPEND (490) [ 91%] 486 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (499)
+[80/c1d27c] process > TALIGN:APPEND (492) [ 91%] 487 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (499)
+[80/c1d27c] process > TALIGN:APPEND (492) [ 91%] 487 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (500)
+[5f/38a3f1] process > TALIGN:APPEND (496) [ 91%] 488 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (501)
+[cd/3d98f6] process > TALIGN:APPEND (498) [ 91%] 489 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (502)
+[d3/7cd05a] process > TALIGN:APPEND (500) [ 91%] 490 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (502)
+[d3/7cd05a] process > TALIGN:APPEND (500) [ 91%] 490 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (503)
+[44/d93d7c] process > TALIGN:APPEND (503) [ 92%] 491 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (503)
+[44/d93d7c] process > TALIGN:APPEND (503) [ 92%] 491 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (504)
+[78/1339a5] process > TALIGN:APPEND (502) [ 92%] 492 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (504)
+[78/1339a5] process > TALIGN:APPEND (502) [ 92%] 492 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (505)
+[de/4f23cb] process > TALIGN:APPEND (511) [ 92%] 493 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (506)
+[72/229e45] process > TALIGN:APPEND (504) [ 92%] 494 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (506)
+[72/229e45] process > TALIGN:APPEND (504) [ 92%] 494 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (507)
+[18/c28c63] process > TALIGN:APPEND (506) [ 92%] 495 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (508)
+[e2/1e724f] process > TALIGN:APPEND (509) [ 93%] 496 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (509)
+[78/94fd85] process > TALIGN:APPEND (507) [ 93%] 497 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (510)
+[ef/5014e1] process > TALIGN:APPEND (510) [ 93%] 498 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (511)
+[72/00cc18] process > TALIGN:APPEND (508) [ 93%] 499 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (512)
+[29/83e98f] process > TALIGN:APPEND (522) [ 93%] 500 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (513)
+[83/febad7] process > TALIGN:APPEND (517) [ 93%] 501 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (514)
+[70/02a67e] process > TALIGN:APPEND (513) [ 94%] 502 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (514)
+[70/02a67e] process > TALIGN:APPEND (513) [ 94%] 502 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (515)
+[c1/cec3c7] process > TALIGN:APPEND (512) [ 94%] 503 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (516)
+[c0/beb70d] process > TALIGN:APPEND (516) [ 94%] 504 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (517)
+[59/7ee372] process > TALIGN:APPEND (520) [ 94%] 505 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (518)
+[b2/68299f] process > TALIGN:APPEND (526) [ 94%] 506 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (519)
+[c7/4070fa] process > TALIGN:APPEND (514) [ 95%] 507 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (519)
+[c7/4070fa] process > TALIGN:APPEND (514) [ 95%] 507 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (520)
+[f0/1f7f1a] process > TALIGN:APPEND (528) [ 95%] 508 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (520)
+[f0/1f7f1a] process > TALIGN:APPEND (528) [ 95%] 508 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (521)
+[a6/3d7de5] process > TALIGN:APPEND (521) [ 95%] 509 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (522)
+[01/e9c9c1] process > TALIGN:APPEND (518) [ 95%] 510 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (523)
+[71/626e79] process > TALIGN:APPEND (515) [ 95%] 511 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (523)
+[71/626e79] process > TALIGN:APPEND (515) [ 95%] 511 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (524)
+[9c/103b21] process > TALIGN:APPEND (519) [ 96%] 512 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (524)
+[9c/103b21] process > TALIGN:APPEND (519) [ 96%] 512 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (525)
+[f2/cb5183] process > TALIGN:APPEND (523) [ 96%] 513 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (525)
+[f2/cb5183] process > TALIGN:APPEND (523) [ 96%] 513 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (526)
+[39/39a62a] process > TALIGN:APPEND (524) [ 96%] 514 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (527)
+[2e/ee130a] process > TALIGN:APPEND (527) [ 96%] 515 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (527)
+[2e/ee130a] process > TALIGN:APPEND (527) [ 96%] 515 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (528)
+[bc/e8e1fd] process > TALIGN:APPEND (525) [ 96%] 516 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (529)
+[19/75f6a1] process > TALIGN:APPEND (529) [ 96%] 517 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (529)
+[19/75f6a1] process > TALIGN:APPEND (529) [ 96%] 517 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (530)
+[05/428b2f] process > TALIGN:APPEND (532) [ 97%] 518 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (530)
+[05/428b2f] process > TALIGN:APPEND (532) [ 97%] 518 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (531)
+[af/76916a] process > TALIGN:APPEND (533) [ 97%] 519 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (532)
+[ef/ffb2e3] process > TALIGN:APPEND (530) [ 97%] 520 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (532)
+[ef/ffb2e3] process > TALIGN:APPEND (530) [ 97%] 520 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[46/536f2e] process > TALIGN:APPEND (531) [ 97%] 521 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[01/e9c9c1] process > TALIGN:APPEND (518) [ 97%] 522 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[71/626e79] process > TALIGN:APPEND (515) [ 98%] 523 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[9c/103b21] process > TALIGN:APPEND (519) [ 98%] 524 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[f2/cb5183] process > TALIGN:APPEND (523) [ 98%] 525 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[39/39a62a] process > TALIGN:APPEND (524) [ 98%] 526 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[2e/ee130a] process > TALIGN:APPEND (527) [ 98%] 527 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[bc/e8e1fd] process > TALIGN:APPEND (525) [ 99%] 528 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[19/75f6a1] process > TALIGN:APPEND (529) [ 99%] 529 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[05/428b2f] process > TALIGN:APPEND (532) [ 99%] 530 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[af/76916a] process > TALIGN:APPEND (533) [ 99%] 531 of 533
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (533)
+[46/536f2e] process > TALIGN:APPEND (531) [100%] 533 of 533 ✔
+[-        ] process > TALIGN:ALIGN_SEQ    -
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (534)
+[46/536f2e] process > TALIGN:APPEND (531)  [100%] 533 of 533 ✔
+[81/57b5f6] process > TALIGN:ALIGN_SEQ (1) [  0%] 0 of 1
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (534)
+[46/536f2e] process > TALIGN:APPEND (531)  [100%] 533 of 533 ✔
+[81/57b5f6] process > TALIGN:ALIGN_SEQ (1) [  0%] 0 of 1

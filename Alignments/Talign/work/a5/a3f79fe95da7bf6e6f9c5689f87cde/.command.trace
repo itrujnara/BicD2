@@ -1,0 +1,17 @@
+nextflow.trace/v2
+realtime=95
+%cpu=275
+cpu_model=Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
+rchar=42876
+wchar=1130
+syscr=124
+syscw=13
+read_bytes=0
+write_bytes=4096
+%mem=0
+vmem=22148
+rss=3840
+peak_vmem=22148
+peak_rss=3840
+vol_ctxt=2
+inv_ctxt=0
