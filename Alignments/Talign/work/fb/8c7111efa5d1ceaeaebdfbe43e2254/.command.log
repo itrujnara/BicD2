@@ -1,0 +1,20 @@
+Unable to find image 'quay.io/biocontainers/famsa:2.2.2--h9f5acd7_0' locally
+2.2.2--h9f5acd7_0: Pulling from biocontainers/famsa
+73349e34840e: Pulling fs layer
+acab339ca1e8: Pulling fs layer
+b15b5cfbfebc: Pulling fs layer
+acab339ca1e8: Verifying Checksum
+73349e34840e: Verifying Checksum
+73349e34840e: Download complete
+73349e34840e: Pull complete
+acab339ca1e8: Pull complete
+b15b5cfbfebc: Verifying Checksum
+b15b5cfbfebc: Download complete
+b15b5cfbfebc: Pull complete
+Digest: sha256:7ebd3d06ba7e5e2300ebcb17e7c69becc35032257e4d5c9e3861f523c4be6cdf
+Status: Downloaded newer image for quay.io/biocontainers/famsa:2.2.2--h9f5acd7_0
+FAMSA (Fast and Accurate Multiple Sequence Alignment) 
+  version 2.2.2- (2022-10-09)
+  S. Deorowicz, A. Debudaj-Grabysz, A. Gudys
+
+Done!
