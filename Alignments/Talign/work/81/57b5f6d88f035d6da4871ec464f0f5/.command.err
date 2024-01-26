@@ -181,3 +181,28 @@ INPUT SEQUENCES: 533 SEQUENCES  [PROTEIN]
 	--- Process Method/Library/Aln Sseqs.fa
 	xxx Retrieved Sseqs.fa
 	--- Process Method/Library/Aln Mproba_pair
+	xxx Retrieved Mproba_pair
+
+	All Methods Retrieved
+
+MANUAL PENALTIES: gapopen=0 gapext=0
+
+	Library Total Size: [259849580]
+
+Library Relaxation: Multi_proc [1]
+ 
+--ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+
+!		[Relax Library][TOT=  533][  0 %]
+--ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+
+
+*************************************************************************************************
+*                        FULL TRACE BACK PID: 33                                    
+33 -- ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+33 -- COM: t_coffee seqs.fa 
+33 -- STACK: 27 -> 33
+*************************************************************************************************
+
+# TERMINATION STATUS: FAILURE [PROGRAM: T-COFFEE pid 33 ppid 27
+#CL: t_coffee seqs.fa 

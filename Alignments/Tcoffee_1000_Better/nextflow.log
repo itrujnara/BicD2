@@ -3599,3 +3599,210 @@ Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/
 executor >  local (534)
 [46/536f2e] process > TALIGN:APPEND (531)  [100%] 533 of 533 ✔
 [81/57b5f6] process > TALIGN:ALIGN_SEQ (1) [  0%] 0 of 1
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (534)
+[46/536f2e] process > TALIGN:APPEND (531)  [100%] 533 of 533 ✔
+[81/57b5f6] process > TALIGN:ALIGN_SEQ (1) [  0%] 0 of 1
+ERROR ~ Error executing process > 'TALIGN:ALIGN_SEQ (1)'
+
+Caused by:
+  Process `TALIGN:ALIGN_SEQ (1)` terminated with an error exit status (1)
+
+Command executed:
+
+  t_coffee seqs.fa
+
+Command exit status:
+  1
+
+Command output:
+  (empty)
+
+Command error:
+  -overaln_param 	S	[0] 
+  -overaln_mode  	S	[0] 
+  -overaln_model 	S	[0] 
+  -overaln_threshold	D	[0] 	0 
+  -overaln_target	D	[0] 	0 
+  -overaln_P1    	D	[0] 	0 
+  -overaln_P2    	D	[0] 	0 
+  -overaln_P3    	D	[0] 	0 
+  -overaln_P4    	D	[0] 	0 
+  -exon_boundaries	S	[0] 
+  -display       	D	[0] 	100 
+  
+  INPUT FILES
+  	Input File (S) seqs.fa  Format fasta_seq
+  	Input File (M) proba_pair 
+  
+  Identify Master Sequences [no]:
+  
+  Master Sequences Identified
+  INPUT SEQUENCES: 533 SEQUENCES  [PROTEIN]
+  	Multi Core Mode (read): 1 processor(s):
+  
+  	--- Process Method/Library/Aln Sseqs.fa
+  	xxx Retrieved Sseqs.fa
+  	--- Process Method/Library/Aln Mproba_pair
+  	xxx Retrieved Mproba_pair
+  
+  	All Methods Retrieved
+  
+  MANUAL PENALTIES: gapopen=0 gapext=0
+  
+  	Library Total Size: [259849580]
+  
+  Library Relaxation: Multi_proc [1]
+   
+  --ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+  
+  !		[Relax Library][TOT=  533][  0 %]
+  --ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+  
+  
+  *************************************************************************************************
+  *                        FULL TRACE BACK PID: 33                                    
+  33 -- ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+  33 -- COM: t_coffee seqs.fa 
+  33 -- STACK: 27 -> 33
+  *************************************************************************************************
+  
+  # TERMINATION STATUS: FAILURE [PROGRAM: T-COFFEE pid 33 ppid 27
+  #CL: t_coffee seqs.fa 
+
+Work dir:
+  /home/igor/Work/BicD2/Alignments/Talign/work/81/57b5f6d88f035d6da4871ec464f0f5
+
+Tip: view the complete command output by changing to the process work dir and entering the command `cat .command.out`
+
+ -- Check '.nextflow.log' file for details
+
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Kz4YxQxoevuLh
+executor >  local (534)
+[46/536f2e] process > TALIGN:APPEND (531)  [100%] 533 of 533 ✔
+[81/57b5f6] process > TALIGN:ALIGN_SEQ (1) [100%] 1 of 1, failed: 1 ✘
+ERROR ~ Error executing process > 'TALIGN:ALIGN_SEQ (1)'
+
+Caused by:
+  Process `TALIGN:ALIGN_SEQ (1)` terminated with an error exit status (1)
+
+Command executed:
+
+  t_coffee seqs.fa
+
+Command exit status:
+  1
+
+Command output:
+  (empty)
+
+Command error:
+  -overaln_param 	S	[0] 
+  -overaln_mode  	S	[0] 
+  -overaln_model 	S	[0] 
+  -overaln_threshold	D	[0] 	0 
+  -overaln_target	D	[0] 	0 
+  -overaln_P1    	D	[0] 	0 
+  -overaln_P2    	D	[0] 	0 
+  -overaln_P3    	D	[0] 	0 
+  -overaln_P4    	D	[0] 	0 
+  -exon_boundaries	S	[0] 
+  -display       	D	[0] 	100 
+  
+  INPUT FILES
+  	Input File (S) seqs.fa  Format fasta_seq
+  	Input File (M) proba_pair 
+  
+  Identify Master Sequences [no]:
+  
+  Master Sequences Identified
+  INPUT SEQUENCES: 533 SEQUENCES  [PROTEIN]
+  	Multi Core Mode (read): 1 processor(s):
+  
+  	--- Process Method/Library/Aln Sseqs.fa
+  	xxx Retrieved Sseqs.fa
+  	--- Process Method/Library/Aln Mproba_pair
+  	xxx Retrieved Mproba_pair
+  
+  	All Methods Retrieved
+  
+  MANUAL PENALTIES: gapopen=0 gapext=0
+  
+  	Library Total Size: [259849580]
+  
+  Library Relaxation: Multi_proc [1]
+   
+  --ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+  
+  !		[Relax Library][TOT=  533][  0 %]
+  --ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+  
+  
+  *************************************************************************************************
+  *                        FULL TRACE BACK PID: 33                                    
+  33 -- ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+  33 -- COM: t_coffee seqs.fa 
+  33 -- STACK: 27 -> 33
+  *************************************************************************************************
+  
+  # TERMINATION STATUS: FAILURE [PROGRAM: T-COFFEE pid 33 ppid 27
+  #CL: t_coffee seqs.fa 
+
+Work dir:
+  /home/igor/Work/BicD2/Alignments/Talign/work/81/57b5f6d88f035d6da4871ec464f0f5
+
+Tip: view the complete command output by changing to the process work dir and entering the command `cat .command.out`
+
+ -- Check '.nextflow.log' file for details
+WARN: Tower request field `workflow.errorMessage` exceeds expected size | offending value: `-overaln_param 	S	[0] 
+-overaln_mode  	S	[0] 
+-overaln_model 	S	[0] 
+-overaln_threshold	D	[0] 	0 
+-overaln_target	D	[0] 	0 
+-overaln_P1    	D	[0] 	0 
+-overaln_P2    	D	[0] 	0 
+-overaln_P3    	D	[0] 	0 
+-overaln_P4    	D	[0] 	0 
+-exon_boundaries	S	[0] 
+-display       	D	[0] 	100 
+
+INPUT FILES
+	Input File (S) seqs.fa  Format fasta_seq
+	Input File (M) proba_pair 
+
+Identify Master Sequences [no]:
+
+Master Sequences Identified
+INPUT SEQUENCES: 533 SEQUENCES  [PROTEIN]
+	Multi Core Mode (read): 1 processor(s):
+
+	--- Process Method/Library/Aln Sseqs.fa
+	xxx Retrieved Sseqs.fa
+	--- Process Method/Library/Aln Mproba_pair
+	xxx Retrieved Mproba_pair
+
+	All Methods Retrieved
+
+MANUAL PENALTIES: gapopen=0 gapext=0
+
+	Library Total Size: [259849580]
+
+Library Relaxation: Multi_proc [1]
+ 
+--ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+
+!		[Relax Library][TOT=  533][  0 %]
+--ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+
+
+*************************************************************************************************
+*                        FULL TRACE BACK PID: 33                                    
+33 -- ERROR: MAX_N_PID exceded -- Recompile changing the value of MAX_N_PID (current: 260000 Requested: 301701) OR setenv MAX_N_PID_4_TCOFFEE=301701
+33 -- COM: t_coffee seqs.fa 
+33 -- STACK: 27 -> 33
+*************************************************************************************************
+
+# TERMINATION STATUS: FAILURE [PROGRAM: T-COFFEE pid 33 ppid 27
+#CL: t_coffee seqs.fa `, size: 1677 (max: 255)
+

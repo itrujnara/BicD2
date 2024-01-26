@@ -34,15 +34,20 @@ process TCOFFEE_ALIGN_SEQ {
     """
 }
 
-process TCOFFE_ALIGN_STR {
-    publishDir params.outdir, mode "copy"
+process TCOFFEE_ALIGN_STR {
+    publishDir params.outdir, mode: "copy"
 
     input:
     path seqfile
+    path strdir
 
     script:
     """
-    t_coffee $seqfile --mode tmalign_pair
+    for f in \$(ls $strdir)
+    do
+        ln -s $strdir/\$f ./\$f
+    done
+    t_coffee $seqfile -method TMalign_pair
     """
 }
 
@@ -80,6 +85,8 @@ workflow TALIGN {
 
     if (params.mode == "tcoffee") {
         TCOFFEE_ALIGN_SEQ(seqfile)
+    } else if (params.mode == "tcoffee_str"){
+        TCOFFEE_ALIGN_STR(seqfile, params.strdir)
     } else if (params.mode == "famsa") {
         FAMSA_ALIGN(seqfile_meta, [[:],[]])
     }
