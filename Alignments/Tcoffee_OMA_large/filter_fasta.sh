@@ -12,7 +12,7 @@ sed 's/\n/#\n/' $1 | sed 's/\n//g' | sed 's/>/\n>/g'i > $TMPNAME
 
 for id in $(cat $2)
 do
-	sed -i '/$id/d' $TMPNAME 
+	sed -i "/$id/d" $TMPNAME 
 done
 
 sed -l 60 's/#/\n/g' $TMPNAME

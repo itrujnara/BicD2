@@ -1,0 +1,224 @@
+
+PROGRAM: T-COFFEE Version_13.46.0.919e8c6b (2023-07-07 22:06:42 - Revision 29996c5 - Build 980)
+-full_log      	S	[0] 
+-genepred_score	S	[0] 	nsd
+-run_name      	S	[0] 
+-mem_mode      	S	[0] 	mem
+-extend        	D	[1] 	1 
+-extend_mode   	S	[0] 	very_fast_triplet
+-max_n_pair    	D	[0] 	10 
+-seq_name_for_quadruplet	S	[0] 	all
+-compact       	S	[0] 	default
+-clean         	S	[0] 	no
+-do_self       	FL	[0] 	0
+-do_normalise  	D	[0] 	1000 
+-template_file 	S	[0] 
+-template_dir_E_	S	[0] 	./
+-setenv        	S	[0] 	0
+-export        	S	[0] 	0
+-template_mode 	S	[0] 
+-flip          	D	[0] 	0 
+-remove_template_file	D	[0] 	0 
+-profile_template_file	S	[0] 
+-in            	S	[0] 
+-seq           	S	[1] 	seqs_all_filtered.fa
+-aln           	S	[0] 
+-method_limits 	S	[0] 
+-method        	S	[0] 
+-lib           	S	[0] 
+-profile       	S	[0] 
+-profile1      	S	[0] 
+-profile2      	S	[0] 
+-pdb           	S	[0] 
+-relax_lib     	D	[0] 	1 
+-filter_lib    	D	[0] 	0 
+-shrink_lib    	D	[0] 	0 
+-out_lib       	W_F	[0] 	no
+-out_lib_mode  	S	[0] 	primary
+-lib_only      	D	[0] 	0 
+-outseqweight  	W_F	[0] 	no
+-seq_source    	S	[0] 	ANY
+-cosmetic_penalty	D	[0] 	0 
+-gapopen       	D	[0] 	0 
+-gapext        	D	[0] 	0 
+-fgapopen      	D	[0] 	0 
+-fgapext       	D	[0] 	0 
+-nomatch       	D	[0] 	0 
+-newtree       	W_F	[0] 	default
+-tree          	W_F	[0] 	NO
+-usetree       	R_F	[0] 
+-tree_mode     	S	[0] 	nj
+-distance_matrix_mode	S	[0] 	ktup
+-distance_matrix_sim_mode	S	[0] 	idmat_sim1
+-quicktree     	FL	[0] 	0
+-outfile       	W_F	[0] 	default
+-maximise      	FL	[1] 	1
+-output        	S	[0] 	aln	html
+-len           	D	[0] 	0 
+-infile        	R_F	[0] 
+-matrix        	S	[0] 	default
+-fs_matrix     	S	[0] 	idmat
+-fs_gop        	D	[0] 	1 
+-fs_gep        	D	[0] 	1 
+-tg_mode       	D	[0] 	1 
+-profile_mode  	S	[0] 	cw_profile_profile
+-profile_comparison	S	[0] 	profile
+-dp_mode       	S	[0] 	linked_pair_wise
+-ktuple        	D	[0] 	1 
+-ndiag         	D	[0] 	0 
+-diag_threshold	D	[0] 	0 
+-diag_mode     	D	[0] 	0 
+-sim_matrix    	S	[0] 	vasiliky
+-transform     	S	[0] 
+-extend_seq    	FL	[0] 	0
+-outorder      	S	[0] 	input
+-inorder       	S	[0] 	aligned
+-seqnos        	S	[0] 	off
+-case          	S	[0] 	keep
+-cpu           	D	[0] 	0 
+-ulimit        	D	[0] 	-1 
+-maxnseq       	D	[0] 	-1 
+-maxlen        	D	[0] 	-1 
+-sample_dp     	D	[0] 	0 
+-weight        	S	[0] 	default
+-seq_weight    	S	[0] 	no
+-align         	FL	[1] 	1
+-mocca         	FL	[0] 	0
+-domain        	FL	[0] 	0
+-start         	D	[0] 	0 
+-len           	D	[0] 	0 
+-scale         	D	[0] 	0 
+-mocca_interactive	FL	[0] 	0
+-method_evaluate_mode	S	[0] 	default
+-color_mode    	S	[0] 	new
+-aln_line_length	D	[0] 	0 
+-evaluate_mode 	S	[0] 	triplet
+-get_type      	FL	[0] 	0
+-clean_aln     	D	[0] 	0 
+-clean_threshold	D	[1] 	1 
+-clean_iteration	D	[1] 	1 
+-clean_evaluate_mode	S	[0] 	t_coffee_fast
+-extend_matrix 	FL	[0] 	0
+-prot_min_sim  	D	[0] 	0 
+-prot_max_sim  	D	[100] 	100 
+-psiJ          	D	[0] 	3 
+-psitrim_mode  	S	[0] 	regtrim
+-psitrim_tree  	S	[0] 	codnd
+-psitrim       	D	[100] 	100 
+-prot_min_cov  	D	[90] 	90 
+-pdb_type      	S	[0] 	d
+-pdb_min_sim   	D	[35] 	35 
+-pdb_max_sim   	D	[100] 	100 
+-pdb_min_cov   	D	[50] 	50 
+-pdb_blast_server	W_F	[0] 	EBI
+-blast         	W_F	[0] 
+-blast_server  	W_F	[0] 	EBI
+-pdb_db        	W_F	[0] 	pdb
+-protein_db    	W_F	[0] 	uniref50
+-method_log    	W_F	[0] 	no
+-struc_to_use  	S	[0] 
+-cache         	W_F	[0] 	use
+-print_cache   	FL	[0] 	0
+-align_pdb_param_file	W_F	[0] 	no
+-align_pdb_hasch_mode	W_F	[0] 	hasch_ca_trace_bubble
+-external_aligner	S	[0] 	NO
+-msa_mode      	S	[0] 	tree
+-et_mode       	S	[0] 	et
+-master        	S	[0] 	no
+-blast_nseq    	D	[0] 	0 
+-lalign_n_top  	D	[0] 	10 
+-iterate       	D	[0] 	0 
+-trim          	D	[0] 	0 
+-split         	D	[0] 	0 
+-trimfile      	S	[0] 	default
+-split         	D	[0] 	0 
+-split_nseq_thres	D	[0] 	0 
+-split_score_thres	D	[0] 	0 
+-check_pdb_status	D	[0] 	0 
+-clean_seq_name	D	[0] 	0 
+-seq_to_keep   	S	[0] 
+-dpa_master_aln	S	[0] 
+-dpa_maxnseq   	D	[0] 	0 
+-dpa_min_score1	D	[0] 
+-dpa_min_score2	D	[0] 
+-dpa_keep_tmpfile	FL	[0] 	0
+-dpa_debug     	D	[0] 	0 
+-multi_core    	S	[0] 	templates_jobs_relax_msa_evaluate
+-n_core        	D	[0] 	1 
+-thread        	D	[0] 	1 
+-max_n_proc    	D	[0] 	1 
+-lib_list      	S	[0] 
+-prune_lib_mode	S	[0] 	5
+-tip           	S	[0] 	none
+-rna_lib       	S	[0] 
+-no_warning    	D	[0] 	0 
+-run_local_script	D	[0] 	0 
+-proxy         	S	[0] 	unset
+-email         	S	[0] 
+-clean_overaln 	D	[0] 	0 
+-overaln_param 	S	[0] 
+-overaln_mode  	S	[0] 
+-overaln_model 	S	[0] 
+-overaln_threshold	D	[0] 	0 
+-overaln_target	D	[0] 	0 
+-overaln_P1    	D	[0] 	0 
+-overaln_P2    	D	[0] 	0 
+-overaln_P3    	D	[0] 	0 
+-overaln_P4    	D	[0] 	0 
+-exon_boundaries	S	[0] 
+-display       	D	[0] 	100 
+
+INPUT FILES
+	Input File (S) seqs_all_filtered.fa  Format fasta_seq
+	Input File (M) proba_pair 
+
+Identify Master Sequences [no]:
+
+Master Sequences Identified
+INPUT SEQUENCES: 248 SEQUENCES  [PROTEIN]
+	Multi Core Mode (read): 1 processor(s):
+
+	--- Process Method/Library/Aln Sseqs_all_filtered.fa
+	xxx Retrieved Sseqs_all_filtered.fa
+	--- Process Method/Library/Aln Mproba_pair
+	xxx Retrieved Mproba_pair
+
+	All Methods Retrieved
+
+MANUAL PENALTIES: gapopen=0 gapext=0
+
+	Library Total Size: [122688950]
+
+Library Relaxation: Multi_proc [1]
+ 
+!		[Relax Library][TOT=  248][  0 %]!		[Relax Library][TOT=  248][  1 %][EST. REMAINING TIME:  297 sec.]!		[Relax Library][TOT=  248][  2 %][EST. REMAINING TIME:  490 sec.]!		[Relax Library][TOT=  248][  3 %][EST. REMAINING TIME:  614 sec.]!		[Relax Library][TOT=  248][  4 %][EST. REMAINING TIME:  600 sec.]!		[Relax Library][TOT=  248][  5 %][EST. REMAINING TIME:  646 sec.]!		[Relax Library][TOT=  248][  6 %][EST. REMAINING TIME:  626 sec.]!		[Relax Library][TOT=  248][  7 %][EST. REMAINING TIME:  651 sec.]!		[Relax Library][TOT=  248][  8 %][EST. REMAINING TIME:  632 sec.]!		[Relax Library][TOT=  248][  9 %][EST. REMAINING TIME:  657 sec.]!		[Relax Library][TOT=  248][ 10 %][EST. REMAINING TIME:  639 sec.]!		[Relax Library][TOT=  248][ 11 %][EST. REMAINING TIME:  655 sec.]!		[Relax Library][TOT=  248][ 12 %][EST. REMAINING TIME:  652 sec.]!		[Relax Library][TOT=  248][ 13 %][EST. REMAINING TIME:  649 sec.]!		[Relax Library][TOT=  248][ 14 %][EST. REMAINING TIME:  638 sec.]!		[Relax Library][TOT=  248][ 15 %][EST. REMAINING TIME:  657 sec.]!		[Relax Library][TOT=  248][ 16 %][EST. REMAINING TIME:  640 sec.]!		[Relax Library][TOT=  248][ 17 %][EST. REMAINING TIME:  639 sec.]!		[Relax Library][TOT=  248][ 18 %][EST. REMAINING TIME:  619 sec.]!		[Relax Library][TOT=  248][ 19 %][EST. REMAINING TIME:  613 sec.]!		[Relax Library][TOT=  248][ 20 %][EST. REMAINING TIME:  596 sec.]!		[Relax Library][TOT=  248][ 21 %][EST. REMAINING TIME:  590 sec.]!		[Relax Library][TOT=  248][ 22 %][EST. REMAINING TIME:  574 sec.]!		[Relax Library][TOT=  248][ 23 %][EST. REMAINING TIME:  569 sec.]!		[Relax Library][TOT=  248][ 24 %][EST. REMAINING TIME:  560 sec.]!		[Relax Library][TOT=  248][ 25 %][EST. REMAINING TIME:  549 sec.]!		[Relax Library][TOT=  248][ 26 %][EST. REMAINING TIME:  543 sec.]!		[Relax Library][TOT=  248][ 27 %][EST. REMAINING TIME:  532 sec.]!		[Relax Library][TOT=  248][ 28 %][EST. REMAINING TIME:  529 sec.]!		[Relax Library][TOT=  248][ 29 %][EST. REMAINING TIME:  519 sec.]!		[Relax Library][TOT=  248][ 30 %][EST. REMAINING TIME:  515 sec.]!		[Relax Library][TOT=  248][ 31 %][EST. REMAINING TIME:  507 sec.]!		[Relax Library][TOT=  248][ 32 %][EST. REMAINING TIME:  503 sec.]!		[Relax Library][TOT=  248][ 33 %][EST. REMAINING TIME:  495 sec.]!		[Relax Library][TOT=  248][ 34 %][EST. REMAINING TIME:  491 sec.]!		[Relax Library][TOT=  248][ 35 %][EST. REMAINING TIME:  482 sec.]!		[Relax Library][TOT=  248][ 36 %][EST. REMAINING TIME:  478 sec.]!		[Relax Library][TOT=  248][ 37 %][EST. REMAINING TIME:  469 sec.]!		[Relax Library][TOT=  248][ 38 %][EST. REMAINING TIME:  465 sec.]!		[Relax Library][TOT=  248][ 39 %][EST. REMAINING TIME:  455 sec.]!		[Relax Library][TOT=  248][ 40 %][EST. REMAINING TIME:  451 sec.]!		[Relax Library][TOT=  248][ 41 %][EST. REMAINING TIME:  443 sec.]!		[Relax Library][TOT=  248][ 42 %][EST. REMAINING TIME:  436 sec.]!		[Relax Library][TOT=  248][ 43 %][EST. REMAINING TIME:  426 sec.]!		[Relax Library][TOT=  248][ 44 %][EST. REMAINING TIME:  421 sec.]!		[Relax Library][TOT=  248][ 45 %][EST. REMAINING TIME:  410 sec.]!		[Relax Library][TOT=  248][ 46 %][EST. REMAINING TIME:  405 sec.]!		[Relax Library][TOT=  248][ 47 %][EST. REMAINING TIME:  395 sec.]!		[Relax Library][TOT=  248][ 48 %][EST. REMAINING TIME:  391 sec.]!		[Relax Library][TOT=  248][ 49 %][EST. REMAINING TIME:  383 sec.]!		[Relax Library][TOT=  248][ 50 %][EST. REMAINING TIME:  373 sec.]!		[Relax Library][TOT=  248][ 51 %][EST. REMAINING TIME:  367 sec.]!		[Relax Library][TOT=  248][ 52 %][EST. REMAINING TIME:  358 sec.]!		[Relax Library][TOT=  248][ 53 %][EST. REMAINING TIME:  351 sec.]!		[Relax Library][TOT=  248][ 54 %][EST. REMAINING TIME:  343 sec.]!		[Relax Library][TOT=  248][ 55 %][EST. REMAINING TIME:  337 sec.]!		[Relax Library][TOT=  248][ 56 %][EST. REMAINING TIME:  330 sec.]!		[Relax Library][TOT=  248][ 57 %][EST. REMAINING TIME:  324 sec.]!		[Relax Library][TOT=  248][ 58 %][EST. REMAINING TIME:  315 sec.]!		[Relax Library][TOT=  248][ 59 %][EST. REMAINING TIME:  307 sec.]!		[Relax Library][TOT=  248][ 60 %][EST. REMAINING TIME:  298 sec.]!		[Relax Library][TOT=  248][ 61 %][EST. REMAINING TIME:  292 sec.]!		[Relax Library][TOT=  248][ 62 %][EST. REMAINING TIME:  283 sec.]!		[Relax Library][TOT=  248][ 63 %][EST. REMAINING TIME:  276 sec.]!		[Relax Library][TOT=  248][ 64 %][EST. REMAINING TIME:  267 sec.]!		[Relax Library][TOT=  248][ 65 %][EST. REMAINING TIME:  261 sec.]!		[Relax Library][TOT=  248][ 66 %][EST. REMAINING TIME:  253 sec.]!		[Relax Library][TOT=  248][ 67 %][EST. REMAINING TIME:  247 sec.]!		[Relax Library][TOT=  248][ 68 %][EST. REMAINING TIME:  239 sec.]!		[Relax Library][TOT=  248][ 69 %][EST. REMAINING TIME:  232 sec.]!		[Relax Library][TOT=  248][ 70 %][EST. REMAINING TIME:  225 sec.]!		[Relax Library][TOT=  248][ 71 %][EST. REMAINING TIME:  217 sec.]!		[Relax Library][TOT=  248][ 72 %][EST. REMAINING TIME:  210 sec.]!		[Relax Library][TOT=  248][ 73 %][EST. REMAINING TIME:  202 sec.]!		[Relax Library][TOT=  248][ 74 %][EST. REMAINING TIME:  195 sec.]!		[Relax Library][TOT=  248][ 75 %][EST. REMAINING TIME:  187 sec.]!		[Relax Library][TOT=  248][ 76 %][EST. REMAINING TIME:  180 sec.]!		[Relax Library][TOT=  248][ 77 %][EST. REMAINING TIME:  172 sec.]!		[Relax Library][TOT=  248][ 78 %][EST. REMAINING TIME:  165 sec.]!		[Relax Library][TOT=  248][ 79 %][EST. REMAINING TIME:  156 sec.]!		[Relax Library][TOT=  248][ 80 %][EST. REMAINING TIME:  149 sec.]!		[Relax Library][TOT=  248][ 81 %][EST. REMAINING TIME:  141 sec.]!		[Relax Library][TOT=  248][ 82 %][EST. REMAINING TIME:  134 sec.]!		[Relax Library][TOT=  248][ 83 %][EST. REMAINING TIME:  126 sec.]!		[Relax Library][TOT=  248][ 84 %][EST. REMAINING TIME:  119 sec.]!		[Relax Library][TOT=  248][ 85 %][EST. REMAINING TIME:  111 sec.]!		[Relax Library][TOT=  248][ 86 %][EST. REMAINING TIME:  104 sec.]!		[Relax Library][TOT=  248][ 87 %][EST. REMAINING TIME:   96 sec.]!		[Relax Library][TOT=  248][ 88 %][EST. REMAINING TIME:   89 sec.]!		[Relax Library][TOT=  248][ 89 %][EST. REMAINING TIME:   82 sec.]!		[Relax Library][TOT=  248][ 90 %][EST. REMAINING TIME:   74 sec.]!		[Relax Library][TOT=  248][ 91 %][EST. REMAINING TIME:   67 sec.]!		[Relax Library][TOT=  248][ 92 %][EST. REMAINING TIME:   59 sec.]!		[Relax Library][TOT=  248][ 93 %][EST. REMAINING TIME:   52 sec.]!		[Relax Library][TOT=  248][ 94 %][EST. REMAINING TIME:   45 sec.]!		[Relax Library][TOT=  248][ 95 %][EST. REMAINING TIME:   37 sec.]!		[Relax Library][TOT=  248][ 96 %][EST. REMAINING TIME:   30 sec.]!		[Relax Library][TOT=  248][ 97 %][EST. REMAINING TIME:   22 sec.]!		[Relax Library][TOT=  248][ 98 %][EST. REMAINING TIME:   15 sec.]!		[Relax Library][TOT=  248][ 99 %][EST. REMAINING TIME:    7 sec.]!		[Relax Library][TOT=  248][100 %][ ELAPSED  TIME:  748 sec.]
+
+Relaxation Summary: [122688950]--->[78697277]
+
+
+
+UN-WEIGHTED MODE: EVERY SEQUENCE WEIGHTS 1
+
+MAKE GUIDE TREE 
+	[MODE=nj][DONE]
+
+PROGRESSIVE_ALIGNMENT [Tree Based]
+
+#Single Thread
+	Group  249: [Group  165 (   1 seq)] with [Group   33 (   1 seq)]-->[Len=  767][PID:33]	Group  250: [Group  137 (   1 seq)] with [Group  249 (   2 seq)]-->[Len=  767][PID:33]	Group  251: [Group  232 (   1 seq)] with [Group  250 (   3 seq)]-->[Len= 2374][PID:33]	Group  252: [Group   37 (   1 seq)] with [Group   36 (   1 seq)]-->[Len= 1695][PID:33]	Group  253: [Group   38 (   1 seq)] with [Group  252 (   2 seq)]-->[Len= 2635][PID:33]	Group  254: [Group  160 (   1 seq)] with [Group  115 (   1 seq)]-->[Len= 2323][PID:33]	Group  255: [Group  254 (   2 seq)] with [Group  253 (   3 seq)]-->[Len= 3584][PID:33]	Group  256: [Group  255 (   5 seq)] with [Group  251 (   4 seq)]-->[Len= 4638][PID:33]	Group  257: [Group   58 (   1 seq)] with [Group    2 (   1 seq)]-->[Len=  804][PID:33]	Group  258: [Group   31 (   1 seq)] with [Group   22 (   1 seq)]-->[Len=  777][PID:33]	Group  259: [Group  135 (   1 seq)] with [Group   28 (   1 seq)]-->[Len= 1627][PID:33]	Group  260: [Group   40 (   1 seq)] with [Group  259 (   2 seq)]-->[Len= 1628][PID:33]	Group  261: [Group  260 (   3 seq)] with [Group  258 (   2 seq)]-->[Len= 1628][PID:33]	Group  262: [Group  119 (   1 seq)] with [Group  261 (   5 seq)]-->[Len= 2422][PID:33]	Group  263: [Group  166 (   1 seq)] with [Group  262 (   6 seq)]-->[Len= 2422][PID:33]	Group  264: [Group  234 (   1 seq)] with [Group   71 (   1 seq)]-->[Len=  763][PID:33]	Group  265: [Group  248 (   1 seq)] with [Group  264 (   2 seq)]-->[Len= 1712][PID:33]	Group  266: [Group  184 (   1 seq)] with [Group  265 (   3 seq)]-->[Len= 1727][PID:33]	Group  267: [Group  266 (   4 seq)] with [Group  263 (   7 seq)]-->[Len= 3352][PID:33]	Group  268: [Group  267 (  11 seq)] with [Group  257 (   2 seq)]-->[Len= 3397][PID:33]	Group  269: [Group   20 (   1 seq)] with [Group   18 (   1 seq)]-->[Len=  801][PID:33]	Group  270: [Group   19 (   1 seq)] with [Group  269 (   2 seq)]-->[Len=  803][PID:33]	Group  271: [Group  270 (   3 seq)] with [Group   17 (   1 seq)]-->[Len=  804][PID:33]	Group  272: [Group  271 (   4 seq)] with [Group    3 (   1 seq)]-->[Len= 1569][PID:33]	Group  273: [Group   64 (   1 seq)] with [Group  272 (   5 seq)]-->[Len= 1573][PID:33]	Group  274: [Group  140 (   1 seq)] with [Group   29 (   1 seq)]-->[Len=  792][PID:33]	Group  275: [Group   75 (   1 seq)] with [Group   73 (   1 seq)]-->[Len=  780][PID:33]	Group  276: [Group   87 (   1 seq)] with [Group   74 (   1 seq)]-->[Len=  781][PID:33]	Group  277: [Group   88 (   1 seq)] with [Group  276 (   2 seq)]-->[Len=  781][PID:33]	Group  278: [Group   83 (   1 seq)] with [Group  277 (   3 seq)]-->[Len=  781][PID:33]	Group  279: [Group   97 (   1 seq)] with [Group   89 (   1 seq)]-->[Len=  780][PID:33]	Group  280: [Group  279 (   2 seq)] with [Group  278 (   4 seq)]-->[Len=  781][PID:33]	Group  281: [Group   81 (   1 seq)] with [Group  280 (   6 seq)]-->[Len=  782][PID:33]	Group  282: [Group   86 (   1 seq)] with [Group   82 (   1 seq)]-->[Len=  779][PID:33]	Group  283: [Group   91 (   1 seq)] with [Group  282 (   2 seq)]-->[Len=  779][PID:33]	Group  284: [Group   92 (   1 seq)] with [Group  283 (   3 seq)]-->[Len=  779][PID:33]	Group  285: [Group   90 (   1 seq)] with [Group  284 (   4 seq)]-->[Len=  779][PID:33]	Group  286: [Group  285 (   5 seq)] with [Group   76 (   1 seq)]-->[Len=  783][PID:33]	Group  287: [Group   93 (   1 seq)] with [Group   77 (   1 seq)]-->[Len=  723][PID:33]	Group  288: [Group   96 (   1 seq)] with [Group   95 (   1 seq)]-->[Len=  784][PID:33]	Group  289: [Group  288 (   2 seq)] with [Group  287 (   2 seq)]-->[Len=  784][PID:33]	Group  290: [Group   94 (   1 seq)] with [Group   80 (   1 seq)]-->[Len=  784][PID:33]	Group  291: [Group  290 (   2 seq)] with [Group  289 (   4 seq)]-->[Len=  784][PID:33]	Group  292: [Group   79 (   1 seq)] with [Group  291 (   6 seq)]-->[Len=  786][PID:33]	Group  293: [Group   84 (   1 seq)] with [Group  292 (   7 seq)]-->[Len=  787][PID:33]	Group  294: [Group   85 (   1 seq)] with [Group   78 (   1 seq)]-->[Len=  804][PID:33]	Group  295: [Group   99 (   1 seq)] with [Group  294 (   2 seq)]-->[Len=  804][PID:33]	Group  296: [Group  295 (   3 seq)] with [Group  293 (   8 seq)]-->[Len=  807][PID:33]	Group  297: [Group   98 (   1 seq)] with [Group  296 (  11 seq)]-->[Len=  807][PID:33]	Group  298: [Group  297 (  12 seq)] with [Group  286 (   6 seq)]-->[Len=  810][PID:33]	Group  299: [Group  298 (  18 seq)] with [Group  281 (   7 seq)]-->[Len=  811][PID:33]	Group  300: [Group  299 (  25 seq)] with [Group  275 (   2 seq)]-->[Len=  811][PID:33]	Group  301: [Group  300 (  27 seq)] with [Group  274 (   2 seq)]-->[Len=  819][PID:33]	Group  302: [Group  146 (   1 seq)] with [Group  301 (  29 seq)]-->[Len=  820][PID:33]	Group  303: [Group  302 (  30 seq)] with [Group  273 (   6 seq)]-->[Len= 1615][PID:33]	Group  304: [Group  303 (  36 seq)] with [Group  268 (  13 seq)]-->[Len= 3818][PID:33]	Group  305: [Group  233 (   1 seq)] with [Group  304 (  49 seq)]-->[Len= 4419][PID:33]	Group  306: [Group  239 (   1 seq)] with [Group   68 (   1 seq)]-->[Len=  730][PID:33]	Group  307: [Group  120 (   1 seq)] with [Group  306 (   2 seq)]-->[Len=  739][PID:33]	Group  308: [Group  307 (   3 seq)] with [Group  305 (  50 seq)]-->[Len= 4426][PID:33]	Group  309: [Group  212 (   1 seq)] with [Group  167 (   1 seq)]-->[Len= 2376][PID:33]	Group  310: [Group  309 (   2 seq)] with [Group  308 (  53 seq)]-->[Len= 5275][PID:33]	Group  311: [Group  183 (   1 seq)] with [Group   26 (   1 seq)]-->[Len=  867][PID:33]	Group  312: [Group  311 (   2 seq)] with [Group    1 (   1 seq)]-->[Len=  872][PID:33]	Group  313: [Group  225 (   1 seq)] with [Group  141 (   1 seq)]-->[Len= 1585][PID:33]	Group  314: [Group  313 (   2 seq)] with [Group  312 (   3 seq)]-->[Len= 1654][PID:33]	Group  315: [Group  194 (   1 seq)] with [Group   21 (   1 seq)]-->[Len= 2137][PID:33]	Group  316: [Group   56 (   1 seq)] with [Group  315 (   2 seq)]-->[Len= 2137][PID:33]	Group  317: [Group  181 (   1 seq)] with [Group  316 (   3 seq)]-->[Len= 2147][PID:33]	Group  318: [Group  143 (   1 seq)] with [Group  142 (   1 seq)]-->[Len= 1737][PID:33]	Group  319: [Group  318 (   2 seq)] with [Group   49 (   1 seq)]-->[Len= 1737][PID:33]	Group  320: [Group  202 (   1 seq)] with [Group  319 (   3 seq)]-->[Len= 1737][PID:33]	Group  321: [Group  320 (   4 seq)] with [Group  317 (   4 seq)]-->[Len= 2179][PID:33]	Group  322: [Group  321 (   8 seq)] with [Group  204 (   1 seq)]-->[Len= 2179][PID:33]	Group  323: [Group  114 (   1 seq)] with [Group   60 (   1 seq)]-->[Len=  831][PID:33]	Group  324: [Group  161 (   1 seq)] with [Group  323 (   2 seq)]-->[Len=  857][PID:33]	Group  325: [Group  180 (   1 seq)] with [Group  324 (   3 seq)]-->[Len=  857][PID:33]	Group  326: [Group  145 (   1 seq)] with [Group  325 (   4 seq)]-->[Len=  857][PID:33]	Group  327: [Group  326 (   5 seq)] with [Group  322 (   9 seq)]-->[Len= 2192][PID:33]	Group  328: [Group  179 (   1 seq)] with [Group   48 (   1 seq)]-->[Len=  854][PID:33]	Group  329: [Group  124 (   1 seq)] with [Group  328 (   2 seq)]-->[Len=  855][PID:33]	Group  330: [Group  329 (   3 seq)] with [Group  327 (  14 seq)]-->[Len= 2192][PID:33]	Group  331: [Group  205 (   1 seq)] with [Group   45 (   1 seq)]-->[Len=  842][PID:33]	Group  332: [Group  149 (   1 seq)] with [Group  331 (   2 seq)]-->[Len=  843][PID:33]	Group  333: [Group  332 (   3 seq)] with [Group  330 (  17 seq)]-->[Len= 2193][PID:33]	Group  334: [Group  196 (   1 seq)] with [Group  178 (   1 seq)]-->[Len=  861][PID:33]	Group  335: [Group  334 (   2 seq)] with [Group  333 (  20 seq)]-->[Len= 2199][PID:33]	Group  336: [Group   47 (   1 seq)] with [Group   46 (   1 seq)]-->[Len=  856][PID:33]	Group  337: [Group  164 (   1 seq)] with [Group   53 (   1 seq)]-->[Len=  851][PID:33]	Group  338: [Group  337 (   2 seq)] with [Group  336 (   2 seq)]-->[Len=  856][PID:33]	Group  339: [Group  122 (   1 seq)] with [Group  111 (   1 seq)]-->[Len=  839][PID:33]	Group  340: [Group  339 (   2 seq)] with [Group  338 (   4 seq)]-->[Len=  856][PID:33]	Group  341: [Group  201 (   1 seq)] with [Group  154 (   1 seq)]-->[Len=  851][PID:33]	Group  342: [Group  157 (   1 seq)] with [Group  341 (   2 seq)]-->[Len=  853][PID:33]	Group  343: [Group  342 (   3 seq)] with [Group   62 (   1 seq)]-->[Len=  853][PID:33]	Group  344: [Group  129 (   1 seq)] with [Group  343 (   4 seq)]-->[Len=  859][PID:33]	Group  345: [Group  128 (   1 seq)] with [Group   72 (   1 seq)]-->[Len=  858][PID:33]	Group  346: [Group  345 (   2 seq)] with [Group  344 (   5 seq)]-->[Len=  861][PID:33]	Group  347: [Group  346 (   7 seq)] with [Group  340 (   6 seq)]-->[Len=  861][PID:33]	Group  348: [Group  347 (  13 seq)] with [Group  335 (  22 seq)]-->[Len= 2205][PID:33]	Group  349: [Group  200 (   1 seq)] with [Group  348 (  35 seq)]-->[Len= 2205][PID:33]	Group  350: [Group   70 (   1 seq)] with [Group  349 (  36 seq)]-->[Len= 2205][PID:33]	Group  351: [Group  195 (   1 seq)] with [Group  139 (   1 seq)]-->[Len=  853][PID:33]	Group  352: [Group  351 (   2 seq)] with [Group  103 (   1 seq)]-->[Len=  853][PID:33]	Group  353: [Group  352 (   3 seq)] with [Group  350 (  37 seq)]-->[Len= 2208][PID:33]	Group  354: [Group  155 (   1 seq)] with [Group    4 (   1 seq)]-->[Len=  836][PID:33]	Group  355: [Group  237 (   1 seq)] with [Group   41 (   1 seq)]-->[Len=  836][PID:33]	Group  356: [Group  244 (   1 seq)] with [Group  355 (   2 seq)]-->[Len=  836][PID:33]	Group  357: [Group  356 (   3 seq)] with [Group  354 (   2 seq)]-->[Len=  836][PID:33]	Group  358: [Group  238 (   1 seq)] with [Group  226 (   1 seq)]-->[Len= 1317][PID:33]	Group  359: [Group  358 (   2 seq)] with [Group  109 (   1 seq)]-->[Len= 1335][PID:33]	Group  360: [Group  359 (   3 seq)] with [Group  357 (   5 seq)]-->[Len= 1335][PID:33]	Group  361: [Group  235 (   1 seq)] with [Group  360 (   8 seq)]-->[Len= 1335][PID:33]	Group  362: [Group  105 (   1 seq)] with [Group   50 (   1 seq)]-->[Len= 1728][PID:33]	Group  363: [Group  106 (   1 seq)] with [Group  362 (   2 seq)]-->[Len= 1728][PID:33]	Group  364: [Group  363 (   3 seq)] with [Group  361 (   9 seq)]-->[Len= 2227][PID:33]	Group  365: [Group   32 (   1 seq)] with [Group   30 (   1 seq)]-->[Len=  836][PID:33]	Group  366: [Group   42 (   1 seq)] with [Group  365 (   2 seq)]-->[Len=  839][PID:33]	Group  367: [Group  189 (   1 seq)] with [Group  366 (   3 seq)]-->[Len= 1754][PID:33]	Group  368: [Group  218 (   1 seq)] with [Group  367 (   4 seq)]-->[Len= 1754][PID:33]	Group  369: [Group  368 (   5 seq)] with [Group  364 (  12 seq)]-->[Len= 2302][PID:33]	Group  370: [Group  203 (   1 seq)] with [Group  156 (   1 seq)]-->[Len= 1268][PID:33]	Group  371: [Group  198 (   1 seq)] with [Group  370 (   2 seq)]-->[Len= 1268][PID:33]	Group  372: [Group  371 (   3 seq)] with [Group  144 (   1 seq)]-->[Len= 1268][PID:33]	Group  373: [Group  372 (   4 seq)] with [Group  369 (  17 seq)]-->[Len= 2467][PID:33]	Group  374: [Group  373 (  21 seq)] with [Group  353 (  40 seq)]-->[Len= 3363][PID:33]	Group  375: [Group  236 (   1 seq)] with [Group   11 (   1 seq)]-->[Len=  845][PID:33]	Group  376: [Group  116 (   1 seq)] with [Group  375 (   2 seq)]-->[Len=  845][PID:33]	Group  377: [Group   27 (   1 seq)] with [Group   12 (   1 seq)]-->[Len=  852][PID:33]	Group  378: [Group  377 (   2 seq)] with [Group  376 (   3 seq)]-->[Len=  852][PID:33]	Group  379: [Group  147 (   1 seq)] with [Group   52 (   1 seq)]-->[Len=  845][PID:33]	Group  380: [Group  186 (   1 seq)] with [Group  379 (   2 seq)]-->[Len=  845][PID:33]	Group  381: [Group  108 (   1 seq)] with [Group  380 (   3 seq)]-->[Len=  845][PID:33]	Group  382: [Group  381 (   4 seq)] with [Group  378 (   5 seq)]-->[Len=  852][PID:33]	Group  383: [Group  224 (   1 seq)] with [Group  382 (   9 seq)]-->[Len=  852][PID:33]	Group  384: [Group  215 (   1 seq)] with [Group   55 (   1 seq)]-->[Len=  845][PID:33]	Group  385: [Group  182 (   1 seq)] with [Group  130 (   1 seq)]-->[Len=  845][PID:33]	Group  386: [Group  385 (   2 seq)] with [Group  384 (   2 seq)]-->[Len=  845][PID:33]	Group  387: [Group  110 (   1 seq)] with [Group  386 (   4 seq)]-->[Len=  904][PID:33]	Group  388: [Group  387 (   5 seq)] with [Group  383 (  10 seq)]-->[Len=  911][PID:33]	Group  389: [Group   61 (   1 seq)] with [Group  388 (  15 seq)]-->[Len=  911][PID:33]	Group  390: [Group  228 (   1 seq)] with [Group  389 (  16 seq)]-->[Len=  927][PID:33]	Group  391: [Group  148 (   1 seq)] with [Group  390 (  17 seq)]-->[Len=  927][PID:33]	Group  392: [Group  190 (   1 seq)] with [Group   16 (   1 seq)]-->[Len= 1809][PID:33]	Group  393: [Group   63 (   1 seq)] with [Group  392 (   2 seq)]-->[Len= 1809][PID:33]	Group  394: [Group  240 (   1 seq)] with [Group  197 (   1 seq)]-->[Len=  816][PID:33]	Group  395: [Group  394 (   2 seq)] with [Group  393 (   3 seq)]-->[Len= 1810][PID:33]	Group  396: [Group   57 (   1 seq)] with [Group   51 (   1 seq)]-->[Len=  844][PID:33]	Group  397: [Group  185 (   1 seq)] with [Group  396 (   2 seq)]-->[Len=  878][PID:33]	Group  398: [Group  397 (   3 seq)] with [Group  395 (   5 seq)]-->[Len= 1843][PID:33]	Group  399: [Group  222 (   1 seq)] with [Group  398 (   8 seq)]-->[Len= 1843][PID:33]	Group  400: [Group  399 (   9 seq)] with [Group  391 (  18 seq)]-->[Len= 1918][PID:33]	Group  401: [Group  227 (   1 seq)] with [Group  172 (   1 seq)]-->[Len=  846][PID:33]	Group  402: [Group  401 (   2 seq)] with [Group  400 (  27 seq)]-->[Len= 1920][PID:33]	Group  403: [Group  242 (   1 seq)] with [Group  152 (   1 seq)]-->[Len=  818][PID:33]	Group  404: [Group  187 (   1 seq)] with [Group  403 (   2 seq)]-->[Len=  818][PID:33]	Group  405: [Group  210 (   1 seq)] with [Group  162 (   1 seq)]-->[Len=  820][PID:33]	Group  406: [Group  405 (   2 seq)] with [Group  404 (   3 seq)]-->[Len=  848][PID:33]	Group  407: [Group  406 (   5 seq)] with [Group  402 (  29 seq)]-->[Len= 1921][PID:33]	Group  408: [Group  245 (   1 seq)] with [Group   35 (   1 seq)]-->[Len=  849][PID:33]	Group  409: [Group  408 (   2 seq)] with [Group  407 (  34 seq)]-->[Len= 1932][PID:33]	Group  410: [Group  409 (  36 seq)] with [Group  374 (  61 seq)]-->[Len= 3603][PID:33]	Group  411: [Group   54 (   1 seq)] with [Group   39 (   1 seq)]-->[Len=  785][PID:33]	Group  412: [Group  133 (   1 seq)] with [Group  411 (   2 seq)]-->[Len=  847][PID:33]	Group  413: [Group  412 (   3 seq)] with [Group  410 (  97 seq)]-->[Len= 3606][PID:33]	Group  414: [Group  171 (   1 seq)] with [Group  168 (   1 seq)]-->[Len=  870][PID:33]	Group  415: [Group  414 (   2 seq)] with [Group  117 (   1 seq)]-->[Len=  870][PID:33]	Group  416: [Group  158 (   1 seq)] with [Group  415 (   3 seq)]-->[Len=  872][PID:33]	Group  417: [Group  416 (   4 seq)] with [Group    5 (   1 seq)]-->[Len=  872][PID:33]	Group  418: [Group    9 (   1 seq)] with [Group    7 (   1 seq)]-->[Len=  862][PID:33]	Group  419: [Group  217 (   1 seq)] with [Group  418 (   2 seq)]-->[Len=  862][PID:33]	Group  420: [Group   14 (   1 seq)] with [Group  419 (   3 seq)]-->[Len=  862][PID:33]	Group  421: [Group  150 (   1 seq)] with [Group  420 (   4 seq)]-->[Len=  862][PID:33]	Group  422: [Group  176 (   1 seq)] with [Group  174 (   1 seq)]-->[Len=  861][PID:33]	Group  423: [Group  175 (   1 seq)] with [Group  422 (   2 seq)]-->[Len=  864][PID:33]	Group  424: [Group  423 (   3 seq)] with [Group  421 (   5 seq)]-->[Len=  866][PID:33]	Group  425: [Group  207 (   1 seq)] with [Group  424 (   8 seq)]-->[Len=  897][PID:33]	Group  426: [Group  425 (   9 seq)] with [Group  417 (   5 seq)]-->[Len=  908][PID:33]	Group  427: [Group  123 (   1 seq)] with [Group  101 (   1 seq)]-->[Len=  852][PID:33]	Group  428: [Group  221 (   1 seq)] with [Group  427 (   2 seq)]-->[Len=  923][PID:33]	Group  429: [Group  428 (   3 seq)] with [Group  426 (  14 seq)]-->[Len=  963][PID:33]	Group  430: [Group  131 (   1 seq)] with [Group  429 (  17 seq)]-->[Len=  963][PID:33]	Group  431: [Group  247 (   1 seq)] with [Group  113 (   1 seq)]-->[Len=  836][PID:33]	Group  432: [Group  193 (   1 seq)] with [Group  192 (   1 seq)]-->[Len=  871][PID:33]	Group  433: [Group  432 (   2 seq)] with [Group  431 (   2 seq)]-->[Len=  871][PID:33]	Group  434: [Group  433 (   4 seq)] with [Group   67 (   1 seq)]-->[Len=  872][PID:33]	Group  435: [Group  163 (   1 seq)] with [Group  434 (   5 seq)]-->[Len=  872][PID:33]	Group  436: [Group  435 (   6 seq)] with [Group  430 (  18 seq)]-->[Len=  967][PID:33]	Group  437: [Group  230 (   1 seq)] with [Group  229 (   1 seq)]-->[Len=  891][PID:33]	Group  438: [Group  437 (   2 seq)] with [Group  436 (  24 seq)]-->[Len=  998][PID:33]	Group  439: [Group  213 (   1 seq)] with [Group  438 (  26 seq)]-->[Len=  999][PID:33]	Group  440: [Group  209 (   1 seq)] with [Group  107 (   1 seq)]-->[Len= 1747][PID:33]	Group  441: [Group  440 (   2 seq)] with [Group  439 (  27 seq)]-->[Len= 1887][PID:33]	Group  442: [Group   65 (   1 seq)] with [Group  441 (  29 seq)]-->[Len= 1887][PID:33]	Group  443: [Group  112 (   1 seq)] with [Group  442 (  30 seq)]-->[Len= 1891][PID:33]	Group  444: [Group  134 (   1 seq)] with [Group   15 (   1 seq)]-->[Len=  854][PID:33]	Group  445: [Group  444 (   2 seq)] with [Group  443 (  31 seq)]-->[Len= 1896][PID:33]	Group  446: [Group  199 (   1 seq)] with [Group   24 (   1 seq)]-->[Len=  848][PID:33]	Group  447: [Group  127 (   1 seq)] with [Group  446 (   2 seq)]-->[Len=  856][PID:33]	Group  448: [Group  104 (   1 seq)] with [Group  447 (   3 seq)]-->[Len=  859][PID:33]	Group  449: [Group  220 (   1 seq)] with [Group   69 (   1 seq)]-->[Len=  853][PID:33]	Group  450: [Group  449 (   2 seq)] with [Group  448 (   4 seq)]-->[Len=  863][PID:33]	Group  451: [Group  450 (   6 seq)] with [Group  445 (  33 seq)]-->[Len= 1909][PID:33]	Group  452: [Group  451 (  39 seq)] with [Group  413 ( 100 seq)]-->[Len= 4215][PID:33]	Group  453: [Group  126 (   1 seq)] with [Group  452 ( 139 seq)]-->[Len= 4225][PID:33]	Group  454: [Group  170 (   1 seq)] with [Group   23 (   1 seq)]-->[Len= 1081][PID:33]	Group  455: [Group  118 (   1 seq)] with [Group  454 (   2 seq)]-->[Len= 1081][PID:33]	Group  456: [Group  159 (   1 seq)] with [Group  455 (   3 seq)]-->[Len= 1090][PID:33]	Group  457: [Group  169 (   1 seq)] with [Group  456 (   4 seq)]-->[Len= 1109][PID:33]	Group  458: [Group  457 (   5 seq)] with [Group    6 (   1 seq)]-->[Len= 1124][PID:33]	Group  459: [Group   10 (   1 seq)] with [Group    8 (   1 seq)]-->[Len= 2639][PID:33]	Group  460: [Group  206 (   1 seq)] with [Group  459 (   2 seq)]-->[Len= 2651][PID:33]	Group  461: [Group  214 (   1 seq)] with [Group  102 (   1 seq)]-->[Len= 1715][PID:33]	Group  462: [Group  461 (   2 seq)] with [Group   13 (   1 seq)]-->[Len= 1740][PID:33]	Group  463: [Group  462 (   3 seq)] with [Group  460 (   3 seq)]-->[Len= 3505][PID:33]	Group  464: [Group  216 (   1 seq)] with [Group  463 (   6 seq)]-->[Len= 3744][PID:33]	Group  465: [Group   66 (   1 seq)] with [Group  464 (   7 seq)]-->[Len= 3748][PID:33]	Group  466: [Group  465 (   8 seq)] with [Group  458 (   6 seq)]-->[Len= 3849][PID:33]	Group  467: [Group  177 (   1 seq)] with [Group  173 (   1 seq)]-->[Len= 1115][PID:33]	Group  468: [Group  467 (   2 seq)] with [Group  466 (  14 seq)]-->[Len= 3962][PID:33]	Group  469: [Group  132 (   1 seq)] with [Group  468 (  16 seq)]-->[Len= 3965][PID:33]	Group  470: [Group  231 (   1 seq)] with [Group  151 (   1 seq)]-->[Len=  837][PID:33]	Group  471: [Group  470 (   2 seq)] with [Group  469 (  17 seq)]-->[Len= 3983][PID:33]	Group  472: [Group  219 (   1 seq)] with [Group   25 (   1 seq)]-->[Len=  877][PID:33]	Group  473: [Group  472 (   2 seq)] with [Group  471 (  19 seq)]-->[Len= 4003][PID:33]	Group  474: [Group  473 (  21 seq)] with [Group  453 ( 140 seq)]-->[Len= 7273][PID:33]	Group  475: [Group  246 (   1 seq)] with [Group   34 (   1 seq)]-->[Len=  770][PID:33]	Group  476: [Group  475 (   2 seq)] with [Group  474 ( 161 seq)]-->[Len= 7274][PID:33]	Group  477: [Group  208 (   1 seq)] with [Group  191 (   1 seq)]-->[Len=  738][PID:33]	Group  478: [Group  241 (   1 seq)] with [Group  477 (   2 seq)]-->[Len=  770][PID:33]	Group  479: [Group  223 (   1 seq)] with [Group  478 (   3 seq)]-->[Len=  774][PID:33]	Group  480: [Group  479 (   4 seq)] with [Group  100 (   1 seq)]-->[Len= 2673][PID:33]	Group  481: [Group  480 (   5 seq)] with [Group  476 ( 163 seq)]-->[Len= 9176][PID:33]	Group  482: [Group   59 (   1 seq)] with [Group  481 ( 168 seq)]-->[Len= 9188][PID:33]	Group  483: [Group  482 ( 169 seq)] with [Group  314 (   5 seq)]-->[Len= 9861][PID:33]	Group  484: [Group  483 ( 174 seq)] with [Group  310 (  55 seq)]-->[Len=13818][PID:33]	Group  485: [Group   44 (   1 seq)] with [Group   43 (   1 seq)]-->[Len=  749][PID:33]	Group  486: [Group  138 (   1 seq)] with [Group  136 (   1 seq)]-->[Len= 2503][PID:33]	Group  487: [Group  486 (   2 seq)] with [Group  485 (   2 seq)]-->[Len= 2520][PID:33]	Group  488: [Group  121 (   1 seq)] with [Group  487 (   4 seq)]-->[Len= 2543][PID:33]	Group  489: [Group  488 (   5 seq)] with [Group  484 ( 229 seq)]-->[Len=15117][PID:33]	Group  490: [Group  489 ( 234 seq)] with [Group  256 (   9 seq)]-->[Len=18479][PID:33]	Group  491: [Group  243 (   1 seq)] with [Group  188 (   1 seq)]-->[Len=  818][PID:33]	Group  492: [Group  491 (   2 seq)] with [Group  153 (   1 seq)]-->[Len=  821][PID:33]	Group  493: [Group  211 (   1 seq)] with [Group  492 (   3 seq)]-->[Len=  821][PID:33]	Group  494: [Group  493 (   4 seq)] with [Group  490 ( 243 seq)]-->[Len=18508][PID:33]	Group  495: [Group  125 (   1 seq)] with [Group  494 ( 247 seq)]-->[Len=18516][PID:33]
+
+
+!		[Final Evaluation][TOT= 9258][  0 %]!		[Final Evaluation][TOT= 9258][  1 %][EST. REMAINING TIME:   99 sec.]!		[Final Evaluation][TOT= 9258][  2 %][EST. REMAINING TIME:   49 sec.]!		[Final Evaluation][TOT= 9258][  3 %][EST. REMAINING TIME:  129 sec.]!		[Final Evaluation][TOT= 9258][  4 %][EST. REMAINING TIME:   96 sec.]!		[Final Evaluation][TOT= 9258][  5 %][EST. REMAINING TIME:   76 sec.]!		[Final Evaluation][TOT= 9258][  6 %][EST. REMAINING TIME:   62 sec.]!		[Final Evaluation][TOT= 9258][  7 %][EST. REMAINING TIME:   53 sec.]!		[Final Evaluation][TOT= 9258][  8 %][EST. REMAINING TIME:   46 sec.]!		[Final Evaluation][TOT= 9258][  9 %][EST. REMAINING TIME:   50 sec.]!		[Final Evaluation][TOT= 9258][ 10 %][EST. REMAINING TIME:   45 sec.]!		[Final Evaluation][TOT= 9258][ 11 %][EST. REMAINING TIME:   40 sec.]!		[Final Evaluation][TOT= 9258][ 12 %][EST. REMAINING TIME:   36 sec.]!		[Final Evaluation][TOT= 9258][ 13 %][EST. REMAINING TIME:   33 sec.]!		[Final Evaluation][TOT= 9258][ 14 %][EST. REMAINING TIME:   30 sec.]!		[Final Evaluation][TOT= 9258][ 15 %][EST. REMAINING TIME:   28 sec.]!		[Final Evaluation][TOT= 9258][ 16 %][EST. REMAINING TIME:   31 sec.]!		[Final Evaluation][TOT= 9258][ 17 %][EST. REMAINING TIME:   29 sec.]!		[Final Evaluation][TOT= 9258][ 18 %][EST. REMAINING TIME:   27 sec.]!		[Final Evaluation][TOT= 9258][ 19 %][EST. REMAINING TIME:   25 sec.]!		[Final Evaluation][TOT= 9258][ 20 %][EST. REMAINING TIME:   24 sec.]!		[Final Evaluation][TOT= 9258][ 21 %][EST. REMAINING TIME:   22 sec.]!		[Final Evaluation][TOT= 9258][ 22 %][EST. REMAINING TIME:   21 sec.]!		[Final Evaluation][TOT= 9258][ 23 %][EST. REMAINING TIME:   20 sec.]!		[Final Evaluation][TOT= 9258][ 24 %][EST. REMAINING TIME:   19 sec.]!		[Final Evaluation][TOT= 9258][ 25 %][EST. REMAINING TIME:   18 sec.]!		[Final Evaluation][TOT= 9258][ 26 %][EST. REMAINING TIME:   17 sec.]!		[Final Evaluation][TOT= 9258][ 27 %][EST. REMAINING TIME:   16 sec.]!		[Final Evaluation][TOT= 9258][ 28 %][EST. REMAINING TIME:   18 sec.]!		[Final Evaluation][TOT= 9258][ 29 %][EST. REMAINING TIME:   17 sec.]!		[Final Evaluation][TOT= 9258][ 30 %][EST. REMAINING TIME:   16 sec.]!		[Final Evaluation][TOT= 9258][ 31 %][EST. REMAINING TIME:   15 sec.]!		[Final Evaluation][TOT= 9258][ 32 %][EST. REMAINING TIME:   14 sec.]!		[Final Evaluation][TOT= 9258][ 33 %][EST. REMAINING TIME:   14 sec.]!		[Final Evaluation][TOT= 9258][ 34 %][EST. REMAINING TIME:   15 sec.]!		[Final Evaluation][TOT= 9258][ 35 %][EST. REMAINING TIME:   14 sec.]!		[Final Evaluation][TOT= 9258][ 36 %][EST. REMAINING TIME:   16 sec.]!		[Final Evaluation][TOT= 9258][ 37 %][EST. REMAINING TIME:   15 sec.]!		[Final Evaluation][TOT= 9258][ 38 %][EST. REMAINING TIME:   14 sec.]!		[Final Evaluation][TOT= 9258][ 39 %][EST. REMAINING TIME:   14 sec.]!		[Final Evaluation][TOT= 9258][ 40 %][EST. REMAINING TIME:   13 sec.]!		[Final Evaluation][TOT= 9258][ 41 %][EST. REMAINING TIME:   12 sec.]!		[Final Evaluation][TOT= 9258][ 42 %][EST. REMAINING TIME:   13 sec.]!		[Final Evaluation][TOT= 9258][ 43 %][EST. REMAINING TIME:   18 sec.]!		[Final Evaluation][TOT= 9258][ 44 %][EST. REMAINING TIME:   30 sec.]!		[Final Evaluation][TOT= 9258][ 45 %][EST. REMAINING TIME:   35 sec.]!		[Final Evaluation][TOT= 9258][ 46 %][EST. REMAINING TIME:   35 sec.]!		[Final Evaluation][TOT= 9258][ 47 %][EST. REMAINING TIME:   33 sec.]!		[Final Evaluation][TOT= 9258][ 48 %][EST. REMAINING TIME:   32 sec.]!		[Final Evaluation][TOT= 9258][ 49 %][EST. REMAINING TIME:   31 sec.]!		[Final Evaluation][TOT= 9258][ 50 %][EST. REMAINING TIME:   30 sec.]!		[Final Evaluation][TOT= 9258][ 51 %][EST. REMAINING TIME:   28 sec.]!		[Final Evaluation][TOT= 9258][ 52 %][EST. REMAINING TIME:   27 sec.]!		[Final Evaluation][TOT= 9258][ 53 %][EST. REMAINING TIME:   26 sec.]!		[Final Evaluation][TOT= 9258][ 54 %][EST. REMAINING TIME:   32 sec.]!		[Final Evaluation][TOT= 9258][ 55 %][EST. REMAINING TIME:   33 sec.]!		[Final Evaluation][TOT= 9258][ 56 %][EST. REMAINING TIME:   32 sec.]!		[Final Evaluation][TOT= 9258][ 57 %][EST. REMAINING TIME:   30 sec.]!		[Final Evaluation][TOT= 9258][ 58 %][EST. REMAINING TIME:   29 sec.]!		[Final Evaluation][TOT= 9258][ 59 %][EST. REMAINING TIME:   29 sec.]!		[Final Evaluation][TOT= 9258][ 60 %][EST. REMAINING TIME:   28 sec.]!		[Final Evaluation][TOT= 9258][ 61 %][EST. REMAINING TIME:   26 sec.]!		[Final Evaluation][TOT= 9258][ 62 %][EST. REMAINING TIME:   25 sec.]!		[Final Evaluation][TOT= 9258][ 63 %][EST. REMAINING TIME:   24 sec.]!		[Final Evaluation][TOT= 9258][ 64 %][EST. REMAINING TIME:   33 sec.]!		[Final Evaluation][TOT= 9258][ 65 %][EST. REMAINING TIME:   42 sec.]!		[Final Evaluation][TOT= 9258][ 66 %][EST. REMAINING TIME:   40 sec.]!		[Final Evaluation][TOT= 9258][ 67 %][EST. REMAINING TIME:   45 sec.]!		[Final Evaluation][TOT= 9258][ 68 %][EST. REMAINING TIME:   43 sec.]!		[Final Evaluation][TOT= 9258][ 69 %][EST. REMAINING TIME:   41 sec.]!		[Final Evaluation][TOT= 9258][ 70 %][EST. REMAINING TIME:   39 sec.]!		[Final Evaluation][TOT= 9258][ 71 %][EST. REMAINING TIME:   37 sec.]!		[Final Evaluation][TOT= 9258][ 72 %][EST. REMAINING TIME:   35 sec.]!		[Final Evaluation][TOT= 9258][ 73 %][EST. REMAINING TIME:   34 sec.]!		[Final Evaluation][TOT= 9258][ 74 %][EST. REMAINING TIME:   33 sec.]!		[Final Evaluation][TOT= 9258][ 75 %][EST. REMAINING TIME:   31 sec.]!		[Final Evaluation][TOT= 9258][ 76 %][EST. REMAINING TIME:   29 sec.]!		[Final Evaluation][TOT= 9258][ 77 %][EST. REMAINING TIME:   28 sec.]!		[Final Evaluation][TOT= 9258][ 78 %][EST. REMAINING TIME:   26 sec.]!		[Final Evaluation][TOT= 9258][ 79 %][EST. REMAINING TIME:   25 sec.]!		[Final Evaluation][TOT= 9258][ 80 %][EST. REMAINING TIME:   23 sec.]!		[Final Evaluation][TOT= 9258][ 81 %][EST. REMAINING TIME:   22 sec.]!		[Final Evaluation][TOT= 9258][ 82 %][EST. REMAINING TIME:   20 sec.]!		[Final Evaluation][TOT= 9258][ 83 %][EST. REMAINING TIME:   19 sec.]!		[Final Evaluation][TOT= 9258][ 84 %][EST. REMAINING TIME:   19 sec.]!		[Final Evaluation][TOT= 9258][ 85 %][EST. REMAINING TIME:   17 sec.]!		[Final Evaluation][TOT= 9258][ 86 %][EST. REMAINING TIME:   16 sec.]!		[Final Evaluation][TOT= 9258][ 87 %][EST. REMAINING TIME:   14 sec.]!		[Final Evaluation][TOT= 9258][ 88 %][EST. REMAINING TIME:   13 sec.]!		[Final Evaluation][TOT= 9258][ 89 %][EST. REMAINING TIME:   13 sec.]!		[Final Evaluation][TOT= 9258][ 90 %][EST. REMAINING TIME:   12 sec.]!		[Final Evaluation][TOT= 9258][ 91 %][EST. REMAINING TIME:   11 sec.]!		[Final Evaluation][TOT= 9258][ 92 %][EST. REMAINING TIME:   11 sec.]!		[Final Evaluation][TOT= 9258][ 93 %][EST. REMAINING TIME:    9 sec.]!		[Final Evaluation][TOT= 9258][ 94 %][EST. REMAINING TIME:    8 sec.]!		[Final Evaluation][TOT= 9258][ 95 %][EST. REMAINING TIME:    7 sec.]!		[Final Evaluation][TOT= 9258][ 96 %][EST. REMAINING TIME:    5 sec.]!		[Final Evaluation][TOT= 9258][ 97 %][EST. REMAINING TIME:    4 sec.]!		[Final Evaluation][TOT= 9258][ 98 %][EST. REMAINING TIME:    2 sec.]!		[Final Evaluation][TOT= 9258][ 99 %][EST. REMAINING TIME:    1 sec.]!		[Final Evaluation][TOT= 9258][100 %][ ELAPSED  TIME:  134 sec.]
+
+
+
+OUTPUT RESULTS
+	#### File Type= GUIDE_TREE      Format= newick          Name= seqs_all_filtered.dnd
+	#### File Type= MSA             Format= aln             Name= seqs_all_filtered.aln
+	#### File Type= MSA             Format= html            Name= seqs_all_filtered.html
+
+# Command Line: t_coffee seqs_all_filtered.fa  [PROGRAM:T-COFFEE]
+# T-COFFEE Memory Usage: Current= 120.220 Mb, Max= 2402.631 Mb
+# Results Produced with T-COFFEE Version_13.46.0.919e8c6b (2023-07-07 22:06:42 - Revision 29996c5 - Build 980)
+# T-COFFEE is available from http://www.tcoffee.org
+# Register on: https://groups.google.com/group/tcoffee/

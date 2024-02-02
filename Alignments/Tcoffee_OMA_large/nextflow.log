@@ -1,4 +1,4 @@
 N E X T F L O W  ~  version 23.10.1
-Launching `../Talign/main.nf` [berserk_church] DSL2 - revision: 2535515ff7
-Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1ulPJIfPvRQK98
-[7b/6c24e2] Submitted process > TALIGN:TCOFFEE_ALIGN_SEQ (1)
+Launching `../Talign/main.nf` [deadly_curran] DSL2 - revision: 2535515ff7
+Monitor the execution with Nextflow Tower using this URL: https://tower.nf/user/igor-trujnara/watch/1Q46CZt5uBXfYz
+[4b/912d4e] Submitted process > TALIGN:TCOFFEE_ALIGN_SEQ (1)
