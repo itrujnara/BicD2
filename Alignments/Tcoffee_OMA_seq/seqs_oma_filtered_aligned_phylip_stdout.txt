@@ -1,0 +1,2072 @@
+
+
+#  Analysing dataset 1
+
+ . This analysis requires at least 955 Mo of memory space.
+
+ . Computing pairwise distances...
+
+ . Warning: Triangular inequality violation.
+
+ . You may ask for triangular inequality correction using the '-q' option.
+
+ . Computing tree...
+
+ . Tree length is 9.818346.
+
+ . Performing SPR...
+
+ . Non parametric bootstrap analysis...
+
+  [.
+ . Tree length is 10.864966.
+.
+ . Tree length is 11.149612.
+.
+ . Tree length is 10.622026.
+.
+ . Tree length is 11.384733.
+.
+ . Tree length is 11.990390.
+.
+ . Tree length is 10.148962.
+.
+ . Tree length is 11.936811.
+.
+ . Tree length is 11.685366.
+.
+ . Tree length is 10.992198.
+.
+ . Tree length is 10.437941.
+.
+ . Tree length is 12.007819.
+.
+ . Tree length is 12.481285.
+.
+ . Tree length is 10.504913.
+.
+ . Tree length is 12.263040.
+.
+ . Tree length is 11.410337.
+.
+ . Tree length is 11.617867.
+.
+ . Tree length is 11.355240.
+.
+ . Tree length is 11.188415.
+.
+ . Tree length is 11.269088.
+.
+ . Tree length is 11.134410.
+] 20/1000
+  [.
+ . Tree length is 11.691218.
+.
+ . Tree length is 11.097080.
+.
+ . Tree length is 11.752171.
+.
+ . Tree length is 11.060422.
+.
+ . Tree length is 11.277445.
+.
+ . Tree length is 12.485424.
+.
+ . Tree length is 11.850248.
+.
+ . Tree length is 11.550867.
+.
+ . Tree length is 11.594151.
+.
+ . Tree length is 11.683194.
+.
+ . Tree length is 11.021538.
+.
+ . Tree length is 11.193977.
+.
+ . Tree length is 10.444831.
+.
+ . Tree length is 10.482564.
+.
+ . Tree length is 10.642350.
+.
+ . Tree length is 11.656714.
+.
+ . Tree length is 11.239916.
+.
+ . Tree length is 10.652628.
+.
+ . Tree length is 10.307393.
+.
+ . Tree length is 11.460082.
+] 40/1000
+  [.
+ . Tree length is 11.307616.
+.
+ . Tree length is 11.179049.
+.
+ . Tree length is 10.611751.
+.
+ . Tree length is 12.054663.
+.
+ . Tree length is 12.221903.
+.
+ . Tree length is 10.995364.
+.
+ . Tree length is 11.795659.
+.
+ . Tree length is 11.667399.
+.
+ . Tree length is 11.259025.
+.
+ . Tree length is 11.767084.
+.
+ . Tree length is 11.575543.
+.
+ . Tree length is 11.359076.
+.
+ . Tree length is 12.149546.
+.
+ . Tree length is 11.149052.
+.
+ . Tree length is 12.014783.
+.
+ . Tree length is 11.004040.
+.
+ . Tree length is 10.924048.
+.
+ . Tree length is 11.703473.
+.
+ . Tree length is 11.422115.
+.
+ . Tree length is 11.219634.
+] 60/1000
+  [.
+ . Tree length is 11.715063.
+.
+ . Tree length is 12.024656.
+.
+ . Tree length is 11.506530.
+.
+ . Tree length is 10.914430.
+.
+ . Tree length is 12.134270.
+.
+ . Tree length is 10.950466.
+.
+ . Tree length is 11.981488.
+.
+ . Tree length is 10.937675.
+.
+ . Tree length is 11.438184.
+.
+ . Tree length is 11.443718.
+.
+ . Tree length is 10.606713.
+.
+ . Tree length is 10.439224.
+.
+ . Tree length is 11.419581.
+.
+ . Tree length is 12.339926.
+.
+ . Tree length is 11.423884.
+.
+ . Tree length is 11.107910.
+.
+ . Tree length is 10.738817.
+.
+ . Tree length is 11.168909.
+.
+ . Tree length is 12.594933.
+.
+ . Tree length is 12.216817.
+] 80/1000
+  [.
+ . Tree length is 11.039432.
+.
+ . Tree length is 10.954206.
+.
+ . Tree length is 10.783017.
+.
+ . Tree length is 11.971893.
+.
+ . Tree length is 12.210932.
+.
+ . Tree length is 11.407815.
+.
+ . Tree length is 11.795485.
+.
+ . Tree length is 11.182011.
+.
+ . Tree length is 12.549096.
+.
+ . Tree length is 11.601049.
+.
+ . Tree length is 11.905210.
+.
+ . Tree length is 10.736046.
+.
+ . Tree length is 11.408703.
+.
+ . Tree length is 11.677090.
+.
+ . Tree length is 11.749202.
+.
+ . Tree length is 12.004274.
+.
+ . Tree length is 11.992299.
+.
+ . Tree length is 11.424677.
+.
+ . Tree length is 11.216236.
+.
+ . Tree length is 11.221427.
+] 100/1000
+  [.
+ . Tree length is 11.402242.
+.
+ . Tree length is 12.044862.
+.
+ . Tree length is 12.134613.
+.
+ . Tree length is 10.358993.
+.
+ . Tree length is 10.877640.
+.
+ . Tree length is 11.489394.
+.
+ . Tree length is 12.466741.
+.
+ . Tree length is 12.076450.
+.
+ . Tree length is 11.710690.
+.
+ . Tree length is 12.045295.
+.
+ . Tree length is 11.608812.
+.
+ . Tree length is 10.370395.
+.
+ . Tree length is 10.970616.
+.
+ . Tree length is 11.540920.
+.
+ . Tree length is 12.367403.
+.
+ . Tree length is 11.745580.
+.
+ . Tree length is 11.603018.
+.
+ . Tree length is 12.374569.
+.
+ . Tree length is 11.306543.
+.
+ . Tree length is 10.373001.
+] 120/1000
+  [.
+ . Tree length is 12.199304.
+.
+ . Tree length is 11.616503.
+.
+ . Tree length is 11.396112.
+.
+ . Tree length is 10.980407.
+.
+ . Tree length is 12.301587.
+.
+ . Tree length is 11.675729.
+.
+ . Tree length is 10.441888.
+.
+ . Tree length is 10.712385.
+.
+ . Tree length is 11.349108.
+.
+ . Tree length is 10.247610.
+.
+ . Tree length is 12.325840.
+.
+ . Tree length is 11.607421.
+.
+ . Tree length is 11.548268.
+.
+ . Tree length is 11.686602.
+.
+ . Tree length is 10.580925.
+.
+ . Tree length is 11.972168.
+.
+ . Tree length is 11.706602.
+.
+ . Tree length is 11.970877.
+.
+ . Tree length is 12.168403.
+.
+ . Tree length is 11.295466.
+] 140/1000
+  [.
+ . Tree length is 10.559260.
+.
+ . Tree length is 11.877617.
+.
+ . Tree length is 11.390865.
+.
+ . Tree length is 11.657210.
+.
+ . Tree length is 10.579659.
+.
+ . Tree length is 11.483444.
+.
+ . Tree length is 11.148050.
+.
+ . Tree length is 11.060710.
+.
+ . Tree length is 11.224080.
+.
+ . Tree length is 11.029811.
+.
+ . Tree length is 10.504482.
+.
+ . Tree length is 10.399669.
+.
+ . Tree length is 10.949419.
+.
+ . Tree length is 10.991544.
+.
+ . Tree length is 11.547717.
+.
+ . Tree length is 11.286791.
+.
+ . Tree length is 11.993730.
+.
+ . Tree length is 11.435859.
+.
+ . Tree length is 11.077722.
+.
+ . Tree length is 10.764746.
+] 160/1000
+  [.
+ . Tree length is 11.497723.
+.
+ . Tree length is 11.514142.
+.
+ . Tree length is 10.789191.
+.
+ . Tree length is 10.857161.
+.
+ . Tree length is 10.943233.
+.
+ . Tree length is 11.708330.
+.
+ . Tree length is 11.362903.
+.
+ . Tree length is 10.776518.
+.
+ . Tree length is 10.510162.
+.
+ . Tree length is 11.501974.
+.
+ . Tree length is 10.616600.
+.
+ . Tree length is 11.863498.
+.
+ . Tree length is 11.306706.
+.
+ . Tree length is 11.660927.
+.
+ . Tree length is 10.909619.
+.
+ . Tree length is 10.771693.
+.
+ . Tree length is 11.206905.
+.
+ . Tree length is 12.209659.
+.
+ . Tree length is 10.874176.
+.
+ . Tree length is 11.955662.
+] 180/1000
+  [.
+ . Tree length is 11.680771.
+.
+ . Tree length is 11.070386.
+.
+ . Tree length is 12.020267.
+.
+ . Tree length is 11.201293.
+.
+ . Tree length is 11.482724.
+.
+ . Tree length is 12.149168.
+.
+ . Tree length is 11.244163.
+.
+ . Tree length is 11.496062.
+.
+ . Tree length is 10.050214.
+.
+ . Tree length is 10.718792.
+.
+ . Tree length is 10.468536.
+.
+ . Tree length is 10.379956.
+.
+ . Tree length is 11.407338.
+.
+ . Tree length is 10.386847.
+.
+ . Tree length is 10.610212.
+.
+ . Tree length is 10.884077.
+.
+ . Tree length is 12.837859.
+.
+ . Tree length is 11.087091.
+.
+ . Tree length is 10.843984.
+.
+ . Tree length is 11.694990.
+] 200/1000
+  [.
+ . Tree length is 11.395416.
+.
+ . Tree length is 11.126855.
+.
+ . Tree length is 12.333221.
+.
+ . Tree length is 10.834906.
+.
+ . Tree length is 10.824494.
+.
+ . Tree length is 11.790766.
+.
+ . Tree length is 10.918861.
+.
+ . Tree length is 10.382320.
+.
+ . Tree length is 12.067709.
+.
+ . Tree length is 10.589099.
+.
+ . Tree length is 11.968540.
+.
+ . Tree length is 10.978644.
+.
+ . Tree length is 10.265422.
+.
+ . Tree length is 11.291709.
+.
+ . Tree length is 11.790910.
+.
+ . Tree length is 10.778213.
+.
+ . Tree length is 11.144677.
+.
+ . Tree length is 10.865155.
+.
+ . Tree length is 11.405181.
+.
+ . Tree length is 11.865310.
+] 220/1000
+  [.
+ . Tree length is 12.102399.
+.
+ . Tree length is 10.566586.
+.
+ . Tree length is 11.136041.
+.
+ . Tree length is 12.174017.
+.
+ . Tree length is 11.352625.
+.
+ . Tree length is 10.464365.
+.
+ . Tree length is 10.575559.
+.
+ . Tree length is 11.892968.
+.
+ . Tree length is 11.109314.
+.
+ . Tree length is 12.019787.
+.
+ . Tree length is 11.899409.
+.
+ . Tree length is 11.172551.
+.
+ . Tree length is 11.367888.
+.
+ . Tree length is 11.243671.
+.
+ . Tree length is 12.581303.
+.
+ . Tree length is 11.931021.
+.
+ . Tree length is 11.495659.
+.
+ . Tree length is 10.828156.
+.
+ . Tree length is 10.346092.
+.
+ . Tree length is 10.385797.
+] 240/1000
+  [.
+ . Tree length is 10.237886.
+.
+ . Tree length is 12.032406.
+.
+ . Tree length is 13.289169.
+.
+ . Tree length is 10.514675.
+.
+ . Tree length is 11.356623.
+.
+ . Tree length is 11.926783.
+.
+ . Tree length is 11.060733.
+.
+ . Tree length is 11.435286.
+.
+ . Tree length is 11.034465.
+.
+ . Tree length is 10.105811.
+.
+ . Tree length is 12.049636.
+.
+ . Tree length is 10.406296.
+.
+ . Tree length is 10.572008.
+.
+ . Tree length is 11.416351.
+.
+ . Tree length is 12.581714.
+.
+ . Tree length is 11.608021.
+.
+ . Tree length is 11.416510.
+.
+ . Tree length is 11.237970.
+.
+ . Tree length is 11.312635.
+.
+ . Tree length is 12.071007.
+] 260/1000
+  [.
+ . Tree length is 11.320314.
+.
+ . Tree length is 11.602300.
+.
+ . Tree length is 12.071071.
+.
+ . Tree length is 10.934489.
+.
+ . Tree length is 11.443668.
+.
+ . Tree length is 11.952447.
+.
+ . Tree length is 11.652856.
+.
+ . Tree length is 11.336996.
+.
+ . Tree length is 11.662494.
+.
+ . Tree length is 11.087717.
+.
+ . Tree length is 10.877435.
+.
+ . Tree length is 11.330527.
+.
+ . Tree length is 10.637346.
+.
+ . Tree length is 10.957958.
+.
+ . Tree length is 11.337923.
+.
+ . Tree length is 10.911526.
+.
+ . Tree length is 11.020793.
+.
+ . Tree length is 11.136079.
+.
+ . Tree length is 10.698786.
+.
+ . Tree length is 11.150025.
+] 280/1000
+  [.
+ . Tree length is 11.140254.
+.
+ . Tree length is 11.954746.
+.
+ . Tree length is 13.053413.
+.
+ . Tree length is 11.428677.
+.
+ . Tree length is 11.223388.
+.
+ . Tree length is 11.652195.
+.
+ . Tree length is 10.289961.
+.
+ . Tree length is 12.149660.
+.
+ . Tree length is 11.393465.
+.
+ . Tree length is 11.313191.
+.
+ . Tree length is 10.085365.
+.
+ . Tree length is 10.539714.
+.
+ . Tree length is 11.446078.
+.
+ . Tree length is 11.906630.
+.
+ . Tree length is 11.379742.
+.
+ . Tree length is 11.546265.
+.
+ . Tree length is 10.241841.
+.
+ . Tree length is 12.018790.
+.
+ . Tree length is 10.701992.
+.
+ . Tree length is 11.198612.
+] 300/1000
+  [.
+ . Tree length is 11.227450.
+.
+ . Tree length is 11.062172.
+.
+ . Tree length is 11.055603.
+.
+ . Tree length is 12.005921.
+.
+ . Tree length is 10.807068.
+.
+ . Tree length is 11.439260.
+.
+ . Tree length is 11.770470.
+.
+ . Tree length is 11.330229.
+.
+ . Tree length is 11.032658.
+.
+ . Tree length is 11.050848.
+.
+ . Tree length is 11.710619.
+.
+ . Tree length is 10.593243.
+.
+ . Tree length is 11.391560.
+.
+ . Tree length is 12.387089.
+.
+ . Tree length is 13.087750.
+.
+ . Tree length is 11.953101.
+.
+ . Tree length is 10.666677.
+.
+ . Tree length is 12.377052.
+.
+ . Tree length is 12.483679.
+.
+ . Tree length is 11.118273.
+] 320/1000
+  [.
+ . Tree length is 12.396071.
+.
+ . Tree length is 12.024539.
+.
+ . Tree length is 10.123322.
+.
+ . Tree length is 10.548802.
+.
+ . Tree length is 11.579198.
+.
+ . Tree length is 10.315443.
+.
+ . Tree length is 11.419223.
+.
+ . Tree length is 11.793014.
+.
+ . Tree length is 11.091086.
+.
+ . Tree length is 11.879517.
+.
+ . Tree length is 10.731601.
+.
+ . Tree length is 11.134835.
+.
+ . Tree length is 11.191310.
+.
+ . Tree length is 11.262075.
+.
+ . Tree length is 10.465911.
+.
+ . Tree length is 10.819461.
+.
+ . Tree length is 11.088190.
+.
+ . Tree length is 11.667338.
+.
+ . Tree length is 11.538094.
+.
+ . Tree length is 11.449504.
+] 340/1000
+  [.
+ . Tree length is 11.713728.
+.
+ . Tree length is 11.842249.
+.
+ . Tree length is 10.880095.
+.
+ . Tree length is 10.184094.
+.
+ . Tree length is 12.907735.
+.
+ . Tree length is 11.458694.
+.
+ . Tree length is 12.556928.
+.
+ . Tree length is 9.859195.
+.
+ . Tree length is 10.720401.
+.
+ . Tree length is 11.071412.
+.
+ . Tree length is 11.152943.
+.
+ . Tree length is 11.086693.
+.
+ . Tree length is 11.913954.
+.
+ . Tree length is 11.326056.
+.
+ . Tree length is 12.270227.
+.
+ . Tree length is 12.023326.
+.
+ . Tree length is 10.351479.
+.
+ . Tree length is 11.812687.
+.
+ . Tree length is 11.007534.
+.
+ . Tree length is 11.367583.
+] 360/1000
+  [.
+ . Tree length is 12.001733.
+.
+ . Tree length is 11.020499.
+.
+ . Tree length is 12.392996.
+.
+ . Tree length is 11.124848.
+.
+ . Tree length is 11.351669.
+.
+ . Tree length is 10.919069.
+.
+ . Tree length is 11.993171.
+.
+ . Tree length is 10.961270.
+.
+ . Tree length is 11.858185.
+.
+ . Tree length is 11.583788.
+.
+ . Tree length is 10.982225.
+.
+ . Tree length is 10.834104.
+.
+ . Tree length is 11.633914.
+.
+ . Tree length is 11.734267.
+.
+ . Tree length is 12.497509.
+.
+ . Tree length is 11.136424.
+.
+ . Tree length is 11.282387.
+.
+ . Tree length is 11.477610.
+.
+ . Tree length is 11.503794.
+.
+ . Tree length is 11.010141.
+] 380/1000
+  [.
+ . Tree length is 11.404163.
+.
+ . Tree length is 12.113168.
+.
+ . Tree length is 10.936419.
+.
+ . Tree length is 11.400705.
+.
+ . Tree length is 11.082222.
+.
+ . Tree length is 11.883811.
+.
+ . Tree length is 11.382261.
+.
+ . Tree length is 12.008610.
+.
+ . Tree length is 11.419221.
+.
+ . Tree length is 11.009120.
+.
+ . Tree length is 12.076144.
+.
+ . Tree length is 10.747552.
+.
+ . Tree length is 11.074824.
+.
+ . Tree length is 11.586575.
+.
+ . Tree length is 10.887385.
+.
+ . Tree length is 11.672814.
+.
+ . Tree length is 11.641074.
+.
+ . Tree length is 12.072007.
+.
+ . Tree length is 10.787757.
+.
+ . Tree length is 10.653386.
+] 400/1000
+  [.
+ . Tree length is 11.253940.
+.
+ . Tree length is 12.616630.
+.
+ . Tree length is 12.080790.
+.
+ . Tree length is 11.641798.
+.
+ . Tree length is 11.645358.
+.
+ . Tree length is 11.577365.
+.
+ . Tree length is 11.620041.
+.
+ . Tree length is 11.024820.
+.
+ . Tree length is 11.218801.
+.
+ . Tree length is 10.287116.
+.
+ . Tree length is 10.954903.
+.
+ . Tree length is 11.384577.
+.
+ . Tree length is 11.736438.
+.
+ . Tree length is 10.683196.
+.
+ . Tree length is 10.878676.
+.
+ . Tree length is 10.928075.
+.
+ . Tree length is 11.289702.
+.
+ . Tree length is 12.277690.
+.
+ . Tree length is 11.170575.
+.
+ . Tree length is 10.853823.
+] 420/1000
+  [.
+ . Tree length is 10.215160.
+.
+ . Tree length is 12.047862.
+.
+ . Tree length is 10.646240.
+.
+ . Tree length is 10.419824.
+.
+ . Tree length is 10.331173.
+.
+ . Tree length is 11.567111.
+.
+ . Tree length is 11.217161.
+.
+ . Tree length is 10.998115.
+.
+ . Tree length is 11.545084.
+.
+ . Tree length is 10.229843.
+.
+ . Tree length is 12.203808.
+.
+ . Tree length is 12.873135.
+.
+ . Tree length is 11.415377.
+.
+ . Tree length is 10.476089.
+.
+ . Tree length is 11.844156.
+.
+ . Tree length is 11.132108.
+.
+ . Tree length is 11.231181.
+.
+ . Tree length is 12.209045.
+.
+ . Tree length is 10.897758.
+.
+ . Tree length is 12.208123.
+] 440/1000
+  [.
+ . Tree length is 11.219111.
+.
+ . Tree length is 11.233411.
+.
+ . Tree length is 10.912416.
+.
+ . Tree length is 10.902410.
+.
+ . Tree length is 12.217188.
+.
+ . Tree length is 10.287312.
+.
+ . Tree length is 11.897697.
+.
+ . Tree length is 11.147708.
+.
+ . Tree length is 12.018016.
+.
+ . Tree length is 11.654458.
+.
+ . Tree length is 10.918839.
+.
+ . Tree length is 11.438647.
+.
+ . Tree length is 10.904178.
+.
+ . Tree length is 11.649484.
+.
+ . Tree length is 10.613250.
+.
+ . Tree length is 11.399752.
+.
+ . Tree length is 10.741932.
+.
+ . Tree length is 12.132922.
+.
+ . Tree length is 11.047875.
+.
+ . Tree length is 11.517129.
+] 460/1000
+  [.
+ . Tree length is 10.699281.
+.
+ . Tree length is 10.211934.
+.
+ . Tree length is 10.810906.
+.
+ . Tree length is 11.342858.
+.
+ . Tree length is 11.850102.
+.
+ . Tree length is 10.202211.
+.
+ . Tree length is 11.912920.
+.
+ . Tree length is 11.310718.
+.
+ . Tree length is 11.340105.
+.
+ . Tree length is 11.200314.
+.
+ . Tree length is 12.015221.
+.
+ . Tree length is 11.189611.
+.
+ . Tree length is 11.455244.
+.
+ . Tree length is 11.625749.
+.
+ . Tree length is 10.556397.
+.
+ . Tree length is 10.543085.
+.
+ . Tree length is 11.056578.
+.
+ . Tree length is 10.634750.
+.
+ . Tree length is 11.792773.
+.
+ . Tree length is 11.225008.
+] 480/1000
+  [.
+ . Tree length is 12.652525.
+.
+ . Tree length is 10.336133.
+.
+ . Tree length is 11.562408.
+.
+ . Tree length is 12.103225.
+.
+ . Tree length is 13.284624.
+.
+ . Tree length is 12.214390.
+.
+ . Tree length is 11.007848.
+.
+ . Tree length is 10.594218.
+.
+ . Tree length is 10.288878.
+.
+ . Tree length is 11.054818.
+.
+ . Tree length is 11.376641.
+.
+ . Tree length is 11.436229.
+.
+ . Tree length is 11.383987.
+.
+ . Tree length is 9.539400.
+.
+ . Tree length is 11.348763.
+.
+ . Tree length is 10.969526.
+.
+ . Tree length is 10.490643.
+.
+ . Tree length is 12.170991.
+.
+ . Tree length is 10.936049.
+.
+ . Tree length is 11.429675.
+] 500/1000
+  [.
+ . Tree length is 12.094975.
+.
+ . Tree length is 10.412868.
+.
+ . Tree length is 11.142760.
+.
+ . Tree length is 11.366489.
+.
+ . Tree length is 11.209343.
+.
+ . Tree length is 11.505352.
+.
+ . Tree length is 12.038058.
+.
+ . Tree length is 11.146870.
+.
+ . Tree length is 11.445067.
+.
+ . Tree length is 10.848509.
+.
+ . Tree length is 12.061297.
+.
+ . Tree length is 10.516413.
+.
+ . Tree length is 10.603682.
+.
+ . Tree length is 10.909521.
+.
+ . Tree length is 12.442444.
+.
+ . Tree length is 10.899683.
+.
+ . Tree length is 11.495906.
+.
+ . Tree length is 11.188994.
+.
+ . Tree length is 11.638961.
+.
+ . Tree length is 11.148687.
+] 520/1000
+  [.
+ . Tree length is 10.646626.
+.
+ . Tree length is 9.828923.
+.
+ . Tree length is 10.295806.
+.
+ . Tree length is 11.247183.
+.
+ . Tree length is 11.714255.
+.
+ . Tree length is 12.518755.
+.
+ . Tree length is 12.384168.
+.
+ . Tree length is 11.686545.
+.
+ . Tree length is 10.657572.
+.
+ . Tree length is 11.612114.
+.
+ . Tree length is 10.386813.
+.
+ . Tree length is 12.479780.
+.
+ . Tree length is 11.101943.
+.
+ . Tree length is 11.032315.
+.
+ . Tree length is 11.580352.
+.
+ . Tree length is 11.429178.
+.
+ . Tree length is 10.484336.
+.
+ . Tree length is 10.509472.
+.
+ . Tree length is 11.611749.
+.
+ . Tree length is 11.425002.
+] 540/1000
+  [.
+ . Tree length is 12.257672.
+.
+ . Tree length is 11.761796.
+.
+ . Tree length is 10.303770.
+.
+ . Tree length is 11.559868.
+.
+ . Tree length is 11.877034.
+.
+ . Tree length is 10.611380.
+.
+ . Tree length is 9.873503.
+.
+ . Tree length is 10.514437.
+.
+ . Tree length is 11.930956.
+.
+ . Tree length is 10.501509.
+.
+ . Tree length is 10.667285.
+.
+ . Tree length is 11.882216.
+.
+ . Tree length is 11.816349.
+.
+ . Tree length is 11.423121.
+.
+ . Tree length is 11.378405.
+.
+ . Tree length is 12.216596.
+.
+ . Tree length is 11.290401.
+.
+ . Tree length is 11.575101.
+.
+ . Tree length is 11.704094.
+.
+ . Tree length is 11.088139.
+] 560/1000
+  [.
+ . Tree length is 11.440095.
+.
+ . Tree length is 12.129488.
+.
+ . Tree length is 12.613327.
+.
+ . Tree length is 10.607263.
+.
+ . Tree length is 13.327924.
+.
+ . Tree length is 11.291370.
+.
+ . Tree length is 11.657595.
+.
+ . Tree length is 11.579118.
+.
+ . Tree length is 11.536167.
+.
+ . Tree length is 12.022678.
+.
+ . Tree length is 11.643855.
+.
+ . Tree length is 11.468115.
+.
+ . Tree length is 10.952902.
+.
+ . Tree length is 10.060488.
+.
+ . Tree length is 11.757697.
+.
+ . Tree length is 12.668755.
+.
+ . Tree length is 11.292677.
+.
+ . Tree length is 11.895503.
+.
+ . Tree length is 11.435673.
+.
+ . Tree length is 12.253357.
+] 580/1000
+  [.
+ . Tree length is 12.013823.
+.
+ . Tree length is 12.155335.
+.
+ . Tree length is 11.979235.
+.
+ . Tree length is 11.714957.
+.
+ . Tree length is 11.164957.
+.
+ . Tree length is 12.353215.
+.
+ . Tree length is 11.360412.
+.
+ . Tree length is 11.187736.
+.
+ . Tree length is 9.944810.
+.
+ . Tree length is 10.966566.
+.
+ . Tree length is 10.510264.
+.
+ . Tree length is 9.993095.
+.
+ . Tree length is 12.421094.
+.
+ . Tree length is 11.550832.
+.
+ . Tree length is 11.459945.
+.
+ . Tree length is 11.036037.
+.
+ . Tree length is 10.958132.
+.
+ . Tree length is 11.302967.
+.
+ . Tree length is 10.647409.
+.
+ . Tree length is 11.145357.
+] 600/1000
+  [.
+ . Tree length is 10.851696.
+.
+ . Tree length is 12.485763.
+.
+ . Tree length is 11.647303.
+.
+ . Tree length is 12.005487.
+.
+ . Tree length is 12.029525.
+.
+ . Tree length is 10.881763.
+.
+ . Tree length is 11.691891.
+.
+ . Tree length is 11.617759.
+.
+ . Tree length is 11.490142.
+.
+ . Tree length is 11.710714.
+.
+ . Tree length is 11.036528.
+.
+ . Tree length is 10.683477.
+.
+ . Tree length is 11.590052.
+.
+ . Tree length is 11.900894.
+.
+ . Tree length is 11.533992.
+.
+ . Tree length is 11.999350.
+.
+ . Tree length is 10.576082.
+.
+ . Tree length is 12.888823.
+.
+ . Tree length is 11.603739.
+.
+ . Tree length is 11.306326.
+] 620/1000
+  [.
+ . Tree length is 12.026661.
+.
+ . Tree length is 11.973999.
+.
+ . Tree length is 11.036994.
+.
+ . Tree length is 12.013841.
+.
+ . Tree length is 11.526024.
+.
+ . Tree length is 12.302824.
+.
+ . Tree length is 11.823828.
+.
+ . Tree length is 11.488137.
+.
+ . Tree length is 11.110324.
+.
+ . Tree length is 12.121142.
+.
+ . Tree length is 12.168445.
+.
+ . Tree length is 11.602119.
+.
+ . Tree length is 11.191221.
+.
+ . Tree length is 11.876914.
+.
+ . Tree length is 10.696885.
+.
+ . Tree length is 11.895193.
+.
+ . Tree length is 11.090362.
+.
+ . Tree length is 10.934427.
+.
+ . Tree length is 11.616740.
+.
+ . Tree length is 10.850023.
+] 640/1000
+  [.
+ . Tree length is 10.170331.
+.
+ . Tree length is 10.979118.
+.
+ . Tree length is 10.224906.
+.
+ . Tree length is 11.720298.
+.
+ . Tree length is 11.273660.
+.
+ . Tree length is 11.270996.
+.
+ . Tree length is 11.654115.
+.
+ . Tree length is 11.154644.
+.
+ . Tree length is 11.450990.
+.
+ . Tree length is 11.482795.
+.
+ . Tree length is 11.508324.
+.
+ . Tree length is 11.373717.
+.
+ . Tree length is 11.183522.
+.
+ . Tree length is 10.710388.
+.
+ . Tree length is 10.713026.
+.
+ . Tree length is 11.160909.
+.
+ . Tree length is 11.374362.
+.
+ . Tree length is 11.005656.
+.
+ . Tree length is 10.491437.
+.
+ . Tree length is 12.413802.
+] 660/1000
+  [.
+ . Tree length is 11.573057.
+.
+ . Tree length is 11.249529.
+.
+ . Tree length is 11.925594.
+.
+ . Tree length is 11.518315.
+.
+ . Tree length is 11.985628.
+.
+ . Tree length is 11.776283.
+.
+ . Tree length is 10.967653.
+.
+ . Tree length is 11.370775.
+.
+ . Tree length is 11.576564.
+.
+ . Tree length is 11.246353.
+.
+ . Tree length is 12.678082.
+.
+ . Tree length is 11.158431.
+.
+ . Tree length is 11.376486.
+.
+ . Tree length is 12.882179.
+.
+ . Tree length is 10.501666.
+.
+ . Tree length is 11.524104.
+.
+ . Tree length is 12.082217.
+.
+ . Tree length is 11.480150.
+.
+ . Tree length is 12.037597.
+.
+ . Tree length is 12.331851.
+] 680/1000
+  [.
+ . Tree length is 11.008543.
+.
+ . Tree length is 11.768405.
+.
+ . Tree length is 10.697705.
+.
+ . Tree length is 11.293226.
+.
+ . Tree length is 11.334091.
+.
+ . Tree length is 11.666127.
+.
+ . Tree length is 11.251117.
+.
+ . Tree length is 10.261729.
+.
+ . Tree length is 11.782060.
+.
+ . Tree length is 11.172523.
+.
+ . Tree length is 10.701591.
+.
+ . Tree length is 11.796530.
+.
+ . Tree length is 9.777163.
+.
+ . Tree length is 11.381890.
+.
+ . Tree length is 11.730972.
+.
+ . Tree length is 11.556628.
+.
+ . Tree length is 12.395933.
+.
+ . Tree length is 11.128634.
+.
+ . Tree length is 10.732535.
+.
+ . Tree length is 11.971432.
+] 700/1000
+  [.
+ . Tree length is 12.427916.
+.
+ . Tree length is 10.674102.
+.
+ . Tree length is 10.955187.
+.
+ . Tree length is 11.978427.
+.
+ . Tree length is 10.919228.
+.
+ . Tree length is 12.137580.
+.
+ . Tree length is 11.480285.
+.
+ . Tree length is 10.811429.
+.
+ . Tree length is 10.222126.
+.
+ . Tree length is 11.279826.
+.
+ . Tree length is 10.662138.
+.
+ . Tree length is 10.917410.
+.
+ . Tree length is 10.492542.
+.
+ . Tree length is 12.169410.
+.
+ . Tree length is 11.780018.
+.
+ . Tree length is 11.043493.
+.
+ . Tree length is 12.225811.
+.
+ . Tree length is 10.863991.
+.
+ . Tree length is 11.634330.
+.
+ . Tree length is 11.706178.
+] 720/1000
+  [.
+ . Tree length is 11.715125.
+.
+ . Tree length is 11.329903.
+.
+ . Tree length is 11.425572.
+.
+ . Tree length is 11.255221.
+.
+ . Tree length is 10.573221.
+.
+ . Tree length is 11.690883.
+.
+ . Tree length is 10.803820.
+.
+ . Tree length is 10.542116.
+.
+ . Tree length is 10.616158.
+.
+ . Tree length is 12.114899.
+.
+ . Tree length is 11.578803.
+.
+ . Tree length is 11.687418.
+.
+ . Tree length is 11.801524.
+.
+ . Tree length is 11.015129.
+.
+ . Tree length is 10.764335.
+.
+ . Tree length is 10.673434.
+.
+ . Tree length is 11.185946.
+.
+ . Tree length is 10.988100.
+.
+ . Tree length is 12.313321.
+.
+ . Tree length is 11.577926.
+] 740/1000
+  [.
+ . Tree length is 11.210132.
+.
+ . Tree length is 12.382411.
+.
+ . Tree length is 11.464077.
+.
+ . Tree length is 10.765896.
+.
+ . Tree length is 11.128478.
+.
+ . Tree length is 10.671916.
+.
+ . Tree length is 11.517483.
+.
+ . Tree length is 11.282477.
+.
+ . Tree length is 11.820334.
+.
+ . Tree length is 11.606771.
+.
+ . Tree length is 11.080225.
+.
+ . Tree length is 10.586408.
+.
+ . Tree length is 11.719291.
+.
+ . Tree length is 11.092782.
+.
+ . Tree length is 10.895722.
+.
+ . Tree length is 11.323412.
+.
+ . Tree length is 10.111315.
+.
+ . Tree length is 10.644632.
+.
+ . Tree length is 11.675816.
+.
+ . Tree length is 10.751204.
+] 760/1000
+  [.
+ . Tree length is 10.906291.
+.
+ . Tree length is 10.974721.
+.
+ . Tree length is 11.506319.
+.
+ . Tree length is 11.313393.
+.
+ . Tree length is 10.054725.
+.
+ . Tree length is 12.032650.
+.
+ . Tree length is 10.566623.
+.
+ . Tree length is 11.300468.
+.
+ . Tree length is 9.838860.
+.
+ . Tree length is 12.985221.
+.
+ . Tree length is 12.151522.
+.
+ . Tree length is 11.222166.
+.
+ . Tree length is 10.609348.
+.
+ . Tree length is 12.039810.
+.
+ . Tree length is 12.114823.
+.
+ . Tree length is 11.201478.
+.
+ . Tree length is 10.714172.
+.
+ . Tree length is 11.443567.
+.
+ . Tree length is 10.935767.
+.
+ . Tree length is 12.454077.
+] 780/1000
+  [.
+ . Tree length is 11.850891.
+.
+ . Tree length is 9.601802.
+.
+ . Tree length is 11.154535.
+.
+ . Tree length is 12.192576.
+.
+ . Tree length is 10.601264.
+.
+ . Tree length is 11.165901.
+.
+ . Tree length is 10.248845.
+.
+ . Tree length is 12.180679.
+.
+ . Tree length is 12.015926.
+.
+ . Tree length is 10.761232.
+.
+ . Tree length is 10.322519.
+.
+ . Tree length is 11.396795.
+.
+ . Tree length is 11.474068.
+.
+ . Tree length is 10.419646.
+.
+ . Tree length is 12.036254.
+.
+ . Tree length is 11.514323.
+.
+ . Tree length is 11.729085.
+.
+ . Tree length is 12.724177.
+.
+ . Tree length is 10.836933.
+.
+ . Tree length is 11.354898.
+] 800/1000
+  [.
+ . Tree length is 10.263685.
+.
+ . Tree length is 11.669613.
+.
+ . Tree length is 12.500927.
+.
+ . Tree length is 10.936065.
+.
+ . Tree length is 10.890354.
+.
+ . Tree length is 9.852649.
+.
+ . Tree length is 11.330634.
+.
+ . Tree length is 10.787796.
+.
+ . Tree length is 11.416900.
+.
+ . Tree length is 11.827512.
+.
+ . Tree length is 11.746344.
+.
+ . Tree length is 10.945279.
+.
+ . Tree length is 11.748246.
+.
+ . Tree length is 11.611194.
+.
+ . Tree length is 12.652623.
+.
+ . Tree length is 11.466649.
+.
+ . Tree length is 11.734344.
+.
+ . Tree length is 11.019323.
+.
+ . Tree length is 12.037663.
+.
+ . Tree length is 10.170777.
+] 820/1000
+  [.
+ . Tree length is 12.139871.
+.
+ . Tree length is 10.760889.
+.
+ . Tree length is 11.329436.
+.
+ . Tree length is 11.070332.
+.
+ . Tree length is 11.429331.
+.
+ . Tree length is 10.247526.
+.
+ . Tree length is 12.046213.
+.
+ . Tree length is 11.296103.
+.
+ . Tree length is 11.949203.
+.
+ . Tree length is 11.455042.
+.
+ . Tree length is 11.036819.
+.
+ . Tree length is 11.536367.
+.
+ . Tree length is 10.837988.
+.
+ . Tree length is 11.850785.
+.
+ . Tree length is 12.055492.
+.
+ . Tree length is 10.799270.
+.
+ . Tree length is 10.785488.
+.
+ . Tree length is 10.887693.
+.
+ . Tree length is 11.397203.
+.
+ . Tree length is 10.934214.
+] 840/1000
+  [.
+ . Tree length is 11.399793.
+.
+ . Tree length is 10.809315.
+.
+ . Tree length is 11.266640.
+.
+ . Tree length is 11.242602.
+.
+ . Tree length is 10.766343.
+.
+ . Tree length is 11.886229.
+.
+ . Tree length is 11.328499.
+.
+ . Tree length is 12.024832.
+.
+ . Tree length is 11.296462.
+.
+ . Tree length is 11.209723.
+.
+ . Tree length is 11.685381.
+.
+ . Tree length is 11.028105.
+.
+ . Tree length is 11.719470.
+.
+ . Tree length is 11.833138.
+.
+ . Tree length is 11.378729.
+.
+ . Tree length is 11.989957.
+.
+ . Tree length is 11.648291.
+.
+ . Tree length is 12.551960.
+.
+ . Tree length is 11.517272.
+.
+ . Tree length is 11.100740.
+] 860/1000
+  [.
+ . Tree length is 11.053443.
+.
+ . Tree length is 11.313160.
+.
+ . Tree length is 11.725471.
+.
+ . Tree length is 10.425057.
+.
+ . Tree length is 10.493057.
+.
+ . Tree length is 10.594597.
+.
+ . Tree length is 11.639599.
+.
+ . Tree length is 12.073167.
+.
+ . Tree length is 11.223212.
+.
+ . Tree length is 10.074871.
+.
+ . Tree length is 10.715971.
+.
+ . Tree length is 11.994857.
+.
+ . Tree length is 12.255786.
+.
+ . Tree length is 10.955357.
+.
+ . Tree length is 10.906519.
+.
+ . Tree length is 11.066979.
+.
+ . Tree length is 11.385812.
+.
+ . Tree length is 10.059670.
+.
+ . Tree length is 11.078339.
+.
+ . Tree length is 12.236043.
+] 880/1000
+  [.
+ . Tree length is 12.097773.
+.
+ . Tree length is 10.605665.
+.
+ . Tree length is 11.805627.
+.
+ . Tree length is 11.671482.
+.
+ . Tree length is 11.779327.
+.
+ . Tree length is 11.276743.
+.
+ . Tree length is 11.038253.
+.
+ . Tree length is 11.591316.
+.
+ . Tree length is 10.870467.
+.
+ . Tree length is 12.003954.
+.
+ . Tree length is 12.474045.
+.
+ . Tree length is 10.940314.
+.
+ . Tree length is 11.542172.
+.
+ . Tree length is 11.843447.
+.
+ . Tree length is 10.587531.
+.
+ . Tree length is 10.707315.
+.
+ . Tree length is 10.504058.
+.
+ . Tree length is 11.729540.
+.
+ . Tree length is 11.652830.
+.
+ . Tree length is 12.031522.
+] 900/1000
+  [.
+ . Tree length is 11.390848.
+.
+ . Tree length is 10.424513.
+.
+ . Tree length is 10.977098.
+.
+ . Tree length is 10.448416.
+.
+ . Tree length is 10.740186.
+.
+ . Tree length is 11.026465.
+.
+ . Tree length is 11.475193.
+.
+ . Tree length is 11.723540.
+.
+ . Tree length is 11.407504.
+.
+ . Tree length is 10.295787.
+.
+ . Tree length is 11.371801.
+.
+ . Tree length is 11.974478.
+.
+ . Tree length is 9.866073.
+.
+ . Tree length is 11.162983.
+.
+ . Tree length is 11.358232.
+.
+ . Tree length is 10.971365.
+.
+ . Tree length is 11.477495.
+.
+ . Tree length is 11.899208.
+.
+ . Tree length is 11.864289.
+.
+ . Tree length is 11.341385.
+] 920/1000
+  [.
+ . Tree length is 10.684380.
+.
+ . Tree length is 10.754598.
+.
+ . Tree length is 11.672421.
+.
+ . Tree length is 12.293942.
+.
+ . Tree length is 11.294521.
+.
+ . Tree length is 11.475277.
+.
+ . Tree length is 11.783643.
+.
+ . Tree length is 11.320466.
+.
+ . Tree length is 11.848656.
+.
+ . Tree length is 10.832748.
+.
+ . Tree length is 11.849384.
+.
+ . Tree length is 10.522749.
+.
+ . Tree length is 11.680999.
+.
+ . Tree length is 11.365283.
+.
+ . Tree length is 11.055298.
+.
+ . Tree length is 11.604607.
+.
+ . Tree length is 11.371922.
+.
+ . Tree length is 11.799616.
+.
+ . Tree length is 11.199583.
+.
+ . Tree length is 10.504674.
+] 940/1000
+  [.
+ . Tree length is 11.623042.
+.
+ . Tree length is 11.448591.
+.
+ . Tree length is 11.588574.
+.
+ . Tree length is 11.744743.
+.
+ . Tree length is 11.303318.
+.
+ . Tree length is 11.238449.
+.
+ . Tree length is 11.119766.
+.
+ . Tree length is 12.388900.
+.
+ . Tree length is 11.321857.
+.
+ . Tree length is 11.032169.
+.
+ . Tree length is 10.733583.
+.
+ . Tree length is 10.953386.
+.
+ . Tree length is 11.763301.
+.
+ . Tree length is 10.174451.
+.
+ . Tree length is 10.369421.
+.
+ . Tree length is 11.673525.
+.
+ . Tree length is 11.279190.
+.
+ . Tree length is 11.357366.
+.
+ . Tree length is 11.832034.
+.
+ . Tree length is 12.505437.
+] 960/1000
+  [.
+ . Tree length is 11.654120.
+.
+ . Tree length is 11.212345.
+.
+ . Tree length is 11.453095.
+.
+ . Tree length is 11.577661.
+.
+ . Tree length is 11.463305.
+.
+ . Tree length is 10.487735.
+.
+ . Tree length is 12.162867.
+.
+ . Tree length is 11.518994.
+.
+ . Tree length is 10.687542.
+.
+ . Tree length is 10.890377.
+.
+ . Tree length is 11.774450.
+.
+ . Tree length is 10.512934.
+.
+ . Tree length is 10.033128.
+.
+ . Tree length is 11.502335.
+.
+ . Tree length is 11.463196.
+.
+ . Tree length is 11.707977.
+.
+ . Tree length is 10.224312.
+.
+ . Tree length is 11.212010.
+.
+ . Tree length is 10.953024.
+.
+ . Tree length is 11.777346.
+] 980/1000
+  [.
+ . Tree length is 11.674119.
+.
+ . Tree length is 11.938164.
+.
+ . Tree length is 11.037965.
+.
+ . Tree length is 10.206134.
+.
+ . Tree length is 11.491319.
+.
+ . Tree length is 11.070351.
+.
+ . Tree length is 11.547919.
+.
+ . Tree length is 11.130564.
+.
+ . Tree length is 11.501107.
+.
+ . Tree length is 12.170456.
+.
+ . Tree length is 11.055049.
+.
+ . Tree length is 10.839302.
+.
+ . Tree length is 11.515339.
+.
+ . Tree length is 11.327063.
+.
+ . Tree length is 11.675582.
+.
+ . Tree length is 11.155595.
+.
+ . Tree length is 11.596998.
+.
+ . Tree length is 11.604983.
+.
+ . Tree length is 12.362508.
+.
+ . Tree length is 11.637250.
+] 1000/1000
+
+ . Time used 1h20m35s

@@ -30,6 +30,7 @@ process TCOFFEE_ALIGN_SEQ {
 
     script:
     """
+    export ALN_LINE_LENGTH=180
     t_coffee $seqfile
     """
 }
